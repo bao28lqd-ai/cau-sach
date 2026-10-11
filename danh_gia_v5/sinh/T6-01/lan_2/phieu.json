@@ -1,0 +1,93 @@
+{
+  "tieu_de": "Các phép tính với số tự nhiên",
+  "muc_tieu": [
+    "Thực hiện được cộng, trừ, nhân, chia các số tự nhiên.",
+    "Vận dụng tính giao hoán, kết hợp, phân phối của nhân để tính nhẩm nhanh.",
+    "Chọn phương pháp tính hợp lí để tìm kết quả đúng và nhanh."
+  ],
+  "kien_thuc_cot_loi": [
+    "Nhớ thứ tự thực hiện phép toán và tính đúng từng phép cộng, trừ, nhân, chia.",
+    "Tính giao hoán của nhân: a·b = b·a.",
+    "Tính kết hợp của nhân: (a·b)·c = a·(b·c).",
+    "Tính phân phối: a·(b + c) = a·b + a·c.",
+    "Vận dụng các tính chất trên để tách số, nhóm thừa số, hoặc chuyển về phép chia cho 10, 100..."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính 48 · 25 bằng cách tính nhẩm nhanh.",
+      "loi_giai": "Ta viết 25 = 100 : 4 nên 48 · 25 = 48 · (100 : 4) = (48 · 100) : 4 = 4 800 : 4 = 1 200."
+    },
+    {
+      "de_bai": "Tính 735 − 268.",
+      "loi_giai": "Thực hiện phép trừ theo hàng: 735 − 268 = 467."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-01.1"
+      ],
+      "de_bai": "Tính 246 + 379.",
+      "loi_giai": "Cộng từng hàng: 246 + 379 = 625.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "246+379",
+      "dap_an": "625"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-01.1"
+      ],
+      "de_bai": "Tính 805 − 479.",
+      "loi_giai": "Thực hiện phép trừ: 805 − 479 = 326.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "805-479",
+      "dap_an": "326"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-01.2"
+      ],
+      "de_bai": "Tính 27 · 36 bằng cách dùng tính phân phối để tính nhẩm.",
+      "loi_giai": "Viết 36 = 30 + 6 nên 27 · 36 = 27 · (30 + 6) = 27·30 + 27·6 = 810 + 162 = 972.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "27*36",
+      "dap_an": "972"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-01.1"
+      ],
+      "de_bai": "Một lớp có 48 học sinh. Chia đều thành các nhóm 6 bạn mỗi nhóm. Hỏi có bao nhiêu nhóm?",
+      "loi_giai": "Số nhóm = 48 : 6 = 8 nhóm.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "48/6",
+      "dap_an": "8"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-01.2"
+      ],
+      "de_bai": "Một bạn mua 5 quyển vở giá 12 500 đồng mỗi quyển và 5 cây bút giá 3 500 đồng mỗi cây. Hỏi bạn đó phải trả bao nhiêu đồng?",
+      "loi_giai": "Tổng tiền mỗi bộ vở + bút = 12 500 + 3 500 = 16 000 đồng. Nên tổng phải trả = 5 · 16 000 = 80 000 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "5*(12500+3500)",
+      "dap_an": "80000"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-01.2"
+      ],
+      "de_bai": "Tính 125 · 8 · 4 bằng cách tận dụng tính giao hoán, kết hợp để tính nhẩm nhanh.",
+      "loi_giai": "Nhóm 8·4 = 32 nên 125 · 8 · 4 = 125 · 32 = 4 000.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "125*8*4",
+      "dap_an": "4000"
+    }
+  ]
+}

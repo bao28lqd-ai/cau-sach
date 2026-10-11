@@ -1,0 +1,93 @@
+{
+  "tieu_de": "Các phép tính với phân số",
+  "muc_tieu": [
+    "Biết thực hiện cộng, trừ, nhân, chia hai phân số.",
+    "Tính giá trị phân số của một số và tìm số khi biết giá trị phân số của nó.",
+    "Rèn luyện trình bày phép tính phân số rõ ràng, hợp lí."
+  ],
+  "kien_thuc_cot_loi": [
+    "Quy đồng mẫu số để cộng, trừ phân số.",
+    "Rút gọn trước khi nhân phân số; nhân tử nối tử, mẫu nối mẫu.",
+    "Chia phân số bằng cách nhân với nghịch đảo của chia số.",
+    "Tính phần của một số: lấy số đó nhân với phân số.",
+    "Tìm số khi biết giá trị phân số: chia giá trị cho phân số (nhân với nghịch đảo)."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính 3/8 + 5/12.",
+      "loi_giai": "Quy đồng mẫu số: 3/8 = 9/24, 5/12 = 10/24. Tổng = 19/24. Kết quả: 19/24."
+    },
+    {
+      "de_bai": "Biết 1/4 số sách là 15 cuốn. Hỏi tổng số sách có bao nhiêu cuốn?",
+      "loi_giai": "Gọi tổng số sách là x. Ta có 1/4 · x = 15. Do đó x = 15 : (1/4) = 15 · 4 = 60. Kết quả: 60 cuốn."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-09.1"
+      ],
+      "de_bai": "Tính 3/4 + 1/8.",
+      "loi_giai": "Quy đồng mẫu số: 3/4 = 6/8. 6/8 + 1/8 = 7/8. Kết quả: 7/8.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "3/4+1/8",
+      "dap_an": "7/8"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-09.1"
+      ],
+      "de_bai": "Tính 5/6 - 1/3.",
+      "loi_giai": "1/3 = 2/6. 5/6 - 2/6 = 3/6 = 1/2. Kết quả: 1/2.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "5/6-1/3",
+      "dap_an": "1/2"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-09.1"
+      ],
+      "de_bai": "Tính 7/9 · 3/14.",
+      "loi_giai": "Nhân: (7·3)/(9·14). Rút gọn: 7 và 14 → 1 và 2; 3 và 9 → 1 và 3. Kết quả: 1/6.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "7/9*3/14",
+      "dap_an": "1/6"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-09.1"
+      ],
+      "de_bai": "Tính (2/5) : (4/15).",
+      "loi_giai": "Chia bằng cách nhân với nghịch đảo: (2/5) · (15/4) = 30/20 = 3/2. Kết quả: 3/2.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "(2/5)/(4/15)",
+      "dap_an": "3/2"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-09.2"
+      ],
+      "de_bai": "Một chiếc áo giá 150 000 đồng. Người ta trả trước 3/10 giá áo. Hỏi số tiền đã trả là bao nhiêu đồng?",
+      "loi_giai": "Số tiền trả = 150 000 · 3/10 = 45000 đồng. Kết quả: 45 000 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "150000*(3/10)",
+      "dap_an": "45000"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-09.2"
+      ],
+      "de_bai": "Cửa hàng bán 2/5 số bánh trong ngày và còn lại 60 chiếc. Hỏi cửa hàng có bao nhiêu chiếc bánh ban đầu?",
+      "loi_giai": "Sau khi bán còn lại là 3/5 tổng số = 60. Tổng số = 60 : (3/5) = 100. Kết quả: 100 chiếc.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "60/(3/5)",
+      "dap_an": "100"
+    }
+  ]
+}

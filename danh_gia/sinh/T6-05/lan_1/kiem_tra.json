@@ -1,0 +1,65 @@
+{
+  "lesson": "T6-05",
+  "model": "gpt-5-mini",
+  "prompt_version": "2026-10-07.3",
+  "cross_check": true,
+  "max_rounds": 2,
+  "calls": 2,
+  "input_tokens": 1523,
+  "output_tokens": 2296,
+  "seconds": 17.74,
+  "doc_lap": {
+    "B1": "ucln(12,18)",
+    "B2": "ucln(18,24,30)",
+    "B3": "ucln(14,49)",
+    "B4": "phan_so(18,24)",
+    "B5": "ucln(150,210)",
+    "B6": "ucln(150000,90000)"
+  },
+  "rounds": [
+    {
+      "summary": "6/6 bài tập đạt",
+      "passed": true,
+      "missing": [],
+      "structure_errors": [],
+      "items": [
+        {
+          "id": "B1",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B3",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B6",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

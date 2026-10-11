@@ -1,0 +1,94 @@
+{
+  "tieu_de": "Phép cộng và phép trừ số nguyên",
+  "muc_tieu": [
+    "Biết cộng hai số nguyên và thực hiện phép cộng.",
+    "Biết trừ hai số nguyên và thực hiện phép trừ.",
+    "Vận dụng tính chất giao hoán, kết hợp và quy tắc dùng dấu ngoặc để tính nhanh các tổng, hiệu."
+  ],
+  "kien_thuc_cot_loi": [
+    "Số nguyên là tập gồm số nguyên dương, 0 và số nguyên âm.",
+    "Cộng hai số cùng dấu: cộng giá trị tuyệt đối, giữ dấu chung.",
+    "Cộng hai số khác dấu: lấy hiệu của giá trị tuyệt đối, dấu của số có giá trị tuyệt đối lớn hơn.",
+    "Trừ số b là cộng với số đối của b: a - b = a + (-b).",
+    "Có thể dùng giao hoán, kết hợp và đặt dấu ngoặc để tính hợp lí các biểu thức gồm phép cộng và phép trừ."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính (-5) + 8.",
+      "loi_giai": "Ta có hai số khác dấu. Hiệu của giá trị tuyệt đối là 8 - 5 = 3. Vì 8 có giá trị tuyệt đối lớn hơn và dương, nên kết quả là 3. Vậy (-5) + 8 = 3."
+    },
+    {
+      "de_bai": "Tính 15 + (-8) + (-7) bằng cách nhóm cho nhanh.",
+      "loi_giai": "Nhóm 15 + (-7) trước được 8, rồi cộng (-8): 8 + (-8) = 0. Vậy 15 + (-8) + (-7) = 0."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-07.1"
+      ],
+      "de_bai": "Tính (-3) + 10.",
+      "loi_giai": "Hai số khác dấu; hiệu 10 - 3 = 7. Vì 10 dương nên kết quả dương: 7.",
+      "kieu": "gia_tri",
+      "bieu_thuc": " -3 + 10 ",
+      "dap_an": "7"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-07.1"
+      ],
+      "de_bai": "Tính 7 - (-4).",
+      "loi_giai": "Trừ một số âm là cộng số đối: 7 - (-4) = 7 + 4 = 11.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": " 7 - (-4) ",
+      "dap_an": "11"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-07.2"
+      ],
+      "de_bai": "Tính (-12) + 5 + 7 bằng cách đổi thứ tự để tính nhanh.",
+      "loi_giai": "Đổi thứ tự: 5 + 7 = 12, rồi (-12) + 12 = 0. Vậy giá trị bằng 0.",
+      "kieu": "gia_tri",
+      "bieu_thuc": " (-12) + 5 + 7 ",
+      "dap_an": "0"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-07.2"
+      ],
+      "de_bai": "Tính 20 + (-9) + (-11) bằng cách nhóm hợp lí.",
+      "loi_giai": "Nhóm (-9) + (-11) = -20, rồi 20 + (-20) = 0. Vậy kết quả 0.",
+      "kieu": "gia_tri",
+      "bieu_thuc": " 20 + (-9) + (-11) ",
+      "dap_an": "0"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-07.1"
+      ],
+      "de_bai": "Nhiệt độ buổi sáng là -2°C. Đến trưa tăng 5°C. Hỏi nhiệt độ lúc trưa là bao nhiêu độ?",
+      "loi_giai": "Tăng 5°C là cộng 5: -2 + 5 = 3. Vậy nhiệt độ lúc trưa là 3°C.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": " -2 + 5 ",
+      "dap_an": "3"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-07.1",
+        "T6-07.2"
+      ],
+      "de_bai": "Bạn mượn 150 000 đồng (số dư tài khoản -150 000). Sau đó bạn trả 80 000 đồng, rồi lại mượn thêm 20 000 đồng. Hỏi số dư cuối cùng là bao nhiêu đồng?",
+      "loi_giai": "Bắt đầu -150 000. Trả 80 000 là cộng 80 000: -150 000 + 80 000 = -70 000. Mượn thêm 20 000 là trừ thêm hay cộng (-20 000): -70 000 + (-20 000) = -90 000. Vậy số dư cuối cùng là -90 000 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": " -150000 + 80000 + (-20000) ",
+      "dap_an": "-90000"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "lesson": "T6-01",
+  "model": "gpt-5-mini",
+  "prompt_version": "2026-10-07.4",
+  "cross_check": true,
+  "max_rounds": 2,
+  "calls": 4,
+  "input_tokens": 2865,
+  "output_tokens": 2733,
+  "seconds": 29.12,
+  "doc_lap": {
+    "B1": "456+289",
+    "B2": "1200-368",
+    "B3": "27*40",
+    "B4": "75*8",
+    "B5": "2*(150000*8)/2-50000",
+    "B6": "96/8"
+  },
+  "doc_lai_tho": [
+    {
+      "hoi": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6"
+      ],
+      "tra_loi": [
+        {
+          "id": "B1",
+          "bieu_thuc": "456+289"
+        },
+        {
+          "id": "B2",
+          "bieu_thuc": "1200-368"
+        },
+        {
+          "id": "B3",
+          "bieu_thuc": "27*40"
+        },
+        {
+          "id": "B4",
+          "bieu_thuc": "75*8"
+        },
+        {
+          "id": "B5",
+          "bieu_thuc": "2*(150000*8)/2-50000"
+        },
+        {
+          "id": "B6",
+          "bieu_thuc": "NHIEU_Y"
+        }
+      ]
+    },
+    {
+      "hoi": [
+        "B6"
+      ],
+      "tra_loi": [
+        {
+          "id": "B6",
+          "bieu_thuc": "96/8"
+        }
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "summary": "5/6 bài tập đạt",
+      "passed": false,
+      "missing": [],
+      "structure_errors": [],
+      "items": [
+        {
+          "id": "B1",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B3",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B6",
+          "status": "loi_bieu_thuc",
+          "message": "bieu_thuc: không được phép: Tuple(elts=[BinOp(left=Constant(value=96), op=Div(), right=C",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "summary": "6/6 bài tập đạt",
+      "passed": true,
+      "missing": [],
+      "structure_errors": [],
+      "items": [
+        {
+          "id": "B1",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B3",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B6",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

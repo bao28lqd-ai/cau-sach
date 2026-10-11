@@ -1,0 +1,115 @@
+{
+  "tieu_de": "Thứ tự thực hiện các phép tính",
+  "muc_tieu": [
+    "Nhận biết và nêu đúng thứ tự thực hiện các phép tính trong biểu thức có dấu ngoặc, lũy thừa, nhân, chia, cộng, trừ.",
+    "Vận dụng thứ tự và các tính chất của phép nhân, chia, cộng, trừ và lũy thừa để tính nhanh giá trị biểu thức.",
+    "Thực hành giải các bài toán thực tế đơn giản bằng cách viết và tính biểu thức đúng thứ tự."
+  ],
+  "kien_thuc_cot_loi": [
+    "Thứ tự thực hiện: trước tiên tính biểu thức trong ngoặc đơn, sau đó tính lũy thừa, rồi nhân và chia theo thứ tự từ trái sang phải, cuối cùng cộng và trừ từ trái sang phải.",
+    "Quy tắc nhân chia trước, cộng trừ sau; khi có ngoặc thì ưu tiên tính trong ngoặc.",
+    "Tính chất lũy thừa: aⁿ·aᵐ = aⁿ⁺ᵐ và (aᵐ)ⁿ = aᵐ·ⁿ khi cần thiết để đơn giản biểu thức.",
+    "Khai triển nhân với tổng khi hợp lý: a·(b + c) = a·b + a·c để tính nhanh (chỉ dùng khi giúp đơn giản).",
+    "Luôn theo dõi thứ tự thực hiện trong các biểu thức phức tạp có nhiều dấu ngoặc và lũy thừa."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính giá trị biểu thức: 2 + 3·(4 + 1).",
+      "loi_giai": "Trong ngoặc 4 + 1 = 5; sau đó 3·5 = 15; cuối cùng 2 + 15 = 17. Vậy giá trị bằng 17."
+    },
+    {
+      "de_bai": "Tính 2³ + 6 : 2.",
+      "loi_giai": "Tính lũy thừa trước: 2³ = 8; rồi chia 6 : 2 = 3; sau cùng 8 + 3 = 11. Vậy giá trị bằng 11."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "Thực hiện phép tính theo thứ tự"
+      ],
+      "de_bai": "Tính giá trị biểu thức 5 + 4·3.",
+      "loi_giai": "Thực hiện phép nhân trước: 4·3 = 12; rồi cộng: 5 + 12 = 17.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "5 + 4*3",
+      "dap_an": "17"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "Thực hiện phép tính theo thứ tự"
+      ],
+      "de_bai": "Tính giá trị biểu thức 3·(2 + 5) - 4.",
+      "loi_giai": "Tính trong ngoặc trước: 2 + 5 = 7; nhân: 3·7 = 21; rồi trừ: 21 - 4 = 17.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "3*(2 + 5) - 4",
+      "dap_an": "17"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "Thực hiện phép tính theo thứ tự"
+      ],
+      "de_bai": "Tính giá trị biểu thức 2³·3 + 4 : 2.",
+      "loi_giai": "Tính lũy thừa trước: 2³ = 8; nhân: 8·3 = 24; phép chia 4 : 2 = 2; rồi cộng: 24 + 2 = 26.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "2**3*3 + 4/2",
+      "dap_an": "26"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "Nhận dạng một lũy thừa từ kết quả phép tính"
+      ],
+      "de_bai": "Tính giá trị biểu thức (2²)³ : 2⁴ và viết kết quả dưới dạng một lũy thừa của 2.",
+      "loi_giai": "Tính: (2²)³ = 4³ = 64 và 2⁴ = 16; chia: 64 : 16 = 4 = 2².",
+      "kieu": "mot_luy_thua",
+      "bieu_thuc": "(2**2)**3 / 2**4",
+      "dap_an": "2**2"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "Tính tiền phải trả sau khi giảm giá"
+      ],
+      "de_bai": "Một chiếc áo giá 150 000 đồng. Người ta mua 3 chiếc và được giảm 20 000 đồng cho cả đơn hàng. Hỏi người đó phải trả bao nhiêu đồng?",
+      "loi_giai": "Tiền trước giảm: 150 000·3 = 450 000 đồng; trừ giảm giá: 450 000 - 20 000 = 430 000 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "150000*3 - 20000",
+      "dap_an": "430000"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "Tính khối lượng còn lại sau khi bốc, dỡ"
+      ],
+      "de_bai": "Một thùng nước nặng 12 kg. Người ta xếp 5 thùng lên xe rồi bỏ xuống 2 thùng. Hỏi khối lượng nước còn trên xe theo kg?",
+      "loi_giai": "Số thùng còn trên xe: 5 - 2 = 3 thùng; khối lượng: 12·3 = 36 kg.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "12*5 - 12*2",
+      "dap_an": "36"
+    },
+    {
+      "id": "B7",
+      "yccd": [
+        "T6-03.1"
+      ],
+      "de_bai": "Tính giá trị biểu thức 5 + 3 · 2².",
+      "loi_giai": "Thứ tự: tính lũy thừa trước, rồi nhân, sau cùng cộng. 2² = 4; 3 · 4 = 12; 5 + 12 = 17.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "5+3*2**2",
+      "dap_an": "17"
+    },
+    {
+      "id": "B8",
+      "yccd": [
+        "T6-03.2"
+      ],
+      "de_bai": "Dùng tính chất của lũy thừa để tính nhanh 12² · 12³.",
+      "loi_giai": "Khi nhân hai lũy thừa cùng cơ số thì cộng số mũ: 12² · 12³ = 12^(2+3) = 12⁵. Tính 12⁵ = 248 832.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "12**2*12**3",
+      "dap_an": "248832"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "lesson": "T6-04",
+  "model": "gpt-5-mini",
+  "prompt_version": "2026-10-07.4",
+  "cross_check": true,
+  "max_rounds": 2,
+  "calls": 6,
+  "input_tokens": 4091,
+  "output_tokens": 3891,
+  "seconds": 34.86,
+  "doc_lap": {
+    "B1": "1",
+    "B2": "0",
+    "B3": "60",
+    "B4": "72",
+    "B5": "36",
+    "B6": "231",
+    "[B5]": "36"
+  },
+  "doc_lai_tho": [
+    {
+      "hoi": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6"
+      ],
+      "tra_loi": [
+        {
+          "id": "B1",
+          "bieu_thuc": "1"
+        },
+        {
+          "id": "B2",
+          "bieu_thuc": "0"
+        },
+        {
+          "id": "B3",
+          "bieu_thuc": "60"
+        },
+        {
+          "id": "B4",
+          "bieu_thuc": "72"
+        },
+        {
+          "id": "B5",
+          "bieu_thuc": "NHIEU_Y"
+        },
+        {
+          "id": "B6",
+          "bieu_thuc": "231"
+        }
+      ]
+    },
+    {
+      "hoi": [
+        "[B5]"
+      ],
+      "tra_loi": [
+        {
+          "id": "B5",
+          "bieu_thuc": "36"
+        }
+      ]
+    },
+    {
+      "hoi": [
+        "B5"
+      ],
+      "tra_loi": [
+        {
+          "id": "B5",
+          "bieu_thuc": "36"
+        }
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "summary": "5/6 bài tập đạt",
+      "passed": false,
+      "missing": [],
+      "structure_errors": [],
+      "items": [
+        {
+          "id": "B1",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B3",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "nhieu_y",
+          "message": "đề hỏi nhiều kết quả nhưng chỉ một đáp án được kiểm tra; viết lại thành một câu hỏi có đúng một đáp án",
+          "note": "đọc lại đề được: NHIEU_Y"
+        },
+        {
+          "id": "B6",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "summary": "6/7 bài tập đạt",
+      "passed": false,
+      "missing": [],
+      "structure_errors": [],
+      "items": [
+        {
+          "id": "B1",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B3",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "nhieu_y",
+          "message": "đề hỏi nhiều kết quả nhưng chỉ một đáp án được kiểm tra; viết lại thành một câu hỏi có đúng một đáp án",
+          "note": "đọc lại đề được: NHIEU_Y"
+        },
+        {
+          "id": "B6",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "[B5]",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "summary": "7/7 bài tập đạt",
+      "passed": true,
+      "missing": [],
+      "structure_errors": [],
+      "items": [
+        {
+          "id": "B1",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B3",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B6",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "[B5]",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

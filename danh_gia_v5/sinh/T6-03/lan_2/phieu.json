@@ -1,0 +1,96 @@
+{
+  "tieu_de": "Thứ tự thực hiện các phép tính",
+  "muc_tieu": [
+    "Biết thứ tự thực hiện các phép tính trong một biểu thức.",
+    "Vận dụng thứ tự và tính chất các phép toán để tính giá trị biểu thức.",
+    "Áp dụng quy tắc lũy thừa để rút gọn và tính nhanh biểu thức có lũy thừa."
+  ],
+  "kien_thuc_cot_loi": [
+    "Thứ tự: trong ngoặc trước, rồi lũy thừa, nhân và chia (theo thứ tự trái sang phải), cuối cùng cộng và trừ.",
+    "Nhân và chia cùng bậc, thực hiện theo thứ tự từ trái sang phải.",
+    "Cộng và trừ cùng bậc, thực hiện theo thứ tự từ trái sang phải.",
+    "Tính chất lũy thừa: a^m·a^n = a^(m+n).",
+    "Sử dụng làm tròn khi yêu cầu ghi kết quả tới chữ số cụ thể."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính giá trị biểu thức 3 + 5·2.",
+      "loi_giai": "Theo thứ tự, nhân trước: 5·2 = 10. Sau đó cộng: 3 + 10 = 13."
+    },
+    {
+      "de_bai": "Tính (2 + 3)·2³.",
+      "loi_giai": "Trong ngoặc: 2 + 3 = 5. Lũy thừa: 2³ = 8. Nhân: 5·8 = 40."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-03.1"
+      ],
+      "de_bai": "Tính giá trị của biểu thức 3 + 5·2.",
+      "loi_giai": "Thực hiện nhân trước: 5·2 = 10. Rồi cộng: 3 + 10 = 13.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "3+5*2",
+      "dap_an": "13"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-03.2"
+      ],
+      "de_bai": "Tính giá trị của (2 + 3)·2³.",
+      "loi_giai": "Trong ngoặc 2 + 3 = 5. Tính lũy thừa 2³ = 8. Nhân: 5·8 = 40.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "(2+3)*2**3",
+      "dap_an": "40"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-03.1",
+        "T6-03.2"
+      ],
+      "de_bai": "Tính giá trị của 18 : 3 + 4·2.",
+      "loi_giai": "Thực hiện chia: 18 : 3 = 6. Thực hiện nhân: 4·2 = 8. Rồi cộng: 6 + 8 = 14.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "18/3+4*2",
+      "dap_an": "14"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-03.2"
+      ],
+      "de_bai": "Rút gọn và tính 2³·2², rồi viết kết quả dưới dạng một lũy thừa.",
+      "loi_giai": "Dùng tính chất lũy thừa: 2³·2² = 2^(3+2) = 2^5. Giá trị là 2^5.",
+      "kieu": "mot_luy_thua",
+      "bieu_thuc": "2**3*2**2",
+      "dap_an": "2**5"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-03.1",
+        "T6-03.2"
+      ],
+      "de_bai": "Ba chiếc áo mỗi chiếc giá 150 000 đồng. Tổng tiền được giảm 10%. Hỏi phải trả bao nhiêu đồng?",
+      "loi_giai": "Tổng tiền trước giảm: 3·150 000 = 450 000. Giảm 10% nghĩa là nhân 0,9: 450 000·0,9 = 405 000 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "3*150000*(1-0.1)",
+      "dap_an": "405000"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-03.1",
+        "T6-03.2"
+      ],
+      "de_bai": "Một quyển sách nặng 0,75 kg. Bảy quyển như vậy. Làm tròn tổng khối lượng đến kg gần nhất.",
+      "loi_giai": "Tổng khối lượng thực: 0,75·7 = 5,25 kg. Làm tròn đến kg gần nhất: 5,25 ≈ 5 kg.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "lam_tron(0.75*7,0)",
+      "dap_an": "5"
+    }
+  ]
+}

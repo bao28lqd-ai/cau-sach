@@ -1,0 +1,177 @@
+{
+  "lesson": "T6-03",
+  "model": "gpt-5-mini",
+  "prompt_version": "2026-10-07.3",
+  "cross_check": true,
+  "max_rounds": 2,
+  "calls": 6,
+  "input_tokens": 4481,
+  "output_tokens": 5326,
+  "seconds": 48.22,
+  "doc_lap": {
+    "B1": "5 + 4*3",
+    "B2": "3*(2 + 5) - 4",
+    "B3": "2**3*3 + 4/2",
+    "B4": "(2**2)**3 / 2**4",
+    "B5": "150000*3 - 20000",
+    "B6": "12*(5 - 2)",
+    "B7": "5+3*2**2",
+    "B8": "12**(2+3)"
+  },
+  "rounds": [
+    {
+      "summary": "0/6 bài tập đạt; thiếu bài cho T6-03.1, T6-03.2",
+      "passed": false,
+      "missing": [
+        "T6-03.1",
+        "T6-03.2"
+      ],
+      "structure_errors": [],
+      "items": [
+        {
+          "id": "B1",
+          "status": "chua_doi_chieu",
+          "message": "bước đọc lại đề không trả kết quả cho bài này",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "chua_doi_chieu",
+          "message": "bước đọc lại đề không trả kết quả cho bài này",
+          "note": ""
+        },
+        {
+          "id": "B3",
+          "status": "chua_doi_chieu",
+          "message": "bước đọc lại đề không trả kết quả cho bài này",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "chua_doi_chieu",
+          "message": "bước đọc lại đề không trả kết quả cho bài này",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "chua_doi_chieu",
+          "message": "bước đọc lại đề không trả kết quả cho bài này",
+          "note": ""
+        },
+        {
+          "id": "B6",
+          "status": "chua_doi_chieu",
+          "message": "bước đọc lại đề không trả kết quả cho bài này",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "summary": "6/6 bài tập đạt; thiếu bài cho T6-03.1, T6-03.2; mã yêu cầu cần đạt không tồn tại: Nhận dạng một lũy thừa từ kết quả phép tính, Thực hiện phép tính theo thứ tự, Tính khối lượng còn lại sau khi bốc, dỡ, Tính tiền phải trả sau khi giảm giá",
+      "passed": false,
+      "missing": [
+        "T6-03.1",
+        "T6-03.2"
+      ],
+      "structure_errors": [
+        "mã yêu cầu cần đạt không tồn tại: Nhận dạng một lũy thừa từ kết quả phép tính, Thực hiện phép tính theo thứ tự, Tính khối lượng còn lại sau khi bốc, dỡ, Tính tiền phải trả sau khi giảm giá"
+      ],
+      "items": [
+        {
+          "id": "B1",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B3",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B6",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "summary": "8/8 bài tập đạt; mã yêu cầu cần đạt không tồn tại: Nhận dạng một lũy thừa từ kết quả phép tính, Thực hiện phép tính theo thứ tự, Tính khối lượng còn lại sau khi bốc, dỡ, Tính tiền phải trả sau khi giảm giá",
+      "passed": false,
+      "missing": [],
+      "structure_errors": [
+        "mã yêu cầu cần đạt không tồn tại: Nhận dạng một lũy thừa từ kết quả phép tính, Thực hiện phép tính theo thứ tự, Tính khối lượng còn lại sau khi bốc, dỡ, Tính tiền phải trả sau khi giảm giá"
+      ],
+      "items": [
+        {
+          "id": "B1",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B3",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B6",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B7",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B8",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

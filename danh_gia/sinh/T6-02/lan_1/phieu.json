@@ -1,0 +1,94 @@
+{
+  "tieu_de": "Lũy thừa với số mũ tự nhiên",
+  "muc_tieu": [
+    "Biết nghĩa của lũy thừa a^n khi n là số mũ tự nhiên.",
+    "Tính được giá trị lũy thừa a^n với a, n cho trước.",
+    "Thực hiện phép nhân và phép chia hai lũy thừa cùng cơ số bằng cách cộng hoặc trừ số mũ."
+  ],
+  "kien_thuc_cot_loi": [
+    "Định nghĩa lũy thừa: a^n = a·a·...·a (n thừa số); a^0 = 1.",
+    "Qui tắc nhân: a^m · a^n = a^(m+n).",
+    "Qui tắc chia: a^m : a^n = a^(m-n) nếu m≥n.",
+    "Áp dụng qui tắc trên để rút gọn biểu thức và tính nhanh.",
+    "Phân biệt khi trả về kết quả dạng số nguyên, lũy thừa hay tích các số."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính 2³ và 2³ · 2².",
+      "loi_giai": "2³ = 2·2·2 = 8. Với 2³ · 2², cùng cơ số 2 nên cộng số mũ: 2³ · 2² = 2^(3+2) = 2⁵ = 32."
+    },
+    {
+      "de_bai": "Tính 5⁶ : 5².",
+      "loi_giai": "Hai lũy thừa cùng cơ số 5, trừ số mũ: 5⁶ : 5² = 5^(6-2) = 5⁴ = 625."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-02.1"
+      ],
+      "de_bai": "Tính giá trị của 7².",
+      "loi_giai": "7² = 7·7 = 49.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "7**2",
+      "dap_an": "49"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-02.1"
+      ],
+      "de_bai": "Tính 3⁴.",
+      "loi_giai": "3⁴ = 3·3·3·3 = 81.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "3**4",
+      "dap_an": "81"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-02.2"
+      ],
+      "de_bai": "Tính 2³ · 2⁴ và viết kết quả dưới dạng một lũy thừa.",
+      "loi_giai": "Cùng cơ số 2 nên cộng số mũ: 2³ · 2⁴ = 2^(3+4) = 2⁷.",
+      "kieu": "mot_luy_thua",
+      "bieu_thuc": "2**3 * 2**4",
+      "dap_an": "2**7"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-02.2"
+      ],
+      "de_bai": "Tính 5⁶ : 5².",
+      "loi_giai": "Trừ số mũ: 5⁶ : 5² = 5^(6-2) = 5⁴ = 625.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "5**6 / 5**2",
+      "dap_an": "625"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-02.1",
+        "T6-02.2"
+      ],
+      "de_bai": "Một hộp có 2³ gói bánh; mỗi gói có 3 chiếc bánh. Hỏi cả hộp có bao nhiêu chiếc bánh?",
+      "loi_giai": "Số gói trong hộp là 2³ = 8 gói; mỗi gói 3 chiếc, nên tổng là 8·3 = 24 chiếc.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "(2**3)*3",
+      "dap_an": "24"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-02.2"
+      ],
+      "de_bai": "Tính (3⁵ · 3²) : 3⁴ và viết kết quả dưới dạng một lũy thừa.",
+      "loi_giai": "Nhân hai lũy thừa rồi chia: 3⁵ · 3² = 3^(5+2) = 3⁷; rồi 3⁷ : 3⁴ = 3^(7-4) = 3³.",
+      "kieu": "mot_luy_thua",
+      "bieu_thuc": "(3**5 * 3**2)/3**4",
+      "dap_an": "3**3"
+    }
+  ]
+}

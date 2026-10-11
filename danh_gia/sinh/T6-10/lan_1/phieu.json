@@ -1,0 +1,95 @@
+{
+  "tieu_de": "Số thập phân, làm tròn và tỉ số phần trăm",
+  "muc_tieu": [
+    "Thực hiện phép cộng, trừ, nhân, chia với số thập phân đúng và trình bày gọn.",
+    "Làm tròn số thập phân đến hàng cho trước và nêu được kết quả sau khi làm tròn.",
+    "Tính tỉ số và tỉ số phần trăm của hai số, diễn đạt kết quả bằng số phần trăm."
+  ],
+  "kien_thuc_cot_loi": [
+    "Cách căn lề chữ số thập phân khi cộng, trừ và đặt dấu phẩy cho đúng.",
+    "Quy tắc nhân và chia số thập phân (đếm chữ số thập phân, đặt lại dấu phẩy).",
+    "Quy tắc làm tròn: nhìn chữ số tiếp theo, làm tròn lên hoặc giữ nguyên.",
+    "Tỉ số a : b và cách chuyển tỉ số thành phần trăm bằng nhân 100.",
+    "Vận dụng phép tính thập phân và làm tròn trong tình huống thực tế (tiền, khối lượng)."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính 3,5 + 2,75 và viết kết quả.",
+      "loi_giai": "Đặt dọc theo dấu phẩy: 3,50 + 2,75 = 6,25. Kết quả là 6,25."
+    },
+    {
+      "de_bai": "Một áo giá 150 000 đồng giảm 20%. Tính số tiền giảm.",
+      "loi_giai": "Số tiền giảm = 150 000 · 20% = 150 000 · 20 : 100 = 150 000 · 0,2 = 30 000 đồng."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-10.1"
+      ],
+      "de_bai": "Tính 8,25 + 1,4.",
+      "loi_giai": "Đặt dọc theo dấu phẩy: 8,25 + 1,40 = 9,65. Kết quả là 9,65.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "8.25+1.4",
+      "dap_an": "9.65"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-10.1"
+      ],
+      "de_bai": "Tính 7,5 : 2,5.",
+      "loi_giai": "7,5 : 2,5 = 3 vì 7,5 = 2,5 · 3. Kết quả là 3.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "7.5/2.5",
+      "dap_an": "3"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-10.2"
+      ],
+      "de_bai": "Làm tròn 3,276 đến một chữ số thập phân.",
+      "loi_giai": "Chữ số thứ hai sau dấu phẩy là 7 nên làm tròn 3,276 thành 3,3 khi làm tròn đến một chữ số thập phân.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "lam_tron(3.276,1)",
+      "dap_an": "3.3"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-10.1",
+        "T6-10.3"
+      ],
+      "de_bai": "Một áo giá 150 000 đồng giảm 20%. Tính số tiền giảm (đồng).",
+      "loi_giai": "Số tiền giảm = 150 000 · 20 : 100 = 30 000 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "150000*20/100",
+      "dap_an": "30000"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-10.3"
+      ],
+      "de_bai": "Trong lớp có 12 bạn nam và 8 bạn nữ. Tính phần trăm số bạn nam trên cả lớp.",
+      "loi_giai": "Tổng số học sinh = 12 + 8 = 20. Phần trăm nam = 12 : 20 · 100 = 60%. Kết quả là 60.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "12/(12+8)*100",
+      "dap_an": "60"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-10.1",
+        "T6-10.2"
+      ],
+      "de_bai": "Chuối giá 28 750 đồng mỗi kg. Mua 2,6 kg, tính tổng tiền sau đó làm tròn số tiền đến hàng nghìn gần nhất (đồng).",
+      "loi_giai": "Tổng tiền chưa làm tròn = 28 750 · 2,6 = 74 750 đồng. Làm tròn đến hàng nghìn gần nhất cho 74 750 → 75 000 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "lam_tron(28750*2.6,-3)",
+      "dap_an": "75000"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "tieu_de": "Các phép tính với số tự nhiên",
+  "muc_tieu": [
+    "Thực hiện đúng phép cộng, trừ, nhân, chia trong tập hợp số tự nhiên.",
+    "Vận dụng tính chất giao hoán, kết hợp và phân phối của phép nhân để tính nhanh.",
+    "Chọn phương pháp tính hợp lí để làm bài chính xác và nhanh."
+  ],
+  "kien_thuc_cot_loi": [
+    "Phép cộng, phép trừ, phép nhân, phép chia với số tự nhiên; thứ tự thực hiện các phép tính.",
+    "Tính chất giao hoán của phép cộng và phép nhân: a + b = b + a, a·b = b·a.",
+    "Tính chất kết hợp của phép cộng và phép nhân: (a + b) + c = a + (b + c), (a·b)·c = a·(b·c).",
+    "Tính phân phối của phép nhân đối với phép cộng: a·(b + c) = a·b + a·c.",
+    "Kỹ thuật nhóm số và phân phối để tính nhẩm, ví dụ tách thừa số chung, ghép để dễ tính."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính nhanh 25 · 16 bằng cách dùng tính phân phối.",
+      "loi_giai": "25 · 16 = 25 · (10 + 6) = 25·10 + 25·6 = 250 + 150 = 400."
+    },
+    {
+      "de_bai": "Tính 48 : 6 + 15 · 2 bằng cách thực hiện theo thứ tự phép toán.",
+      "loi_giai": "48 : 6 + 15 · 2 = 8 + 30 = 38."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-01.1"
+      ],
+      "de_bai": "Tính 456 + 289.",
+      "loi_giai": "456 + 289 = 745.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "456+289",
+      "dap_an": "745"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-01.1"
+      ],
+      "de_bai": "Tính 1 200 - 368.",
+      "loi_giai": "1 200 - 368 = 832.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "1200-368",
+      "dap_an": "832"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-01.1",
+        "T6-01.2"
+      ],
+      "de_bai": "Tính nhanh 27 · 40 bằng cách dùng tính chất kết hợp hoặc nhân trực tiếp.",
+      "loi_giai": "27 · 40 = 27 · (4 · 10) = (27 · 4) · 10 = 108 · 10 = 1 080.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "27*40",
+      "dap_an": "1080"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-01.2"
+      ],
+      "de_bai": "Tính nhẩm 75 · 8 bằng cách tách thừa số cho dễ tính.",
+      "loi_giai": "75 · 8 = (75 · 2) · 4 = 150 · 4 = 600.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "75*8",
+      "dap_an": "600"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-01.1",
+        "T6-01.2"
+      ],
+      "de_bai": "Một cửa hàng bán áo giá 150 000 đồng/chiếc. Nếu một khách mua 8 chiếc và được giảm giá bằng cách tính 2·(150 000·8) : 2 - 50 000, hỏi khách đó phải trả bao nhiêu đồng?",
+      "loi_giai": "Tính tiền trước khi giảm: 150 000 · 8 = 1 200 000. Biểu thức cho biết giảm rồi trả: 2·(150 000·8) : 2 - 50 000 = (2·1 200 000) : 2 - 50 000 = 2 400 000 : 2 - 50 000 = 1 200 000 - 50 000 = 1 150 000 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "(150000*8*2)/2-50000",
+      "dap_an": "1150000"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-01.1"
+      ],
+      "de_bai": "Có 96 viên kẹo chia đều cho 8 bạn. Hỏi mỗi bạn được bao nhiêu viên?",
+      "loi_giai": "Chia đều 96 viên cho 8 bạn: 96 : 8 = 12. Vậy mỗi bạn được 12 viên kẹo.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "96/8",
+      "dap_an": "12"
+    }
+  ]
+}

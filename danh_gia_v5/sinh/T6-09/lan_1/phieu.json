@@ -1,0 +1,94 @@
+{
+  "tieu_de": "Các phép tính với phân số",
+  "muc_tieu": [
+    "Thực hiện được cộng, trừ, nhân, chia hai phân số.",
+    "Tính giá trị của một phân số của một số cho trước.",
+    "Tìm một số khi biết giá trị một phân số của số đó."
+  ],
+  "kien_thuc_cot_loi": [
+    "Quy đồng mẫu số để cộng, trừ phân số.",
+    "Nhân hai phân số: nhân tử với tử, mẫu với mẫu.",
+    "Chia phân số: nhân với nghịch đảo.",
+    "Tính một phân số của một số: nhân phân số với số đó.",
+    "Tìm số khi biết giá trị phân số: chia giá trị cho phân số (nhân với nghịch đảo)."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính 2/3 + 1/6.",
+      "loi_giai": "Quy đồng mẫu số: 2/3 = 4/6. 4/6 + 1/6 = 5/6. Đáp án 5/6."
+    },
+    {
+      "de_bai": "Biết 3/4 của một số là 45. Tìm số đó.",
+      "loi_giai": "Nếu x là số cần tìm thì 3/4 · x = 45. Vậy x = 45 : (3/4) = 45 · 4/3 = 60. Đáp án 60."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-09.1"
+      ],
+      "de_bai": "Tính 3/5 + 2/15.",
+      "loi_giai": "Quy đồng mẫu số 15: 3/5 = 9/15. 9/15 + 2/15 = 11/15. Đáp án 11/15.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "(3/5)+(2/15)",
+      "dap_an": "11/15"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-09.1"
+      ],
+      "de_bai": "Tính 7/4 - 3/4.",
+      "loi_giai": "Cùng mẫu số: 7/4 - 3/4 = 4/4 = 1. Đáp án 1.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "(7/4)-(3/4)",
+      "dap_an": "1"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-09.1"
+      ],
+      "de_bai": "Tính 5/8 · 2/3.",
+      "loi_giai": "Nhân: 5·2 = 10, 8·3 = 24. Rút gọn 10/24 = 5/12. Đáp án 5/12.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "(5/8)*(2/3)",
+      "dap_an": "5/12"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-09.2"
+      ],
+      "de_bai": "Một số được biết 2/5 của nó bằng 28. Tìm số đó.",
+      "loi_giai": "Gọi x là số cần tìm. 2/5 · x = 28. Vậy x = 28 : (2/5) = 28 · 5/2 = 70. Đáp án 70.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "28/(2/5)",
+      "dap_an": "70"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-09.2",
+        "T6-09.1"
+      ],
+      "de_bai": "Một chiếc áo giá 150 000 đồng. Người mua trả 3/4 giá áo. Hỏi người đó đã trả bao nhiêu đồng?",
+      "loi_giai": "Số tiền trả = 150 000 · 3/4 = 112 500 đồng. Đáp án 112500.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "150000*(3/4)",
+      "dap_an": "112500"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-09.2"
+      ],
+      "de_bai": "Trong một lớp, 3/8 số học sinh là nữ. Biết có 15 nữ. Hỏi lớp có bao nhiêu học sinh?",
+      "loi_giai": "Gọi tổng số là x. 3/8 · x = 15. Vậy x = 15 : (3/8) = 15 · 8/3 = 40. Đáp án 40.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "15/(3/8)",
+      "dap_an": "40"
+    }
+  ]
+}

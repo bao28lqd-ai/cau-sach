@@ -1,0 +1,337 @@
+lesson,run,id,loai_loi,kieu,doc_lai,trang_thai
+T6-01,lan_1,B1,goc,so_nguyen,456+289,dat
+T6-01,lan_1,B1,them_cau_hoi,so_nguyen,NHIEU_Y,nhieu_y
+T6-01,lan_1,B1,doi_so_trong_de,so_nguyen,457+289,khong_khop_de
+T6-01,lan_1,B2,goc,so_nguyen,1200-368,dat
+T6-01,lan_1,B2,them_cau_hoi,so_nguyen,NHIEU_Y,nhieu_y
+T6-01,lan_1,B3,goc,so_nguyen,27*40,dat
+T6-01,lan_1,B3,them_cau_hoi,so_nguyen,NHIEU_Y,nhieu_y
+T6-01,lan_1,B3,doi_so_trong_de,so_nguyen,28*40,khong_khop_de
+T6-01,lan_1,B4,goc,so_nguyen,75*8,dat
+T6-01,lan_1,B4,them_cau_hoi,so_nguyen,NHIEU_Y,nhieu_y
+T6-01,lan_1,B4,doi_so_trong_de,so_nguyen,76*8,khong_khop_de
+T6-01,lan_1,B5,goc,so_nguyen,150000*8-((2*(150000*8))/2-50000),khong_khop_de
+T6-01,lan_1,B5,them_cau_hoi,so_nguyen,NHIEU_Y,nhieu_y
+T6-01,lan_1,B6,goc,gia_tri,96/8,dat
+T6-01,lan_1,B6,them_cau_hoi,gia_tri,NHIEU_Y,nhieu_y
+T6-01,lan_1,B6,doi_so_trong_de,gia_tri,97/8,khong_khop_de
+T6-01,lan_2,B1,goc,gia_tri,246+379,dat
+T6-01,lan_2,B1,them_cau_hoi,gia_tri,246+379+10,khong_khop_de
+T6-01,lan_2,B1,doi_so_trong_de,gia_tri,247+379,khong_khop_de
+T6-01,lan_2,B2,goc,gia_tri,805-479,dat
+T6-01,lan_2,B2,them_cau_hoi,gia_tri,805-479+10,khong_khop_de
+T6-01,lan_2,B2,doi_so_trong_de,gia_tri,806-479,khong_khop_de
+T6-01,lan_2,B3,goc,gia_tri,27*36,dat
+T6-01,lan_2,B3,them_cau_hoi,gia_tri,27*36+10,khong_khop_de
+T6-01,lan_2,B3,doi_so_trong_de,gia_tri,28*36,khong_khop_de
+T6-01,lan_2,B4,goc,so_nguyen,48/6,dat
+T6-01,lan_2,B4,them_cau_hoi,so_nguyen,48/6+10,khong_khop_de
+T6-01,lan_2,B4,doi_so_trong_de,so_nguyen,49/6,khong_khop_de
+T6-01,lan_2,B5,goc,so_nguyen,5*12500+5*3500,dat
+T6-01,lan_2,B5,them_cau_hoi,so_nguyen,5*12500+5*3500+10,khong_khop_de
+T6-01,lan_2,B6,goc,gia_tri,125*8*4,dat
+T6-01,lan_2,B6,them_cau_hoi,gia_tri,125*8*4+10,khong_khop_de
+T6-01,lan_2,B6,doi_so_trong_de,gia_tri,125*8*5,khong_khop_de
+T6-02,lan_1,B1,goc,so_nguyen,3**3,dat
+T6-02,lan_1,B1,them_cau_hoi,so_nguyen,(3**3)+10,khong_khop_de
+T6-02,lan_1,B1,doi_so_trong_de,so_nguyen,4**3,khong_khop_de
+T6-02,lan_1,B2,goc,so_nguyen,2**4,dat
+T6-02,lan_1,B2,them_cau_hoi,so_nguyen,(2**4)+10,khong_khop_de
+T6-02,lan_1,B2,doi_so_trong_de,so_nguyen,3**4,khong_khop_de
+T6-02,lan_1,B3,goc,mot_luy_thua,3**6,dat
+T6-02,lan_1,B3,them_cau_hoi,mot_luy_thua,(3**6)+10,khong_khop_de
+T6-02,lan_1,B4,goc,so_nguyen,5**4,dat
+T6-02,lan_1,B4,them_cau_hoi,so_nguyen,(5**4)+10,khong_khop_de
+T6-02,lan_1,B5,goc,so_nguyen,2**6,dat
+T6-02,lan_1,B5,them_cau_hoi,so_nguyen,(2**6)+10,khong_khop_de
+T6-02,lan_1,B5,doi_so_trong_de,so_nguyen,2**7,khong_khop_de
+T6-02,lan_1,B6,goc,so_nguyen,5**3,dat
+T6-02,lan_1,B6,them_cau_hoi,so_nguyen,(5**3)+10,khong_khop_de
+T6-02,lan_1,B6,doi_so_trong_de,so_nguyen,6**3,khong_khop_de
+T6-02,lan_2,B1,goc,gia_tri,5**3,dat
+T6-02,lan_2,B1,them_cau_hoi,gia_tri,(5**3)+10,khong_khop_de
+T6-02,lan_2,B1,doi_so_trong_de,gia_tri,6**3,khong_khop_de
+T6-02,lan_2,B2,goc,mot_luy_thua,2**7,dat
+T6-02,lan_2,B2,them_cau_hoi,mot_luy_thua,(2**7)+10,khong_khop_de
+T6-02,lan_2,B2,doi_so_trong_de,mot_luy_thua,3**7,khong_khop_de
+T6-02,lan_2,B3,goc,gia_tri,3**4*3**2,dat
+T6-02,lan_2,B3,them_cau_hoi,gia_tri,(3**4*3**2)+10,khong_khop_de
+T6-02,lan_2,B4,goc,so_nguyen,10**6/10**3,dat
+T6-02,lan_2,B4,them_cau_hoi,so_nguyen,(10**6/10**3)+10,khong_khop_de
+T6-02,lan_2,B5,goc,so_nguyen,2**5*2**3,dat
+T6-02,lan_2,B5,them_cau_hoi,so_nguyen,(2**5*2**3)+10,khong_khop_de
+T6-02,lan_2,B6,goc,so_nguyen,15000*3**2,dat
+T6-02,lan_2,B6,them_cau_hoi,so_nguyen,(15000*3**2)+10,khong_khop_de
+T6-02,lan_2,B6,doi_so_trong_de,so_nguyen,15000*4**2,khong_khop_de
+T6-03,lan_1,B1,goc,so_nguyen,8 + 6 * 2,dat
+T6-03,lan_1,B1,them_cau_hoi,so_nguyen,(8 + 6 * 2) + 10,khong_khop_de
+T6-03,lan_1,B1,doi_so_trong_de,so_nguyen,9 + 6 * 2,khong_khop_de
+T6-03,lan_1,B2,goc,so_nguyen,(7 + 5) / 3 + 2 * 3,dat
+T6-03,lan_1,B2,them_cau_hoi,so_nguyen,((7 + 5) / 3 + 2 * 3) + 10,khong_khop_de
+T6-03,lan_1,B2,doi_so_trong_de,so_nguyen,(7 + 5) / 4 + 2 * 3,khong_khop_de
+T6-03,lan_1,B3,goc,so_nguyen,5 * (12 + 8),dat
+T6-03,lan_1,B3,them_cau_hoi,so_nguyen,5 * (12 + 8) + 10,khong_khop_de
+T6-03,lan_1,B3,doi_so_trong_de,so_nguyen,6 * (12 + 8),khong_khop_de
+T6-03,lan_1,B4,goc,gia_tri,2**3 + 3 * 2**2,dat
+T6-03,lan_1,B4,them_cau_hoi,gia_tri,(2**3 + 3 * 2**2) + 10,khong_khop_de
+T6-03,lan_1,B4,doi_so_trong_de,gia_tri,2**3 + 4 * 2**2,khong_khop_de
+T6-03,lan_1,B5,goc,so_nguyen,500000 - 3 * 150000,dat
+T6-03,lan_1,B5,them_cau_hoi,so_nguyen,(500000 - 3 * 150000) + 10,khong_khop_de
+T6-03,lan_1,B5,doi_so_trong_de,so_nguyen,500000 - 4 * 150000,khong_khop_de
+T6-03,lan_1,B6,goc,so_nguyen,(2 * 3 + 4) * 5 - 2**2 * (3 + 1),dat
+T6-03,lan_1,B6,them_cau_hoi,so_nguyen,((2 * 3 + 4) * 5 - 2**2 * (3 + 1)) + 10,khong_khop_de
+T6-03,lan_1,B6,doi_so_trong_de,so_nguyen,(2 * 3 + 4) * 6 - 2**2 * (3 + 1),khong_khop_de
+T6-03,lan_2,B1,goc,gia_tri,3+5*2,dat
+T6-03,lan_2,B1,them_cau_hoi,gia_tri,3+5*2+10,khong_khop_de
+T6-03,lan_2,B1,doi_so_trong_de,gia_tri,4+5*2,khong_khop_de
+T6-03,lan_2,B2,goc,gia_tri,(2+3)*2**3,dat
+T6-03,lan_2,B2,them_cau_hoi,gia_tri,(2+3)*2**3+10,khong_khop_de
+T6-03,lan_2,B2,doi_so_trong_de,gia_tri,(2+4)*2**3,khong_khop_de
+T6-03,lan_2,B3,goc,so_nguyen,18/3+4*2,dat
+T6-03,lan_2,B3,them_cau_hoi,so_nguyen,18/3+4*2+10,khong_khop_de
+T6-03,lan_2,B3,doi_so_trong_de,so_nguyen,19/3+4*2,khong_khop_de
+T6-03,lan_2,B4,goc,mot_luy_thua,2**5,dat
+T6-03,lan_2,B4,them_cau_hoi,mot_luy_thua,2**5+10,khong_khop_de
+T6-03,lan_2,B5,goc,so_nguyen,3*150000*0.9,dat
+T6-03,lan_2,B5,them_cau_hoi,so_nguyen,3*150000*0.9+10,khong_khop_de
+T6-03,lan_2,B6,goc,so_nguyen,"lam_tron(7*0.75,0)",dat
+T6-03,lan_2,B6,them_cau_hoi,so_nguyen,"lam_tron(7*0.75,0)+10",khong_khop_de
+T6-04,lan_1,B1,goc,so_nguyen,1,dat
+T6-04,lan_1,B1,them_cau_hoi,so_nguyen,NHIEU_Y,nhieu_y
+T6-04,lan_1,B2,goc,so_nguyen,0,dat
+T6-04,lan_1,B2,them_cau_hoi,so_nguyen,NHIEU_Y,nhieu_y
+T6-04,lan_1,B3,goc,phan_tich_nguyen_to,60,dat
+T6-04,lan_1,B3,them_cau_hoi,phan_tich_nguyen_to,NHIEU_Y,nhieu_y
+T6-04,lan_1,B3,doi_so_trong_de,phan_tich_nguyen_to,61,khong_khop_de
+T6-04,lan_1,B4,goc,phan_tich_nguyen_to,72,dat
+T6-04,lan_1,B4,them_cau_hoi,phan_tich_nguyen_to,NHIEU_Y,nhieu_y
+T6-04,lan_1,B4,doi_so_trong_de,phan_tich_nguyen_to,72,dat
+T6-04,lan_1,B5,goc,phan_tich_nguyen_to,,loi_doc_lai
+T6-04,lan_1,B5,them_cau_hoi,phan_tich_nguyen_to,,loi_doc_lai
+T6-04,lan_1,B5,doi_so_trong_de,phan_tich_nguyen_to,,loi_doc_lai
+T6-04,lan_1,B6,goc,phan_tich_nguyen_to,231,dat
+T6-04,lan_1,B6,them_cau_hoi,phan_tich_nguyen_to,NHIEU_Y,nhieu_y
+T6-04,lan_1,B6,doi_so_trong_de,phan_tich_nguyen_to,232,khong_khop_de
+T6-04,lan_1,[B5],goc,phan_tich_nguyen_to,36,dat
+T6-04,lan_1,[B5],them_cau_hoi,phan_tich_nguyen_to,NHIEU_Y,nhieu_y
+T6-04,lan_1,[B5],doi_so_trong_de,phan_tich_nguyen_to,37,khong_khop_de
+T6-04,lan_2,B1,goc,so_nguyen,1,dat
+T6-04,lan_2,B1,them_cau_hoi,so_nguyen,1+10,khong_khop_de
+T6-04,lan_2,B2,goc,so_nguyen,0,dat
+T6-04,lan_2,B2,them_cau_hoi,so_nguyen,0+10,khong_khop_de
+T6-04,lan_2,B3,goc,phan_tich_nguyen_to,60,dat
+T6-04,lan_2,B3,them_cau_hoi,phan_tich_nguyen_to,60+10,khong_khop_de
+T6-04,lan_2,B3,doi_so_trong_de,phan_tich_nguyen_to,61,khong_khop_de
+T6-04,lan_2,B4,goc,phan_tich_nguyen_to,231,dat
+T6-04,lan_2,B4,them_cau_hoi,phan_tich_nguyen_to,231+10,khong_khop_de
+T6-04,lan_2,B4,doi_so_trong_de,phan_tich_nguyen_to,232,khong_khop_de
+T6-04,lan_2,B5,goc,so_nguyen,5,dat
+T6-04,lan_2,B5,them_cau_hoi,so_nguyen,5+10,khong_khop_de
+T6-04,lan_2,B5,doi_so_trong_de,so_nguyen,151,khong_khop_de
+T6-04,lan_2,B6,goc,so_nguyen,7,dat
+T6-04,lan_2,B6,them_cau_hoi,so_nguyen,7+10,khong_khop_de
+T6-04,lan_2,B6,doi_so_trong_de,so_nguyen,211,khong_khop_de
+T6-05,lan_1,B1,goc,so_nguyen,"ucln(12,30)",dat
+T6-05,lan_1,B1,them_cau_hoi,so_nguyen,"ucln(12,30)+10",khong_khop_de
+T6-05,lan_1,B1,doi_so_trong_de,so_nguyen,"ucln(13,30)",khong_khop_de
+T6-05,lan_1,B2,goc,so_nguyen,"ucln(12,30,18)",dat
+T6-05,lan_1,B2,them_cau_hoi,so_nguyen,"ucln(12,30,18)+10",khong_khop_de
+T6-05,lan_1,B2,doi_so_trong_de,so_nguyen,"ucln(12,31,18)",khong_khop_de
+T6-05,lan_1,B3,goc,phan_so_toi_gian,"phan_so(14,21)",dat
+T6-05,lan_1,B3,them_cau_hoi,phan_so_toi_gian,"phan_so(14,21)+10",khong_khop_de
+T6-05,lan_1,B3,doi_so_trong_de,phan_so_toi_gian,"phan_so(15,21)",khong_khop_de
+T6-05,lan_1,B4,goc,so_nguyen,"ucln(150,210)",dat
+T6-05,lan_1,B4,them_cau_hoi,so_nguyen,"ucln(150,210)+10",khong_khop_de
+T6-05,lan_1,B4,doi_so_trong_de,so_nguyen,"ucln(151,210)",khong_khop_de
+T6-05,lan_1,B5,goc,so_nguyen,"ucln(45,60)",dat
+T6-05,lan_1,B5,them_cau_hoi,so_nguyen,"ucln(45,60)+10",khong_khop_de
+T6-05,lan_1,B5,doi_so_trong_de,so_nguyen,"ucln(46,60)",khong_khop_de
+T6-05,lan_1,B6,goc,phan_so_toi_gian,"phan_so(462,770)",dat
+T6-05,lan_1,B6,them_cau_hoi,phan_so_toi_gian,"phan_so(462,770)+10",khong_khop_de
+T6-05,lan_1,B6,doi_so_trong_de,phan_so_toi_gian,"phan_so(463,770)",khong_khop_de
+T6-05,lan_2,B1,goc,so_nguyen,"ucln(12, 18)",dat
+T6-05,lan_2,B1,them_cau_hoi,so_nguyen,"ucln(12, 18) + 10",khong_khop_de
+T6-05,lan_2,B1,doi_so_trong_de,so_nguyen,"ucln(13, 18)",khong_khop_de
+T6-05,lan_2,B2,goc,so_nguyen,"ucln(24, 36, 60)",dat
+T6-05,lan_2,B2,them_cau_hoi,so_nguyen,"ucln(24, 36, 60) + 10",khong_khop_de
+T6-05,lan_2,B2,doi_so_trong_de,so_nguyen,"ucln(24, 37, 60)",khong_khop_de
+T6-05,lan_2,B3,goc,phan_so_toi_gian,"phan_so(18, 24)",dat
+T6-05,lan_2,B3,them_cau_hoi,phan_so_toi_gian,"phan_so(18, 24) + 10",khong_khop_de
+T6-05,lan_2,B3,doi_so_trong_de,phan_so_toi_gian,"phan_so(19, 24)",khong_khop_de
+T6-05,lan_2,B4,goc,so_nguyen,"ucln(150, 210)",dat
+T6-05,lan_2,B4,them_cau_hoi,so_nguyen,"ucln(150, 210) + 10",khong_khop_de
+T6-05,lan_2,B4,doi_so_trong_de,so_nguyen,"ucln(151, 210)",khong_khop_de
+T6-05,lan_2,B5,goc,so_nguyen,"ucln(96, 160)",dat
+T6-05,lan_2,B5,them_cau_hoi,so_nguyen,"ucln(96, 160) + 10",khong_khop_de
+T6-05,lan_2,B5,doi_so_trong_de,so_nguyen,"ucln(97, 160)",khong_khop_de
+T6-05,lan_2,B6,goc,phan_so_toi_gian,"phan_so(210, 462)",dat
+T6-05,lan_2,B6,them_cau_hoi,phan_so_toi_gian,"phan_so(210, 462) + 10",khong_khop_de
+T6-05,lan_2,B6,doi_so_trong_de,phan_so_toi_gian,"phan_so(211, 462)",khong_khop_de
+T6-06,lan_1,B1,goc,so_nguyen,"bcnn(4,10)",dat
+T6-06,lan_1,B1,them_cau_hoi,so_nguyen,"bcnn(4,10)+10",khong_khop_de
+T6-06,lan_1,B1,doi_so_trong_de,so_nguyen,"bcnn(5,10)",khong_khop_de
+T6-06,lan_1,B2,goc,so_nguyen,"bcnn(8,12,15)",dat
+T6-06,lan_1,B2,them_cau_hoi,so_nguyen,"bcnn(8,12,15)+10",khong_khop_de
+T6-06,lan_1,B2,doi_so_trong_de,so_nguyen,"bcnn(8,13,15)",khong_khop_de
+T6-06,lan_1,B3,goc,phan_so_toi_gian,"(3*bcnn(4,6)/4+5*bcnn(4,6)/6)/bcnn(4,6)",dat
+T6-06,lan_1,B3,them_cau_hoi,phan_so_toi_gian,"(3*bcnn(4,6)/4+5*bcnn(4,6)/6)/bcnn(4,6)+10",khong_khop_de
+T6-06,lan_1,B3,doi_so_trong_de,phan_so_toi_gian,"(4*bcnn(4,6)/4+5*bcnn(4,6)/6)/bcnn(4,6)",khong_khop_de
+T6-06,lan_1,B4,goc,phan_so_toi_gian,"(7*bcnn(8,3)/8-1*bcnn(8,3)/3)/bcnn(8,3)",dat
+T6-06,lan_1,B4,them_cau_hoi,phan_so_toi_gian,"(7*bcnn(8,3)/8-1*bcnn(8,3)/3)/bcnn(8,3)+10",khong_khop_de
+T6-06,lan_1,B4,doi_so_trong_de,phan_so_toi_gian,"(8*bcnn(8,3)/8-1*bcnn(8,3)/3)/bcnn(8,3)",khong_khop_de
+T6-06,lan_1,B5,goc,so_nguyen,"bcnn(12,18)",dat
+T6-06,lan_1,B5,them_cau_hoi,so_nguyen,"bcnn(12,18)+10",khong_khop_de
+T6-06,lan_1,B5,doi_so_trong_de,so_nguyen,"bcnn(13,18)",khong_khop_de
+T6-06,lan_1,B6,goc,phan_so_toi_gian,2/3+1/4,dat
+T6-06,lan_1,B6,them_cau_hoi,phan_so_toi_gian,2/3+1/4+10,khong_khop_de
+T6-06,lan_1,B6,doi_so_trong_de,phan_so_toi_gian,3/3+1/4,khong_khop_de
+T6-06,lan_2,B1,goc,so_nguyen,"bcnn(6,8)",dat
+T6-06,lan_2,B1,them_cau_hoi,so_nguyen,"bcnn(6,8)+10",khong_khop_de
+T6-06,lan_2,B1,doi_so_trong_de,so_nguyen,"bcnn(7,8)",khong_khop_de
+T6-06,lan_2,B2,goc,so_nguyen,"bcnn(9,12,15)",dat
+T6-06,lan_2,B2,them_cau_hoi,so_nguyen,"bcnn(9,12,15)+10",khong_khop_de
+T6-06,lan_2,B2,doi_so_trong_de,so_nguyen,"bcnn(9,13,15)",khong_khop_de
+T6-06,lan_2,B3,goc,so_nguyen,"bcnn(3,4,6)",dat
+T6-06,lan_2,B3,them_cau_hoi,so_nguyen,"bcnn(3,4,6)+10",khong_khop_de
+T6-06,lan_2,B3,doi_so_trong_de,so_nguyen,"bcnn(3,5,6)",khong_khop_de
+T6-06,lan_2,B4,goc,phan_so_toi_gian,"phan_so(5,12)",dat
+T6-06,lan_2,B4,them_cau_hoi,phan_so_toi_gian,"phan_so(5,12)+10",khong_khop_de
+T6-06,lan_2,B5,goc,phan_so_toi_gian,"phan_so(7,24)",dat
+T6-06,lan_2,B5,them_cau_hoi,phan_so_toi_gian,"phan_so(7,24)+10",khong_khop_de
+T6-06,lan_2,B5,doi_so_trong_de,phan_so_toi_gian,"phan_so(3,8)",khong_khop_de
+T6-06,lan_2,B6,goc,so_nguyen,"bcnn(15,20)",dat
+T6-06,lan_2,B6,them_cau_hoi,so_nguyen,"bcnn(15,20)+10",khong_khop_de
+T6-06,lan_2,B6,doi_so_trong_de,so_nguyen,"bcnn(16,20)",khong_khop_de
+T6-07,lan_1,B1,goc,so_nguyen,-3+7,dat
+T6-07,lan_1,B1,them_cau_hoi,so_nguyen,(-3+7)+10,khong_khop_de
+T6-07,lan_1,B1,doi_so_trong_de,so_nguyen,-4+7,khong_khop_de
+T6-07,lan_1,B2,goc,so_nguyen,5-(-8),dat
+T6-07,lan_1,B2,them_cau_hoi,so_nguyen,(5-(-8))+10,khong_khop_de
+T6-07,lan_1,B2,doi_so_trong_de,so_nguyen,6-(-8),khong_khop_de
+T6-07,lan_1,B3,goc,so_nguyen,(-12+4)+9,dat
+T6-07,lan_1,B3,them_cau_hoi,so_nguyen,((-12+4)+9)+10,khong_khop_de
+T6-07,lan_1,B3,doi_so_trong_de,so_nguyen,(-12+4)+10,khong_khop_de
+T6-07,lan_1,B4,goc,so_nguyen,-7+(-2+9),dat
+T6-07,lan_1,B4,them_cau_hoi,so_nguyen,(-7+(-2+9))+10,khong_khop_de
+T6-07,lan_1,B4,doi_so_trong_de,so_nguyen,-8+(-2+9),khong_khop_de
+T6-07,lan_1,B5,goc,so_nguyen,30000-12000,dat
+T6-07,lan_1,B5,them_cau_hoi,so_nguyen,(30000-12000)+10,khong_khop_de
+T6-07,lan_1,B6,goc,so_nguyen,(-4+7)-3,dat
+T6-07,lan_1,B6,them_cau_hoi,so_nguyen,((-4+7)-3)+10,khong_khop_de
+T6-07,lan_1,B6,doi_so_trong_de,so_nguyen,(-4+7)-4,khong_khop_de
+T6-07,lan_2,B1,goc,gia_tri,(-3)+10,dat
+T6-07,lan_2,B1,them_cau_hoi,gia_tri,((-3)+10)+10,khong_khop_de
+T6-07,lan_2,B1,doi_so_trong_de,gia_tri,(-4)+10,khong_khop_de
+T6-07,lan_2,B2,goc,so_nguyen,7-(-4),dat
+T6-07,lan_2,B2,them_cau_hoi,so_nguyen,(7-(-4))+10,khong_khop_de
+T6-07,lan_2,B2,doi_so_trong_de,so_nguyen,8-(-4),khong_khop_de
+T6-07,lan_2,B3,goc,gia_tri,(-12)+5+7,dat
+T6-07,lan_2,B3,them_cau_hoi,gia_tri,((-12)+5+7)+10,khong_khop_de
+T6-07,lan_2,B3,doi_so_trong_de,gia_tri,(-12)+5+8,khong_khop_de
+T6-07,lan_2,B4,goc,gia_tri,20+(-9)+(-11),dat
+T6-07,lan_2,B4,them_cau_hoi,gia_tri,(20+(-9)+(-11))+10,khong_khop_de
+T6-07,lan_2,B4,doi_so_trong_de,gia_tri,21+(-9)+(-11),khong_khop_de
+T6-07,lan_2,B5,goc,so_nguyen,-2+5,dat
+T6-07,lan_2,B5,them_cau_hoi,so_nguyen,(-2+5)+10,khong_khop_de
+T6-07,lan_2,B5,doi_so_trong_de,so_nguyen,-2+6,khong_khop_de
+T6-07,lan_2,B6,goc,so_nguyen,-150000+80000-20000,dat
+T6-07,lan_2,B6,them_cau_hoi,so_nguyen,(-150000+80000-20000)+10,khong_khop_de
+T6-08,lan_1,B1,goc,so_nguyen,(-3)*7,dat
+T6-08,lan_1,B1,them_cau_hoi,so_nguyen,(-3)*7+10,khong_khop_de
+T6-08,lan_1,B1,doi_so_trong_de,so_nguyen,(-4)*7,khong_khop_de
+T6-08,lan_1,B2,goc,so_nguyen,48/6,dat
+T6-08,lan_1,B2,them_cau_hoi,so_nguyen,48/6+10,khong_khop_de
+T6-08,lan_1,B2,doi_so_trong_de,so_nguyen,49/6,khong_khop_de
+T6-08,lan_1,B3,goc,so_nguyen,12*(10+5),dat
+T6-08,lan_1,B3,them_cau_hoi,so_nguyen,12*(10+5)+10,khong_khop_de
+T6-08,lan_1,B3,doi_so_trong_de,so_nguyen,13*(10+5),khong_khop_de
+T6-08,lan_1,B4,goc,so_nguyen,150000*3,dat
+T6-08,lan_1,B4,them_cau_hoi,so_nguyen,150000*3+10,khong_khop_de
+T6-08,lan_1,B4,doi_so_trong_de,so_nguyen,150000*4,khong_khop_de
+T6-08,lan_1,B5,goc,so_nguyen,360/8,dat
+T6-08,lan_1,B5,them_cau_hoi,so_nguyen,360/8+10,khong_khop_de
+T6-08,lan_1,B5,doi_so_trong_de,so_nguyen,361/8,khong_khop_de
+T6-08,lan_1,B6,goc,so_nguyen,(-5)*(30-3),dat
+T6-08,lan_1,B6,them_cau_hoi,so_nguyen,(-5)*(30-3)+10,khong_khop_de
+T6-08,lan_1,B6,doi_so_trong_de,so_nguyen,(-6)*(30-3),khong_khop_de
+T6-08,lan_2,B1,goc,so_nguyen,(-3)*4,dat
+T6-08,lan_2,B1,them_cau_hoi,so_nguyen,(-3)*4+10,khong_khop_de
+T6-08,lan_2,B1,doi_so_trong_de,so_nguyen,(-4)*4,khong_khop_de
+T6-08,lan_2,B2,goc,so_nguyen,24/(-6),dat
+T6-08,lan_2,B2,them_cau_hoi,so_nguyen,24/(-6)+10,khong_khop_de
+T6-08,lan_2,B2,doi_so_trong_de,so_nguyen,25/(-6),khong_khop_de
+T6-08,lan_2,B3,goc,so_nguyen,(-2)*(15+5),dat
+T6-08,lan_2,B3,them_cau_hoi,so_nguyen,(-2)*(15+5)+10,khong_khop_de
+T6-08,lan_2,B3,doi_so_trong_de,so_nguyen,(-3)*(15+5),khong_khop_de
+T6-08,lan_2,B4,goc,so_nguyen,(-3)*5,dat
+T6-08,lan_2,B4,them_cau_hoi,so_nguyen,(-3)*5+10,khong_khop_de
+T6-08,lan_2,B4,doi_so_trong_de,so_nguyen,(-4)*5,khong_khop_de
+T6-08,lan_2,B5,goc,so_nguyen,1200000/8,dat
+T6-08,lan_2,B5,them_cau_hoi,so_nguyen,1200000/8+10,khong_khop_de
+T6-08,lan_2,B5,doi_so_trong_de,so_nguyen,1200000/9,khong_khop_de
+T6-08,lan_2,B6,goc,so_nguyen,37*24,dat
+T6-08,lan_2,B6,them_cau_hoi,so_nguyen,37*24+10,khong_khop_de
+T6-08,lan_2,B6,doi_so_trong_de,so_nguyen,38*24,khong_khop_de
+T6-09,lan_1,B1,goc,phan_so_toi_gian,3/5+2/15,dat
+T6-09,lan_1,B1,them_cau_hoi,phan_so_toi_gian,(3/5+2/15)+10,khong_khop_de
+T6-09,lan_1,B1,doi_so_trong_de,phan_so_toi_gian,4/5+2/15,khong_khop_de
+T6-09,lan_1,B2,goc,so_nguyen,7/4-3/4,dat
+T6-09,lan_1,B2,them_cau_hoi,so_nguyen,(7/4-3/4)+10,khong_khop_de
+T6-09,lan_1,B2,doi_so_trong_de,so_nguyen,8/4-3/4,khong_khop_de
+T6-09,lan_1,B3,goc,phan_so_toi_gian,5/8*2/3,dat
+T6-09,lan_1,B3,them_cau_hoi,phan_so_toi_gian,(5/8*2/3)+10,khong_khop_de
+T6-09,lan_1,B3,doi_so_trong_de,phan_so_toi_gian,6/8*2/3,khong_khop_de
+T6-09,lan_1,B4,goc,so_nguyen,28*5/2,dat
+T6-09,lan_1,B4,them_cau_hoi,so_nguyen,(28*5/2)+10,khong_khop_de
+T6-09,lan_1,B4,doi_so_trong_de,so_nguyen,28*5/3,khong_khop_de
+T6-09,lan_1,B5,goc,so_nguyen,150000*3/4,dat
+T6-09,lan_1,B5,them_cau_hoi,so_nguyen,(150000*3/4)+10,khong_khop_de
+T6-09,lan_1,B5,doi_so_trong_de,so_nguyen,150000*4/4,khong_khop_de
+T6-09,lan_1,B6,goc,so_nguyen,15*8/3,dat
+T6-09,lan_1,B6,them_cau_hoi,so_nguyen,(15*8/3)+10,khong_khop_de
+T6-09,lan_1,B6,doi_so_trong_de,so_nguyen,16*8/3,khong_khop_de
+T6-09,lan_2,B1,goc,phan_so_toi_gian,5/8+1/4,dat
+T6-09,lan_2,B1,them_cau_hoi,phan_so_toi_gian,NHIEU_Y,nhieu_y
+T6-09,lan_2,B1,doi_so_trong_de,phan_so_toi_gian,6/8+1/4,khong_khop_de
+T6-09,lan_2,B2,goc,phan_so_toi_gian,7/5-3/10,dat
+T6-09,lan_2,B2,them_cau_hoi,phan_so_toi_gian,NHIEU_Y,nhieu_y
+T6-09,lan_2,B2,doi_so_trong_de,phan_so_toi_gian,8/5-3/10,khong_khop_de
+T6-09,lan_2,B3,goc,so_nguyen,3/7*28,dat
+T6-09,lan_2,B3,them_cau_hoi,so_nguyen,NHIEU_Y,nhieu_y
+T6-09,lan_2,B3,doi_so_trong_de,so_nguyen,4/7*28,khong_khop_de
+T6-09,lan_2,B4,goc,phan_so_toi_gian,5/6/(2/9),dat
+T6-09,lan_2,B4,them_cau_hoi,phan_so_toi_gian,NHIEU_Y,nhieu_y
+T6-09,lan_2,B4,doi_so_trong_de,phan_so_toi_gian,6/6/(2/9),khong_khop_de
+T6-09,lan_2,B5,goc,so_nguyen,25000*3/4,dat
+T6-09,lan_2,B5,them_cau_hoi,so_nguyen,NHIEU_Y,nhieu_y
+T6-09,lan_2,B5,doi_so_trong_de,so_nguyen,25000*4/4,khong_khop_de
+T6-09,lan_2,B6,goc,so_nguyen,18/(3/5),dat
+T6-09,lan_2,B6,them_cau_hoi,so_nguyen,NHIEU_Y,nhieu_y
+T6-09,lan_2,B6,doi_so_trong_de,so_nguyen,19/(3/5),khong_khop_de
+T6-10,lan_1,B1,goc,gia_tri,7.25+3.6,dat
+T6-10,lan_1,B1,them_cau_hoi,gia_tri,(7.25+3.6)+10,khong_khop_de
+T6-10,lan_1,B2,goc,gia_tri,12.4*3,dat
+T6-10,lan_1,B2,them_cau_hoi,gia_tri,(12.4*3)+10,khong_khop_de
+T6-10,lan_1,B3,goc,so_nguyen,9.6/0.8,dat
+T6-10,lan_1,B3,them_cau_hoi,so_nguyen,(9.6/0.8)+10,khong_khop_de
+T6-10,lan_1,B4,goc,gia_tri,"lam_tron(154.678,1)",dat
+T6-10,lan_1,B4,them_cau_hoi,gia_tri,"lam_tron(154.678,1)+10",khong_khop_de
+T6-10,lan_1,B5,goc,so_nguyen,150000*12/100,dat
+T6-10,lan_1,B5,them_cau_hoi,so_nguyen,(150000*12/100)+10,khong_khop_de
+T6-10,lan_1,B5,doi_so_trong_de,so_nguyen,150000*13/100,khong_khop_de
+T6-10,lan_1,B6,goc,so_nguyen,"lam_tron(17*100/30,0)",dat
+T6-10,lan_1,B6,them_cau_hoi,so_nguyen,"lam_tron(17*100/30,0)+10",khong_khop_de
+T6-10,lan_1,B6,doi_so_trong_de,so_nguyen,"lam_tron(18*100/31,0)",khong_khop_de
+T6-10,lan_2,B1,goc,gia_tri,4.25+3.6,dat
+T6-10,lan_2,B1,them_cau_hoi,gia_tri,(4.25+3.6)+10,khong_khop_de
+T6-10,lan_2,B2,goc,gia_tri,5.4*0.8,dat
+T6-10,lan_2,B2,them_cau_hoi,gia_tri,(5.4*0.8)+10,khong_khop_de
+T6-10,lan_2,B3,goc,gia_tri,"lam_tron(7.386, 1)",dat
+T6-10,lan_2,B3,them_cau_hoi,gia_tri,"lam_tron(7.386, 1)+10",khong_khop_de
+T6-10,lan_2,B4,goc,gia_tri,15/60*100,dat
+T6-10,lan_2,B4,them_cau_hoi,gia_tri,(15/60*100)+10,khong_khop_de
+T6-10,lan_2,B5,goc,so_nguyen,"lam_tron(150000*(1-20/100), 0)",dat
+T6-10,lan_2,B5,them_cau_hoi,so_nguyen,"lam_tron(150000*(1-20/100), 0)+10",khong_khop_de
+T6-10,lan_2,B6,goc,gia_tri,"lam_tron(11/28*100, 1)",dat
+T6-10,lan_2,B6,them_cau_hoi,gia_tri,"lam_tron(11/28*100, 1)+10",khong_khop_de
+T6-10,lan_2,B6,doi_so_trong_de,gia_tri,"lam_tron(12/28*100, 1)",khong_khop_de

@@ -1,0 +1,95 @@
+{
+  "tieu_de": "Phép nhân và phép chia hết số nguyên",
+  "muc_tieu": [
+    "Biết quy tắc nhân và chia các số nguyên, xác định dấu của kết quả.",
+    "Thực hiện đúng phép nhân và phép chia hết trong tập hợp số nguyên.",
+    "Vận dụng tính chất giao hoán, kết hợp, phân phối của phép nhân để tính nhanh."
+  ],
+  "kien_thuc_cot_loi": [
+    "Quy tắc dấu khi nhân, chia hai số nguyên.",
+    "Phép nhân trong Z cho kết quả là số nguyên; phép chia hết cho kết quả là số nguyên.",
+    "Tính chất giao hoán và kết hợp của phép nhân.",
+    "Tính chất phân phối của phép nhân đối với phép cộng: a·(b+c)=a·b+a·c.",
+    "Cách sử dụng tính chất để tính nhẩm các tích và thương cụ thể."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính (-4)·(-5).",
+      "loi_giai": "Hai số âm nhân nhau cho kết quả dương. (-4)·(-5)=20."
+    },
+    {
+      "de_bai": "Tính (-36):9.",
+      "loi_giai": "Chia một số âm cho một số dương được một số âm. (-36):9=-4."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-08.1"
+      ],
+      "de_bai": "Tính (-3)·4.",
+      "loi_giai": "Một số âm nhân với số dương cho kết quả âm. (-3)·4=-12.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "(-3)*4",
+      "dap_an": "-12"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-08.1"
+      ],
+      "de_bai": "Tính 24:(-6).",
+      "loi_giai": "Một số dương chia cho số âm cho kết quả âm. 24:(-6)=-4.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "24/(-6)",
+      "dap_an": "-4"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-08.2"
+      ],
+      "de_bai": "Tính (-2)·(15+5) bằng cách dùng tính phân phối.",
+      "loi_giai": "Áp dụng phân phối: (-2)·(15+5)=(-2)·15+(-2)·5=-30+(-10)=-40.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "(-2)*(15+5)",
+      "dap_an": "-40"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-08.1",
+        "T6-08.2"
+      ],
+      "de_bai": "Nhiệt độ giảm 3°C mỗi giờ trong 5 giờ liên tiếp. Tổng thay đổi nhiệt độ sau 5 giờ là bao nhiêu độ?",
+      "loi_giai": "Mỗi giờ thay đổi -3°C, trong 5 giờ: (-3)·5=-15. Nhiệt độ giảm tổng cộng 15°C.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "(-3)*5",
+      "dap_an": "-15"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-08.1",
+        "T6-08.2"
+      ],
+      "de_bai": "Một cửa hàng bán 8 chiếc áo giống nhau, tổng tiền thu được là 1 200 000 đồng. Hỏi một chiếc áo giá bao nhiêu đồng?",
+      "loi_giai": "Chia đều: 1200000:8=150000. Mỗi chiếc áo giá 150 000 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "1200000/8",
+      "dap_an": "150000"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-08.2"
+      ],
+      "de_bai": "Tính 37·24 bằng cách tách thừa số để tính nhanh.",
+      "loi_giai": "Ta tính 37·24=(30+7)·24=30·24+7·24=720+168=888.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "37*24",
+      "dap_an": "888"
+    }
+  ]
+}

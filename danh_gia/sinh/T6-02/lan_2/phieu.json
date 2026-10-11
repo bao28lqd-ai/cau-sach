@@ -1,0 +1,93 @@
+{
+  "tieu_de": "Lũy thừa với số mũ tự nhiên",
+  "muc_tieu": [
+    "Biết nghĩa của lũy thừa a^n với n là số tự nhiên và viết được dưới dạng lũy thừa.",
+    "Tính được giá trị của lũy thừa có số mũ tự nhiên.",
+    "Thực hiện được phép nhân và phép chia hai lũy thừa cùng cơ số."
+  ],
+  "kien_thuc_cot_loi": [
+    "Định nghĩa: a^n là tích của n thừa số bằng a; đặc biệt a^1 = a.",
+    "Quy tắc nhân: a^m · a^n = a^(m+n) với a cố định, m,n là số tự nhiên.",
+    "Quy tắc chia: a^m : a^n = a^(m-n) nếu m ≥ n, với a khác 0.",
+    "Quy tắc lũy thừa của lũy thừa: (a^m)^n = a^(m·n).",
+    "Các phép toán chỉ dùng số nguyên và cho kết quả là số nguyên khi a, m, n là số nguyên hợp lệ."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính 2³.",
+      "loi_giai": "2³ = 2 · 2 · 2 = 8."
+    },
+    {
+      "de_bai": "Tính 3³ · 3².",
+      "loi_giai": "3³ · 3² = 3^(3+2) = 3^5 = 243."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-02.1"
+      ],
+      "de_bai": "Tính giá trị của 5³.",
+      "loi_giai": "5³ = 5 · 5 · 5 = 125.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "5**3",
+      "dap_an": "125"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-02.1"
+      ],
+      "de_bai": "Tính giá trị của 7².",
+      "loi_giai": "7² = 7 · 7 = 49.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "7**2",
+      "dap_an": "49"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-02.2"
+      ],
+      "de_bai": "Tính 2³ · 2² bằng một lũy thừa cơ số 2.",
+      "loi_giai": "2³ · 2² = 2^(3+2) = 2^5 = 32.",
+      "kieu": "mot_luy_thua",
+      "bieu_thuc": "2**3*2**2",
+      "dap_an": "2**5"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-02.2"
+      ],
+      "de_bai": "Một máy tạo 2³ sản phẩm mỗi phút. Hỏi trong 2² phút máy tạo được bao nhiêu sản phẩm?",
+      "loi_giai": "Sản phẩm mỗi phút là 2³. Trong 2² phút sản phẩm là 2³ · 2² = 2^(3+2) = 2^5 = 32 sản phẩm.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "2**3*2**2",
+      "dap_an": "32"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-02.2"
+      ],
+      "de_bai": "Một tài liệu có 2^5 trang. Mỗi tập in có 2^3 trang. Hỏi có thể chia ra được bao nhiêu tập đầy đủ?",
+      "loi_giai": "Số tập = 2^5 : 2^3 = 2^(5-3) = 2^2 = 4 tập.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "2**5/2**3",
+      "dap_an": "4"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-02.2"
+      ],
+      "de_bai": "Tính giá trị (2² · 2³) : 2⁴.",
+      "loi_giai": "(2² · 2³) : 2⁴ = 2^(2+3) : 2^4 = 2^(5-4) = 2^1 = 2.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "(2**2*2**3)/(2**4)",
+      "dap_an": "2"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "lesson": "T6-07",
+  "model": "gpt-5-mini",
+  "prompt_version": "2026-10-07.3",
+  "cross_check": true,
+  "max_rounds": 2,
+  "calls": 2,
+  "input_tokens": 1517,
+  "output_tokens": 1976,
+  "seconds": 17.89,
+  "doc_lap": {
+    "B1": "9 + (-4)",
+    "B2": "-15 - (-6)",
+    "B3": "(-7) + 5 + (-3)",
+    "B4": "12 + (-9) + (-3)",
+    "B5": "950000 + (-150000)",
+    "B6": "120000 + (-45000) + (-30000) + 15000"
+  },
+  "rounds": [
+    {
+      "summary": "6/6 bài tập đạt",
+      "passed": true,
+      "missing": [],
+      "structure_errors": [],
+      "items": [
+        {
+          "id": "B1",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B3",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B6",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

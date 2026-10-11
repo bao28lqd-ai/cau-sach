@@ -1,0 +1,158 @@
+{
+  "lesson": "T6-10",
+  "model": "gpt-5-mini",
+  "prompt_version": "2026-10-07.4",
+  "cross_check": true,
+  "max_rounds": 2,
+  "calls": 4,
+  "input_tokens": 2849,
+  "output_tokens": 2991,
+  "seconds": 24.95,
+  "doc_lap": {
+    "B1": "7.25+3.6",
+    "B2": "12.4*3",
+    "B3": "9.6/0.8",
+    "B4": "lam_tron(154.678,1)",
+    "B5": "150000*12/100",
+    "B6": "lam_tron(17/(17+13)*100,0)"
+  },
+  "doc_lai_tho": [
+    {
+      "hoi": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6"
+      ],
+      "tra_loi": [
+        {
+          "id": "B1",
+          "bieu_thuc": "7.25+3.6"
+        },
+        {
+          "id": "B2",
+          "bieu_thuc": "12.4*3"
+        },
+        {
+          "id": "B3",
+          "bieu_thuc": "9.6/0.8"
+        },
+        {
+          "id": "B4",
+          "bieu_thuc": "lam_tron(154.678,1)"
+        },
+        {
+          "id": "B5",
+          "bieu_thuc": "150000*12/100"
+        },
+        {
+          "id": "B6",
+          "bieu_thuc": "lam_tron(18/(18+12)*100,0)"
+        }
+      ]
+    },
+    {
+      "hoi": [
+        "B6"
+      ],
+      "tra_loi": [
+        {
+          "id": "B6",
+          "bieu_thuc": "lam_tron(17/(17+13)*100,0)"
+        }
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "summary": "5/6 bài tập đạt",
+      "passed": false,
+      "missing": [],
+      "structure_errors": [],
+      "items": [
+        {
+          "id": "B1",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B3",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B6",
+          "status": "lam_tron_vo_nghia",
+          "message": "lam_tron(18 / 30 * 100, 0) không làm thay đổi số; chọn số mà việc làm tròn thật sự thay đổi nó",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "summary": "6/6 bài tập đạt",
+      "passed": true,
+      "missing": [],
+      "structure_errors": [],
+      "items": [
+        {
+          "id": "B1",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B3",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B6",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

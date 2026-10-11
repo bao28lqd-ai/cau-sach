@@ -1,0 +1,111 @@
+{
+  "lesson": "T6-08",
+  "model": "gpt-5-mini",
+  "prompt_version": "2026-10-07.3",
+  "cross_check": true,
+  "max_rounds": 2,
+  "calls": 4,
+  "input_tokens": 2867,
+  "output_tokens": 2987,
+  "seconds": 27.72,
+  "doc_lap": {
+    "B1": "8*(-3)",
+    "B2": "-30/5",
+    "B3": "25*4+25*6",
+    "B4": "12*18",
+    "B5": "7*150000",
+    "B6": "90000/18000"
+  },
+  "rounds": [
+    {
+      "summary": "4/6 bài tập đạt",
+      "passed": false,
+      "missing": [],
+      "structure_errors": [],
+      "items": [
+        {
+          "id": "B1",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "nhieu_y",
+          "message": "đề hỏi nhiều kết quả nhưng chỉ một đáp án được kiểm tra; viết lại thành một câu hỏi có đúng một đáp án",
+          "note": "đọc lại đề được: NHIEU_Y"
+        },
+        {
+          "id": "B3",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B6",
+          "status": "nhieu_y",
+          "message": "đề hỏi nhiều kết quả nhưng chỉ một đáp án được kiểm tra; viết lại thành một câu hỏi có đúng một đáp án",
+          "note": "đọc lại đề được: NHIEU_Y"
+        }
+      ]
+    },
+    {
+      "summary": "6/6 bài tập đạt; mã yêu cầu cần đạt không tồn tại: chia_thuong",
+      "passed": false,
+      "missing": [],
+      "structure_errors": [
+        "mã yêu cầu cần đạt không tồn tại: chia_thuong"
+      ],
+      "items": [
+        {
+          "id": "B1",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B3",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B6",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

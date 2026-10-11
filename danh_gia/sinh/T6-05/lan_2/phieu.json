@@ -1,0 +1,95 @@
+{
+  "tieu_de": "Ước chung. Ước chung lớn nhất",
+  "muc_tieu": [
+    "Biết tìm ước của một số và ước chung của hai hoặc ba số tự nhiên.",
+    "Tìm ước chung lớn nhất (ƯCLN) của hai hoặc ba số tự nhiên.",
+    "Nhận biết phân số tối giản và rút gọn phân số bằng cách dùng ƯCLN."
+  ],
+  "kien_thuc_cot_loi": [
+    "Ước của một số tự nhiên là số tự nhiên chia hết cho số đó.",
+    "Ước chung của hai hay ba số là số vừa là ước của mỗi số đó.",
+    "Ước chung lớn nhất (ƯCLN) là ước chung lớn nhất trong các ước chung.",
+    "Có thể tìm ƯCLN bằng cách so sánh các ước hoặc bằng phương pháp phân tích thừa số nguyên tố.",
+    "Một phân số được gọi là tối giản khi tử và mẫu không có ước chung khác 1; để rút gọn phân số lấy ƯCLN của tử và mẫu rồi chia cả tử và mẫu cho ƯCLN."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tìm ƯCLN của 12 và 30.",
+      "loi_giai": "Các ước chung của 12 và 30 là 1, 2, 3, 6. Vậy ƯCLN = 6."
+    },
+    {
+      "de_bai": "Rút gọn phân số 36/48.",
+      "loi_giai": "ƯCLN của 36 và 48 là 12. Chia cả tử và mẫu cho 12: 36:12 = 3, 48:12 = 4. Phân số tối giản là 3/4."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-05.1"
+      ],
+      "de_bai": "Ước chung lớn nhất của 12 và 18 bằng bao nhiêu?",
+      "loi_giai": "Các ước của 12: 1, 2, 3, 4, 6, 12. Các ước của 18: 1, 2, 3, 6, 9, 18. Các ước chung: 1, 2, 3, 6. ƯCLN = 6.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "ucln(12,18)",
+      "dap_an": "6"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-05.1"
+      ],
+      "de_bai": "Ước chung lớn nhất của ba số 8, 12 và 20 là bao nhiêu?",
+      "loi_giai": "Các ước chung của 8, 12, 20 là 1, 2, 4. ƯCLN = 4.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "ucln(8,12,20)",
+      "dap_an": "4"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-05.2",
+        "T6-05.1"
+      ],
+      "de_bai": "Rút gọn phân số 18/24 về phân số tối giản.",
+      "loi_giai": "Tìm ƯCLN của 18 và 24 là 6. Chia tử và mẫu cho 6: 18:6 = 3, 24:6 = 4. Kết quả 3/4 là tối giản.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "phan_so(18,24)",
+      "dap_an": "3/4"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-05.1"
+      ],
+      "de_bai": "Một nhóm tình nguyện có 18 cờ đỏ và 30 cờ xanh. Họ muốn chia số cờ thành các gói giống nhau sao cho mỗi gói có cùng số cờ đỏ và cùng số cờ xanh, và số gói là lớn nhất. Hỏi có thể chia thành bao nhiêu gói?",
+      "loi_giai": "Số gói là ƯCLN của 18 và 30, ƯCLN = 6. Vậy chia được 6 gói.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "ucln(18,30)",
+      "dap_an": "6"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-05.2"
+      ],
+      "de_bai": "Một chiếc áo giá 150 000 đồng, một chiếc quần giá 45 000 đồng. Viết tỉ số giá áo so với giá quần dưới dạng phân số rồi rút gọn phân số đó.",
+      "loi_giai": "Tỉ số ban đầu là 150 000/45 000. ƯCLN của 150 000 và 45 000 là 15 000. Chia cả hai cho 15 000 được 10/3. Phân số tối giản là 10/3.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "phan_so(150000,45000)",
+      "dap_an": "10/3"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-05.2",
+        "T6-05.1"
+      ],
+      "de_bai": "Rút gọn phân số 84/126 về phân số tối giản.",
+      "loi_giai": "ƯCLN của 84 và 126 là 42. Chia tử và mẫu cho 42: 84:42 = 2, 126:42 = 3. Phân số tối giản là 2/3.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "phan_so(84,126)",
+      "dap_an": "2/3"
+    }
+  ]
+}

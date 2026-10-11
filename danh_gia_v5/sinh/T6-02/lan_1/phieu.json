@@ -1,0 +1,93 @@
+{
+  "tieu_de": "Lũy thừa với số mũ tự nhiên",
+  "muc_tieu": [
+    "Biết ý nghĩa của a^n khi n là số tự nhiên.",
+    "Tính được lũy thừa a^n với n là số tự nhiên.",
+    "Nhân và chia hai lũy thừa cùng cơ số bằng cách cộng hoặc trừ số mũ."
+  ],
+  "kien_thuc_cot_loi": [
+    "Định nghĩa: a^n là tích của n thừa số a (a^1 = a).",
+    "Quy tắc nhân: a^m · a^n = a^(m+n).",
+    "Quy tắc chia: a^m : a^n = a^(m-n) với m ≥ n.",
+    "Quy ước: a^0 = 1 nếu a ≠ 0.",
+    "Nhận biết khi kết quả biểu diễn dưới dạng một lũy thừa phù hợp."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính 2³ · 2⁴.",
+      "loi_giai": "Áp dụng quy tắc nhân: 2³ · 2⁴ = 2^(3+4) = 2⁷ = 128."
+    },
+    {
+      "de_bai": "Tính 5⁶ : 5³.",
+      "loi_giai": "Áp dụng quy tắc chia: 5⁶ : 5³ = 5^(6-3) = 5³ = 125."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-02.1"
+      ],
+      "de_bai": "Tính 3³.",
+      "loi_giai": "3³ = 3 · 3 · 3 = 27.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "3**3",
+      "dap_an": "27"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-02.1"
+      ],
+      "de_bai": "Tính 2⁴.",
+      "loi_giai": "2⁴ = 2 · 2 · 2 · 2 = 16.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "2**4",
+      "dap_an": "16"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-02.2"
+      ],
+      "de_bai": "Tính 3² · 3⁴ và biểu diễn kết quả dạng một lũy thừa.",
+      "loi_giai": "Nhân hai lũy thừa cùng cơ số: 3² · 3⁴ = 3^(2+4) = 3⁶.",
+      "kieu": "mot_luy_thua",
+      "bieu_thuc": "(3**2)*(3**4)",
+      "dap_an": "3**6"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-02.2"
+      ],
+      "de_bai": "Tính 5⁷ : 5³.",
+      "loi_giai": "Chia hai lũy thừa cùng cơ số: 5⁷ : 5³ = 5^(7-3) = 5⁴ = 625.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "(5**7)/(5**3)",
+      "dap_an": "625"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-02.1"
+      ],
+      "de_bai": "Một vi khuẩn nhân đôi mỗi giờ. Nếu ban đầu có 1 vi khuẩn thì sau 6 giờ có bao nhiêu vi khuẩn?",
+      "loi_giai": "Mỗi giờ số vi khuẩn nhân lên 2 lần: số sau 6 giờ là 2⁶ = 64 vi khuẩn.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "2**6",
+      "dap_an": "64"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-02.1"
+      ],
+      "de_bai": "Một hình lập phương được ghép từ các khối nhỏ. Mỗi cạnh của hình lập phương có 5 khối xếp liền nhau. Hỏi tổng số khối nhỏ có trong hình lập phương?",
+      "loi_giai": "Số khối là 5 · 5 · 5 = 5³ = 125 khối.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "5**3",
+      "dap_an": "125"
+    }
+  ]
+}

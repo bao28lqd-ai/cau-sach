@@ -1,0 +1,95 @@
+{
+  "tieu_de": "Lũy thừa với số mũ tự nhiên",
+  "muc_tieu": [
+    "Biết ký hiệu a^n và đọc được lũy thừa với cơ số và số mũ tự nhiên.",
+    "Tính được lũy thừa a^n khi a và n là số tự nhiên.",
+    "Áp dụng quy tắc nhân, chia hai lũy thừa cùng cơ số để rút gọn phép tính."
+  ],
+  "kien_thuc_cot_loi": [
+    "Định nghĩa: a^n là tích của n thừa số bằng a (n là số tự nhiên).",
+    "Quy tắc: a^m · a^n = a^(m+n).",
+    "Quy tắc: a^m : a^n = a^(m-n) khi m ≥ n.",
+    "Trường hợp a^0 = 1 (a ≠ 0) và quy ước với cơ số 1 và 0.",
+    "Áp dụng lũy thừa trong bài toán thực tế để tính tổng số đồ vật hoặc tiền."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính 4³.",
+      "loi_giai": "4³ là tích của ba thừa số 4: 4·4·4 = 16·4 = 64. Vậy 4³ = 64."
+    },
+    {
+      "de_bai": "Tính 5⁴ : 5².",
+      "loi_giai": "Theo quy tắc chia lũy thừa cùng cơ số: 5⁴ : 5² = 5^(4-2) = 5² = 25. Vậy kết quả là 25."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-02.1"
+      ],
+      "de_bai": "Tính 5³.",
+      "loi_giai": "5³ = 5·5·5 = 25·5 = 125. Vậy kết quả là 125.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "5**3",
+      "dap_an": "125"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-02.1"
+      ],
+      "de_bai": "Viết kết quả của 2⁷ dưới dạng một lũy thừa.",
+      "loi_giai": "2⁷ là một lũy thừa có cơ số 2 và số mũ 7. Viết nguyên như 2⁷.",
+      "kieu": "mot_luy_thua",
+      "bieu_thuc": "2**7",
+      "dap_an": "2**7"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-02.1",
+        "T6-02.2"
+      ],
+      "de_bai": "Tính 3⁴ · 3².",
+      "loi_giai": "Nhân hai lũy thừa cùng cơ số: 3⁴·3² = 3^(4+2) = 3⁶. Tính 3⁶ = 3·3·3·3·3·3 = 729. Vậy kết quả là 729.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "3**4*3**2",
+      "dap_an": "729"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-02.2"
+      ],
+      "de_bai": "Tính 10⁶ : 10³.",
+      "loi_giai": "Chia hai lũy thừa cùng cơ số: 10⁶ : 10³ = 10^(6-3) = 10³ = 1 000. Vậy kết quả là 1 000.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "10**6/10**3",
+      "dap_an": "1000"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-02.1",
+        "T6-02.2"
+      ],
+      "de_bai": "Một kho đóng gói mỗi hộp có 2⁵ sản phẩm. Có 2³ hộp. Hỏi có bao nhiêu sản phẩm tất cả?",
+      "loi_giai": "Số sản phẩm mỗi hộp là 2⁵. Có 2³ hộp. Tổng số sản phẩm là 2⁵·2³ = 2^(5+3) = 2⁸ = 256. Vậy có 256 sản phẩm.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "2**5*2**3",
+      "dap_an": "256"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-02.1"
+      ],
+      "de_bai": "Một quyển vở giá 15 000 đồng. Một bạn học mua 3² quyển vở. Hỏi bạn phải trả bao nhiêu tiền (đồng)?",
+      "loi_giai": "Số quyển vở mua là 3² = 9 quyển. Tổng tiền là 15 000 · 9 = 135 000 đồng. Vậy bạn phải trả 135 000 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "15000*3**2",
+      "dap_an": "135000"
+    }
+  ]
+}

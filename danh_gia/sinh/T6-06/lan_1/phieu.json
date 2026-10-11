@@ -1,0 +1,95 @@
+{
+  "tieu_de": "Bội chung. Bội chung nhỏ nhất",
+  "muc_tieu": [
+    "Biết định nghĩa bội chung và bội chung nhỏ nhất của hai hoặc ba số tự nhiên.",
+    "Tìm bội chung nhỏ nhất của hai hoặc ba số tự nhiên bằng cách phân tích thừa số hoặc dùng bội chung nhỏ nhất trực tiếp.",
+    "Quy đồng mẫu số bằng bội chung nhỏ nhất để thực hiện phép cộng, phép trừ phân số."
+  ],
+  "kien_thuc_cot_loi": [
+    "Bội của một số: tích của số đó với các số tự nhiên.",
+    "Bội chung của hai (hoặc ba) số: số là bội của cả hai (hoặc ba) số.",
+    "Bội chung nhỏ nhất (BCNN) là bội chung dương nhỏ nhất khác 0.",
+    "Tìm BCNN bằng phân tích thừa số nguyên tố hoặc bằng hàm bcnn(a,b, ...).",
+    "Quy đồng mẫu số: chọn mẫu số chung là BCNN rồi cộng hoặc trừ tử số tương ứng, sau đó nếu cần rút gọn phân số."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tìm bội chung nhỏ nhất của 8 và 12.",
+      "loi_giai": "Phân tích: 8 = 2³, 12 = 2²·3. Lấy các thừa số nguyên tố với số mũ lớn nhất: 2³·3 = 8·3 = 24. Vậy BCNN = 24."
+    },
+    {
+      "de_bai": "Tính 1/6 + 1/4 bằng cách quy đồng mẫu số với BCNN.",
+      "loi_giai": "Mẫu số 6 và 4 có BCNN = 12. Quy đồng: 1/6 = 2/12, 1/4 = 3/12. Tổng = (2+3)/12 = 5/12. Phân số tối giản."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-06.1"
+      ],
+      "de_bai": "Tìm bội chung nhỏ nhất của 6 và 8.",
+      "loi_giai": "Phân tích: 6 = 2·3, 8 = 2³. Lấy 2³·3 = 8·3 = 24. Vậy BCNN = 24.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "bcnn(6,8)",
+      "dap_an": "24"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-06.1"
+      ],
+      "de_bai": "Có hộp đóng 6 quả và hộp đóng 8 quả. Hỏi cần ít nhất bao nhiêu quả để có thể xếp vừa đúng một số nguyên hộp của cả hai loại?",
+      "loi_giai": "Ta tìm số quả nhỏ nhất chia hết cho cả 6 và 8, tức là BCNN(6,8) = 24. Vậy cần 24 quả.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "bcnn(6,8)",
+      "dap_an": "24"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-06.1"
+      ],
+      "de_bai": "Tìm bội chung nhỏ nhất của 9 và 12.",
+      "loi_giai": "Phân tích: 9 = 3², 12 = 2²·3. Lấy 2²·3² = 4·9 = 36. Vậy BCNN = 36.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "bcnn(9,12)",
+      "dap_an": "36"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-06.2",
+        "T6-06.1"
+      ],
+      "de_bai": "Tính 3/8 + 1/6 bằng cách quy đồng mẫu số với BCNN.",
+      "loi_giai": "Mẫu số 8 và 6 có BCNN = 24. Quy đồng: 3/8 = 9/24, 1/6 = 4/24. Tổng = (9+4)/24 = 13/24. Phân số đã là tối giản.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "3/8+1/6",
+      "dap_an": "13/24"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-06.2",
+        "T6-06.1"
+      ],
+      "de_bai": "Tính 7/15 - 1/6 bằng cách quy đồng mẫu số với BCNN.",
+      "loi_giai": "Mẫu số 15 và 6 có BCNN = 30. Quy đồng: 7/15 = 14/30, 1/6 = 5/30. Hiệu = (14-5)/30 = 9/30 = 3/10 sau khi rút gọn.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "7/15-1/6",
+      "dap_an": "3/10"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-06.1"
+      ],
+      "de_bai": "Hai xe buýt khởi hành cùng lúc. Một xe lặp lại sau mỗi 12 phút, xe kia lặp lại sau mỗi 18 phút. Hỏi sau bao nhiêu phút hai xe sẽ cùng đứng lại cùng lúc lần tiếp theo?",
+      "loi_giai": "Ta cần BCNN(12,18). 12 = 2²·3, 18 = 2·3², nên BCNN = 2²·3² = 4·9 = 36. Vậy sau 36 phút.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "bcnn(12,18)",
+      "dap_an": "36"
+    }
+  ]
+}

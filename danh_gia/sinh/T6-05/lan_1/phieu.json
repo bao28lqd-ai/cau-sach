@@ -1,0 +1,94 @@
+{
+  "tieu_de": "Ước chung. Ước chung lớn nhất",
+  "muc_tieu": [
+    "Biết thế nào là ước chung của hai hoặc ba số tự nhiên.",
+    "Tìm được ước chung lớn nhất (ƯCLN) của hai hoặc ba số tự nhiên.",
+    "Nhận biết phân số tối giản và rút gọn phân số bằng cách dùng ƯCLN."
+  ],
+  "kien_thuc_cot_loi": [
+    "Định nghĩa ước của một số tự nhiên; ước chung của hai hoặc ba số.",
+    "Cách tìm ƯCLN bằng phân tích thừa số nguyên tố hoặc bằng tìm UCLN (ucln).",
+    "Phân số tối giản: tử và mẫu không còn ước chung > 1.",
+    "Cách rút gọn phân số bằng cách chia tử và mẫu cho ƯCLN.",
+    "Vận dụng ƯCLN vào chia đều đồ vật, cắt dây, chia tiền thành nhóm bằng nhau."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tìm ƯCLN của 12 và 30.",
+      "loi_giai": "Ước chung của 12 và 30 là các số chia hết cả cho 12 và 30. Phân tích: 12 = 2²·3, 30 = 2·3·5 nên ƯCLN = 2·3 = 6."
+    },
+    {
+      "de_bai": "Rút gọn phân số 42/56.",
+      "loi_giai": "ƯCLN(42,56) = 14. Chia tử và mẫu cho 14: 42:14 = 3, 56:14 = 4. Vậy phân số tối giản là 3/4."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-05.1"
+      ],
+      "de_bai": "Tìm ước chung lớn nhất của 12 và 18.",
+      "loi_giai": "Phân tích: 12 = 2²·3, 18 = 2·3² nên ƯCLN = 2·3 = 6.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "ucln(12,18)",
+      "dap_an": "6"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-05.1"
+      ],
+      "de_bai": "Tìm ước chung lớn nhất của 18, 24 và 30.",
+      "loi_giai": "ƯCLN(18,24,30) = 6 vì 18 = 2·3², 24 = 2³·3, 30 = 2·3·5 nên lấy các thừa số chung nhỏ nhất: 2·3 = 6.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "ucln(18,24,30)",
+      "dap_an": "6"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-05.1"
+      ],
+      "de_bai": "Tìm ƯCLN của 14 và 49.",
+      "loi_giai": "49 = 7², 14 = 2·7 nên ƯCLN = 7.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "ucln(14,49)",
+      "dap_an": "7"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-05.2"
+      ],
+      "de_bai": "Rút gọn phân số 18/24 về phân số tối giản.",
+      "loi_giai": "ƯCLN(18,24) = 6. Chia cả tử và mẫu cho 6: 18:6 = 3, 24:6 = 4. Phân số tối giản là 3/4.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "phan_so(18,24)",
+      "dap_an": "3/4"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-05.1"
+      ],
+      "de_bai": "Có hai sợi dây dài 150 cm và 210 cm. Cắt chúng thành các đoạn dài bằng nhau (độ dài nguyên cm) sao cho mỗi đoạn dài nhất có thể. Hỏi mỗi đoạn dài bao nhiêu cm?",
+      "loi_giai": "Độ dài lớn nhất chia hết cả cho 150 và 210 là ƯCLN(150,210) = 30 cm. Vậy mỗi đoạn dài 30 cm.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "ucln(150,210)",
+      "dap_an": "30"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-05.1",
+        "T6-05.2"
+      ],
+      "de_bai": "Bạn và bạn thân có 150 000 đồng và 90 000 đồng. Muốn chia thành các phần bằng nhau, mỗi phần có giá trị lớn nhất có thể (số nguyên đồng). Hỏi mỗi phần bằng bao nhiêu đồng?",
+      "loi_giai": "Số tiền tối đa cho mỗi phần là ƯCLN(150000,90000) = 30000 đồng. Vậy mỗi phần 30 000 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "ucln(150000,90000)",
+      "dap_an": "30000"
+    }
+  ]
+}

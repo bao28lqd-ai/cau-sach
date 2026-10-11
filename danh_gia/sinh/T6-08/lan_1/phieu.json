@@ -1,0 +1,94 @@
+{
+  "tieu_de": "Phép nhân và phép chia hết số nguyên",
+  "muc_tieu": [
+    "Thực hiện được phép nhân hai số nguyên và phép chia hết trong tập hợp số nguyên.",
+    "Biết dùng tính chất giao hoán, kết hợp và phân phối của phép nhân để tính nhanh.",
+    "Nhận biết khi một phép chia trong số nguyên là phép chia hết (không dư)."
+  ],
+  "kien_thuc_cot_loi": [
+    "Nhân hai số nguyên: dấu của tích; quy tắc nhân số âm, số dương.",
+    "Chia hết trong số nguyên: a chia hết cho b khi tồn tại số nguyên q sao cho a = b·q.",
+    "Tính chất giao hoán và kết hợp của phép nhân để sắp xếp và nhóm nhân cho thuận tiện.",
+    "Tính chất phân phối: a·(b + c) = a·b + a·c và a·(b - c) = a·b - a·c.",
+    "Sử dụng phân tích thừa số nguyên tố đơn giản để kiểm tra chia hết."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính 6·(-4) và cho biết kết quả có chia hết cho 3 không?",
+      "loi_giai": "6·(-4) = -24. Vì -24 = 3·(-8) nên -24 chia hết cho 3."
+    },
+    {
+      "de_bai": "Tính 7·(12 - 5) bằng cách dùng tính phân phối.",
+      "loi_giai": "7·(12 - 5) = 7·12 - 7·5 = 84 - 35 = 49."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-08.1"
+      ],
+      "de_bai": "Tính 8·(-3).",
+      "loi_giai": "8·(-3) = -24.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "8*(-3)",
+      "dap_an": "-24"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "chia_thuong"
+      ],
+      "de_bai": "Tìm thương của phép tính -30 : 5.",
+      "loi_giai": "Chia -30 cho 5 được -6 vì 5 · (-6) = -30. Vậy thương là -6.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "-30/5",
+      "dap_an": "-6"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-08.1",
+        "T6-08.2"
+      ],
+      "de_bai": "Tính nhanh 25·(4 + 6) bằng cách dùng tính phân phối.",
+      "loi_giai": "25·(4 + 6) = 25·4 + 25·6 = 100 + 150 = 250.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "25*(4+6)",
+      "dap_an": "250"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-08.2"
+      ],
+      "de_bai": "Tính 12·18 bằng cách nhóm các thừa số cho thuận tiện.",
+      "loi_giai": "12·18 = (12·2)·9 = 24·9 = 216.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "12*18",
+      "dap_an": "216"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-08.1"
+      ],
+      "de_bai": "Một áo giá 150 000 đồng. Hỏi 7 chiếc áo có giá bao nhiêu đồng?",
+      "loi_giai": "7 chiếc áo giá 7·150 000 = 1 050 000 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "7*150000",
+      "dap_an": "1050000"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "chia_thuong"
+      ],
+      "de_bai": "Tính thương của 90 000 : 18 000.",
+      "loi_giai": "90 000 : 18 000 = 5 vì 18 000 · 5 = 90 000. Vậy thương là 5.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "90000/18000",
+      "dap_an": "5"
+    }
+  ]
+}

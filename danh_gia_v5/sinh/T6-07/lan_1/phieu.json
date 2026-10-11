@@ -1,0 +1,96 @@
+{
+  "tieu_de": "Phép cộng và phép trừ số nguyên",
+  "muc_tieu": [
+    "Thực hiện chính xác phép cộng, phép trừ các số nguyên.",
+    "Vận dụng tính giao hoán, kết hợp và quy tắc dấu ngoặc để tính nhanh.",
+    "Đọc và viết đúng kết quả dưới dạng số nguyên."
+  ],
+  "kien_thuc_cot_loi": [
+    "Số nguyên dương, số nguyên âm và số 0.",
+    "Quy tắc cộng và trừ số nguyên: dấu cùng thì cộng, khác dấu thì trừ và lấy dấu của số có trị tuyệt đối lớn hơn; trừ số bằng cộng số đối.",
+    "Tính chất giao hoán và kết hợp của phép cộng trong Z.",
+    "Cách bỏ dấu ngoặc bằng quy tắc phân phối dấu: a - (b + c) = a - b - c, a - (b - c) = a - b + c.",
+    "Biện luận thứ tự tính hợp lí để tính nhanh (ghép các số có tổng 0, hoặc nhóm các số cùng dấu)."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính -3 + 7 bằng cách dùng tính giao hoán.",
+      "loi_giai": "Đổi thứ tự: -3 + 7 = 7 + (-3). Vì 7 + (-3) = 4. Vậy kết quả là 4."
+    },
+    {
+      "de_bai": "Tính -7 + ( -2 + 9 ) bằng cách dùng tính kết hợp và bỏ ngoặc.",
+      "loi_giai": "Trước hết tính trong ngoặc: -2 + 9 = 7. Do đó -7 + ( -2 + 9 ) = -7 + 7 = 0."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-07.1"
+      ],
+      "de_bai": "Tính -3 + 7.",
+      "loi_giai": "Ta cộng -3 với 7. Vì 7 + (-3) = 4 nên -3 + 7 = 4.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "-3+7",
+      "dap_an": "4"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-07.1"
+      ],
+      "de_bai": "Tính 5 - ( -8 ).",
+      "loi_giai": "Trừ một số âm là cộng số đối: 5 - ( -8 ) = 5 + 8 = 13.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "5-(-8)",
+      "dap_an": "13"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-07.1",
+        "T6-07.2"
+      ],
+      "de_bai": "Tính -12 + 4 + 9 bằng cách nhóm số cho hợp lí.",
+      "loi_giai": "Nhóm 4 + 9 = 13, rồi -12 + 13 = 1. Vậy kết quả là 1.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "-12+4+9",
+      "dap_an": "1"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-07.1",
+        "T6-07.2"
+      ],
+      "de_bai": "Tính -7 + ( -2 + 9 ) bằng cách bỏ ngoặc trước khi tính.",
+      "loi_giai": "Tính trong ngoặc: -2 + 9 = 7. Do đó -7 + ( -2 + 9 ) = -7 + 7 = 0.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "-7+(-2+9)",
+      "dap_an": "0"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-07.1"
+      ],
+      "de_bai": "Nam nợ bạn 30 000 đồng. Sau đó Nam trả 12 000 đồng. Hỏi Nam còn nợ bao nhiêu đồng?",
+      "loi_giai": "Nam còn nợ bằng 30 000 - 12 000 = 18 000 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "30000-12000",
+      "dap_an": "18000"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-07.1",
+        "T6-07.2"
+      ],
+      "de_bai": "Nhiệt độ buổi sáng là -4°C. Đến buổi trưa trời tăng 7°C, đến tối giảm 3°C so với trưa. Tính nhiệt độ buổi tối.",
+      "loi_giai": "Bắt đầu -4, tăng 7 là -4 + 7 = 3; rồi giảm 3 là 3 - 3 = 0. Vậy nhiệt độ buổi tối là 0°C.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "-4+7-3",
+      "dap_an": "0"
+    }
+  ]
+}

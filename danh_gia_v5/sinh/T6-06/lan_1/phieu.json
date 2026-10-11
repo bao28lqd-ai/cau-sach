@@ -1,0 +1,93 @@
+{
+  "tieu_de": "Bội chung. Bội chung nhỏ nhất",
+  "muc_tieu": [
+    "Biết định nghĩa bội chung và bội chung nhỏ nhất của hai hoặc ba số tự nhiên.",
+    "Tìm được bội chung nhỏ nhất của hai hoặc ba số bằng cách phân tích ra thừa số nguyên tố hoặc dùng bội chung.",
+    "Quy đồng mẫu số bằng bội chung nhỏ nhất để thực hiện phép cộng, phép trừ phân số và viết kết quả tối giản."
+  ],
+  "kien_thuc_cot_loi": [
+    "Định nghĩa: bội của một số và bội chung của hai hoặc ba số.",
+    "Bội chung nhỏ nhất (BCNN) và cách tìm BCNN bằng phân tích thừa số nguyên tố hoặc bằng tìm bội chung.",
+    "Cách quy đồng mẫu số bằng BCNN để cộng, trừ phân số.",
+    "Rút gọn phân số sau khi cộng, trừ.",
+    "Vận dụng BCNN vào các tình huống thực tế (chu kỳ lặp lại, công thức pha trộn đơn giản)."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tìm bội chung nhỏ nhất của 6 và 8.",
+      "loi_giai": "Các bội của 6: 6, 12, 18, 24, ...; của 8: 8, 16, 24, ...; số chung nhỏ nhất là 24."
+    },
+    {
+      "de_bai": "Tính 1/6 + 1/8 bằng cách quy đồng mẫu số với BCNN.",
+      "loi_giai": "Mẫu số 6 và 8 có BCNN là 24. Quy đồng: 1/6 = 4/24, 1/8 = 3/24. Tổng = 4/24 + 3/24 = 7/24."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-06.1"
+      ],
+      "de_bai": "Tìm bội chung nhỏ nhất của 4 và 10.",
+      "loi_giai": "Phân tích: 4 = 2², 10 = 2·5. Lấy các lũy thừa lớn nhất: 2² và 5. BCNN = 2²·5 = 20.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "bcnn(4,10)",
+      "dap_an": "20"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-06.1"
+      ],
+      "de_bai": "Tìm bội chung nhỏ nhất của 8, 12 và 15.",
+      "loi_giai": "Phân tích: 8 = 2³, 12 = 2²·3, 15 = 3·5. Lấy các lũy thừa lớn nhất: 2³, 3, 5. BCNN = 2³·3·5 = 120.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "bcnn(8,12,15)",
+      "dap_an": "120"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-06.2"
+      ],
+      "de_bai": "Tính 3/4 + 5/6 bằng cách quy đồng mẫu số với BCNN.",
+      "loi_giai": "Mẫu số 4 và 6 có BCNN = 12. Quy đồng: 3/4 = 9/12, 5/6 = 10/12. Tổng = 9/12 + 10/12 = 19/12. Kết quả tối giản 19/12.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "phan_so(3*3+5*2,12)",
+      "dap_an": "19/12"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-06.2"
+      ],
+      "de_bai": "Tính 7/8 - 1/3 bằng cách quy đồng mẫu số với BCNN.",
+      "loi_giai": "Mẫu số 8 và 3 có BCNN = 24. Quy đồng: 7/8 = 21/24, 1/3 = 8/24. Hiệu = 21/24 - 8/24 = 13/24.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "phan_so(7*3-1*8,24)",
+      "dap_an": "13/24"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-06.1"
+      ],
+      "de_bai": "Hai xe buýt cùng khởi hành từ bến. Xe A lặp lại sau mỗi 12 phút, xe B lặp lại sau mỗi 18 phút. Sau bao nhiêu phút lần đầu tiên cả hai cùng có mặt ở bến đồng thời?",
+      "loi_giai": "Ta cần BCNN của 12 và 18. BCNN = 36. Vậy sau 36 phút cả hai cùng có mặt.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "bcnn(12,18)",
+      "dap_an": "36"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-06.2"
+      ],
+      "de_bai": "Cần 2/3 lít sữa và 1/4 lít nước cho một món. Hỏi tổng thể tích chất lỏng cần cho món là bao nhiêu lít?",
+      "loi_giai": "Mẫu số 3 và 4 có BCNN = 12. Quy đồng: 2/3 = 8/12, 1/4 = 3/12. Tổng = 8/12 + 3/12 = 11/12 lít.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "phan_so(2*4+1*3,12)",
+      "dap_an": "11/12"
+    }
+  ]
+}

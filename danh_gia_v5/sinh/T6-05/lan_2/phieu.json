@@ -1,0 +1,93 @@
+{
+  "tieu_de": "Ước chung. Ước chung lớn nhất",
+  "muc_tieu": [
+    "Biết cách liệt kê ước của một số tự nhiên nhỏ.",
+    "Xác định được ước chung và ước chung lớn nhất của hai hoặc ba số.",
+    "Nhận biết và rút gọn phân số về phân số tối giản bằng cách dùng ước chung lớn nhất."
+  ],
+  "kien_thuc_cot_loi": [
+    "Khái niệm ước của một số tự nhiên.",
+    "Cách tìm ước chung của hai hoặc ba số bằng liệt kê hoặc bằng tìm ước chung lớn nhất (ƯCLN).",
+    "Ước chung lớn nhất (ƯCLN) là ước lớn nhất của các số đã cho.",
+    "Phân số tối giản là phân số mà tử và mẫu không có ước chung lớn hơn 1.",
+    "Dùng ƯCLN để rút gọn phân số: chia tử và mẫu cho ƯCLN."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tìm ước chung lớn nhất của 12 và 18.",
+      "loi_giai": "Ước của 12 là 1, 2, 3, 4, 6, 12. Ước của 18 là 1, 2, 3, 6, 9, 18. Các ước chung là 1, 2, 3, 6. Vậy ước chung lớn nhất là 6."
+    },
+    {
+      "de_bai": "Rút gọn phân số 18/24 về phân số tối giản.",
+      "loi_giai": "Tìm ƯCLN của 18 và 24 là 6. Chia tử và mẫu cho 6: 18:6 = 3, 24:6 = 4. Phân số tối giản là 3/4."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-05.1"
+      ],
+      "de_bai": "Tìm ước chung lớn nhất của 12 và 18.",
+      "loi_giai": "Các ước của 12: 1, 2, 3, 4, 6, 12. Các ước của 18: 1, 2, 3, 6, 9, 18. Ước chung lớn nhất là 6.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "ucln(12,18)",
+      "dap_an": "6"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-05.1"
+      ],
+      "de_bai": "Tìm ước chung lớn nhất của 24, 36 và 60.",
+      "loi_giai": "ƯCLN của 24, 36, 60 là 12.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "ucln(24,36,60)",
+      "dap_an": "12"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-05.2"
+      ],
+      "de_bai": "Rút gọn phân số 18/24 về phân số tối giản.",
+      "loi_giai": "ƯCLN(18,24)=6. Chia tử và mẫu cho 6, được 3/4.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "phan_so(18,24)",
+      "dap_an": "3/4"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-05.1"
+      ],
+      "de_bai": "Có hai dây dài 150 cm và 210 cm. Cắt đều hai dây thành các đoạn có cùng độ dài là số nguyên cm và dùng hết. Độ dài lớn nhất mỗi đoạn là bao nhiêu?",
+      "loi_giai": "Độ dài lớn nhất là ƯCLN(150,210)=30 cm.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "ucln(150,210)",
+      "dap_an": "30"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-05.1"
+      ],
+      "de_bai": "Có 96 cây viết và 160 thước kẻ. Chia đều vào các phần quà sao cho mỗi phần có cùng số đồ vật và dùng hết. Tối đa mỗi phần có bao nhiêu đồ vật?",
+      "loi_giai": "Số đồ vật tối đa mỗi phần là ƯCLN(96,160)=32.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "ucln(96,160)",
+      "dap_an": "32"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-05.2"
+      ],
+      "de_bai": "Rút gọn phân số 210/462 về phân số tối giản.",
+      "loi_giai": "ƯCLN(210,462)=42. Chia tử và mẫu cho 42: 210:42 = 5, 462:42 = 11. Phân số tối giản là 5/11.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "phan_so(210,462)",
+      "dap_an": "5/11"
+    }
+  ]
+}

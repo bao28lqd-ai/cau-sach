@@ -1,0 +1,95 @@
+{
+  "tieu_de": "Thứ tự thực hiện các phép tính",
+  "muc_tieu": [
+    "Hiểu và nêu được thứ tự thực hiện phép tính với dấu ngoặc, lũy thừa, nhân, chia, cộng, trừ.",
+    "Áp dụng đúng thứ tự để tính giá trị các biểu thức số.",
+    "Sử dụng tính chất giao hoán, kết hợp và phân phối để rút gọn và tính nhanh biểu thức, kể cả biểu thức có lũy thừa."
+  ],
+  "kien_thuc_cot_loi": [
+    "Quy tắc: tính trong ngoặc trước; lũy thừa trước nhân và chia; nhân và chia cùng bậc, thực hiện từ trái sang phải; cộng và trừ cùng bậc, thực hiện từ trái sang phải.",
+    "Cách viết và đọc lũy thừa (a^n): nghĩa của a·a·...·a (n thừa số).",
+    "Tính chất giao hoán và kết hợp của phép cộng và phép nhân giúp đổi thứ tự hoặc nhóm số để tính nhanh.",
+    "Tính chất phân phối: a·(b + c) = a·b + a·c, dùng để rút gọn biểu thức trước khi tính.",
+    "Thực hành chuyển đổi nhân nhiều lần thành lũy thừa để viết ngắn và tính nhanh."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính giá trị của biểu thức: 3 + 2 · (5 - 2) + 2³.",
+      "loi_giai": "Trước hết tính trong ngoặc: 5 - 2 = 3. Tính lũy thừa: 2³ = 8. Thực hiện nhân: 2 · 3 = 6. Rồi cộng các số từ trái sang phải: 3 + 6 + 8 = 17. Vậy giá trị biểu thức là 17."
+    },
+    {
+      "de_bai": "Tính giá trị của biểu thức: (4 + 6) : 2 + 3 · 2².",
+      "loi_giai": "Tính trong ngoặc: 4 + 6 = 10. Tính lũy thừa: 2² = 4. Thực hiện chia: 10 : 2 = 5. Thực hiện nhân: 3 · 4 = 12. Cuối cùng cộng: 5 + 12 = 17. Vậy kết quả là 17."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-03.1"
+      ],
+      "de_bai": "Tính: 8 + 6 · 2.",
+      "loi_giai": "Theo thứ tự: nhân trước, 6 · 2 = 12; rồi cộng: 8 + 12 = 20.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "8+6*2",
+      "dap_an": "20"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-03.1",
+        "T6-03.2"
+      ],
+      "de_bai": "Tính: (7 + 5) : 3 + 2 · 3.",
+      "loi_giai": "Tính trong ngoặc: 7 + 5 = 12. Chia: 12 : 3 = 4. Tính lũy thừa và nhân: 2 · 3 = 6. Cuối cùng cộng: 4 + 6 = 10.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "(7+5)/3+2*3",
+      "dap_an": "10"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-03.2"
+      ],
+      "de_bai": "Tính bằng cách dùng tính chất phân phối: 5 · (12 + 8).",
+      "loi_giai": "Dùng phân phối: 5 · (12 + 8) = 5 · 12 + 5 · 8 = 60 + 40 = 100.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "5*(12+8)",
+      "dap_an": "100"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-03.1",
+        "T6-03.2"
+      ],
+      "de_bai": "Tính: 2³ + 3 · 2².",
+      "loi_giai": "Tính lũy thừa: 2³ = 8 và 2² = 4. Thực hiện nhân: 3 · 4 = 12. Rồi cộng: 8 + 12 = 20.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "2**3+3*2**2",
+      "dap_an": "20"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-03.1"
+      ],
+      "de_bai": "Một áo giá 150 000 đồng. Huy mua 3 áo và trả bằng tờ 500 000 đồng. Hỏi Huy được trả lại bao nhiêu đồng? (Viết phép tính theo thứ tự đúng).",
+      "loi_giai": "Tiền 3 áo: 3 · 150 000 = 450 000. Huy trả 500 000, nên được trả lại: 500 000 - 450 000 = 50 000 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "500000-3*150000",
+      "dap_an": "50000"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-03.2"
+      ],
+      "de_bai": "Tính giá trị của biểu thức: (2 · 3 + 4) · 5 - 2² · (3 + 1).",
+      "loi_giai": "Tính trong các ngoặc nhỏ: 2 · 3 + 4 = 6 + 4 = 10; 3 + 1 = 4. Tính lũy thừa: 2² = 4. Rồi nhân: 10 · 5 = 50 và 4 · 4 = 16. Cuối cùng: 50 - 16 = 34.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "(2*3+4)*5-2**2*(3+1)",
+      "dap_an": "34"
+    }
+  ]
+}

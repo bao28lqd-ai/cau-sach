@@ -1,0 +1,115 @@
+{
+  "tieu_de": "Các phép tính với phân số",
+  "muc_tieu": [
+    "Biết thực hiện cộng, trừ, nhân, chia hai phân số.",
+    "Tính giá trị của một phân số của một số cho trước và tìm số nguyên khi biết giá trị của phân số đó.",
+    "Rèn kỹ năng rút gọn phân số và viết kết quả dưới dạng phân số tối giản hoặc số nguyên."
+  ],
+  "kien_thuc_cot_loi": [
+    "Quy tắc quy đồng mẫu để cộng, trừ phân số.",
+    "Quy tắc nhân hai phân số: nhân tử với tử, mẫu với mẫu, rồi rút gọn.",
+    "Quy tắc chia phân số: chia cho phân số bằng nhân với nghịch đảo.",
+    "Tính giá trị của phân số của một số: nhân phân số với số đó.",
+    "Tìm số khi biết giá trị của phân số: chia giá trị cho phân số (nhân với nghịch đảo)."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính 3/4 + 1/8.",
+      "loi_giai": "Quy đồng mẫu: 3/4 = 6/8. 6/8 + 1/8 = 7/8. Kết quả là 7/8."
+    },
+    {
+      "de_bai": "Một túi có 120 quả cam, đó là 3/5 số cam ban đầu. Hỏi ban đầu có bao nhiêu quả cam?",
+      "loi_giai": "Gọi số cam ban đầu là x. Ta có 3/5·x = 120 => x = 120 : (3/5) = 120·5/3 = 200. Ban đầu có 200 quả cam."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "cộng_phân_số"
+      ],
+      "de_bai": "Tính 3/4 + 1/8.",
+      "loi_giai": "Quy đồng mẫu số: 3/4 = 6/8. Cộng: 6/8 + 1/8 = 7/8. Vậy kết quả là 7/8.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "3/4+1/8",
+      "dap_an": "7/8"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "trừ_phân_số"
+      ],
+      "de_bai": "Tính 5/6 - 1/3.",
+      "loi_giai": "Quy đồng mẫu số: 1/3 = 2/6. Trừ: 5/6 - 2/6 = 3/6 = 1/2. Vậy kết quả là 1/2.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "5/6-1/3",
+      "dap_an": "1/2"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "phần_của_một_số"
+      ],
+      "de_bai": "Tính 2/5 của 15.",
+      "loi_giai": "Lấy 2/5 nhân với 15: 2/5 · 15 = (2·15):5 = 30:5 = 6. Vậy kết quả là 6.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "2/5*15",
+      "dap_an": "6"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "chia_phân_số"
+      ],
+      "de_bai": "Tính (3/7) : (9/14).",
+      "loi_giai": "Chia hai phân số bằng cách nhân với đảo ngược: (3/7) : (9/14) = (3/7) · (14/9) = (3·14)/(7·9) = 42/63 = 2/3. Vậy kết quả là 2/3.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "(3/7)/(9/14)",
+      "dap_an": "2/3"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "ứng_dụng_phân_số_trong_đời_sống"
+      ],
+      "de_bai": "Một chiếc áo giá 150 000 đồng. Khách trả trước 3/4 giá áo. Hỏi khách trả bao nhiêu đồng?",
+      "loi_giai": "Lấy 3/4 của 150 000: 3/4 · 150 000 = (3·150000):4 = 450 000:4 = 112 500 (đồng). Vậy khách trả 112 500 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "3/4*150000",
+      "dap_an": "112500"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "tìm_số_ban_đầu_từ_phân_số"
+      ],
+      "de_bai": "Một cửa hàng còn 120 quả táo, đó là 3/5 số táo ban đầu. Hỏi ban đầu có bao nhiêu quả táo?",
+      "loi_giai": "Gọi số táo ban đầu là x. Ta có 3/5 x = 120. Vậy x = 120 : (3/5) = 120 · (5/3) = 200. Ban đầu có 200 quả táo.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "120/(3/5)",
+      "dap_an": "200"
+    },
+    {
+      "id": "B7",
+      "yccd": [
+        "T6-09.1"
+      ],
+      "de_bai": "Tính giá trị biểu thức (1/2 + 2/3) · 3/5 : (3/4 - 1/4).",
+      "loi_giai": "Ta tính từng phần: 1/2 + 2/3 = 7/6. Nhân với 3/5 được 7/6 · 3/5 = 7/10. 3/4 - 1/4 = 1/2. Chia cho 1/2 là nhân 2 nên 7/10 : 1/2 = 7/10 · 2 = 14/10 = 7/5. Vậy kết quả là 7/5.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "(1/2+2/3)*3/5/(3/4-1/4)",
+      "dap_an": "7/5"
+    },
+    {
+      "id": "B8",
+      "yccd": [
+        "T6-09.2"
+      ],
+      "de_bai": "Một mảnh vườn, 3/7 diện tích được trồng lúa là 21 m2. Hỏi diện tích toàn bộ mảnh vườn bằng bao nhiêu mét vuông?",
+      "loi_giai": "Gọi diện tích toàn bộ là x. Ta có 3/7 x = 21 nên x = 21 : (3/7) = 21 · 7/3 = 49 (m2). Vậy diện tích toàn mảnh vườn là 49 m2.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "21*7/3",
+      "dap_an": "49"
+    }
+  ]
+}

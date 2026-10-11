@@ -1,0 +1,18 @@
+# Secrets: never commit the API key
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Local outputs (approved worksheets, demo runs)
+kho_phieu/
+danh_gia_demo/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini

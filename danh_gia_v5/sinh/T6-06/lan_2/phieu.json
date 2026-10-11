@@ -1,0 +1,93 @@
+{
+  "tieu_de": "Bội chung. Bội chung nhỏ nhất",
+  "muc_tieu": [
+    "Nêu được bội chung và bội chung nhỏ nhất của hai hoặc ba số tự nhiên.",
+    "Tìm bội chung nhỏ nhất của hai hoặc ba số bằng cách phân tích thừa số nguyên tố hoặc bằng phương pháp chia hết.",
+    "Quy đồng mẫu số bằng bội chung nhỏ nhất để thực hiện phép cộng hoặc phép trừ phân số."
+  ],
+  "kien_thuc_cot_loi": [
+    "Định nghĩa bội của một số tự nhiên.",
+    "Bội chung của hai (hoặc ba) số là những số chia hết cho tất cả các số đó.",
+    "Bội chung nhỏ nhất (BCNN) là bội chung dương nhỏ nhất khác 0.",
+    "Tìm BCNN bằng cách phân tích thừa số nguyên tố hoặc dùng chia liên tiếp.",
+    "Quy đồng mẫu số bằng BCNN để cộng hoặc trừ phân số, rồi rút gọn kết quả."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tìm bội chung nhỏ nhất của 6 và 8.",
+      "loi_giai": "Phân tích: 6 = 2 · 3; 8 = 2³. Lấy các thừa số với số mũ lớn nhất: 2³ · 3 = 24. Vậy BCNN là 24."
+    },
+    {
+      "de_bai": "Tính 1/6 + 1/4 bằng cách quy đồng mẫu số với BCNN.",
+      "loi_giai": "BCNN của 6 và 4 là 12. Quy đồng: 1/6 = 2/12; 1/4 = 3/12. Cộng: 2/12 + 3/12 = 5/12. Kết quả tối giản là 5/12."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-06.1"
+      ],
+      "de_bai": "Bội chung nhỏ nhất của 6 và 8 là bao nhiêu?",
+      "loi_giai": "Phân tích: 6 = 2 · 3, 8 = 2³. Lấy 2³ · 3 = 24. Vậy BCNN(6, 8) = 24.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "bcnn(6,8)",
+      "dap_an": "24"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-06.1"
+      ],
+      "de_bai": "Bội chung nhỏ nhất của 9, 12 và 15 là bao nhiêu?",
+      "loi_giai": "9 = 3², 12 = 2² · 3, 15 = 3 · 5. Lấy 2² · 3² · 5 = 180. Vậy BCNN là 180.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "bcnn(9,12,15)",
+      "dap_an": "180"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-06.1"
+      ],
+      "de_bai": "Ba nhóm sinh hoạt lần lượt sau 3 ngày, 4 ngày và 6 ngày. Hỏi sau bao nhiêu ngày kể từ hôm nay cả ba nhóm sẽ sinh hoạt cùng một ngày?",
+      "loi_giai": "Tìm BCNN của 3, 4, 6. BCNN(3,4,6) = 12. Vậy sau 12 ngày cả ba nhóm sẽ cùng sinh hoạt.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "bcnn(3,4,6)",
+      "dap_an": "12"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-06.2"
+      ],
+      "de_bai": "Tính 1/6 + 1/4 bằng cách quy đồng mẫu số với bội chung nhỏ nhất.",
+      "loi_giai": "BCNN của 6 và 4 là 12. Quy đồng: 1/6 = 2/12, 1/4 = 3/12. Cộng: 2/12 + 3/12 = 5/12. Kết quả tối giản là 5/12.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "phan_so(1*2+1*3,12)",
+      "dap_an": "5/12"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-06.2"
+      ],
+      "de_bai": "Tính 5/12 - 1/8 bằng cách quy đồng mẫu số với bội chung nhỏ nhất.",
+      "loi_giai": "BCNN của 12 và 8 là 24. Quy đồng: 5/12 = 10/24, 1/8 = 3/24. Trừ: 10/24 - 3/24 = 7/24. Kết quả tối giản là 7/24.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "phan_so(5*2-1*3,24)",
+      "dap_an": "7/24"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-06.1"
+      ],
+      "de_bai": "Hai chuyến xe buýt xuất phát cùng lúc. Một chuyến lặp lại sau mỗi 15 phút, chuyến kia lặp lại sau mỗi 20 phút. Hỏi sau bao nhiêu phút kể từ lúc xuất phát cả hai chuyến sẽ gặp nhau lại cùng lúc?",
+      "loi_giai": "Tìm BCNN của 15 và 20. BCNN(15,20) = 60. Vậy sau 60 phút cả hai sẽ cùng lúc gặp nhau.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "bcnn(15,20)",
+      "dap_an": "60"
+    }
+  ]
+}

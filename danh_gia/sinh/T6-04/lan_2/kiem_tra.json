@@ -1,0 +1,177 @@
+{
+  "lesson": "T6-04",
+  "model": "gpt-5-mini",
+  "prompt_version": "2026-10-07.3",
+  "cross_check": true,
+  "max_rounds": 2,
+  "calls": 6,
+  "input_tokens": 4433,
+  "output_tokens": 6204,
+  "seconds": 56.76,
+  "doc_lap": {
+    "B1": "3",
+    "B2": "1",
+    "B3": "84",
+    "B4": "150000",
+    "B5": "2013",
+    "B6": "360",
+    "B7": "97/97",
+    "B8": "462"
+  },
+  "rounds": [
+    {
+      "summary": "0/6 bài tập đạt; thiếu bài cho T6-04.1, T6-04.2",
+      "passed": false,
+      "missing": [
+        "T6-04.1",
+        "T6-04.2"
+      ],
+      "structure_errors": [],
+      "items": [
+        {
+          "id": "B1",
+          "status": "chua_doi_chieu",
+          "message": "bước đọc lại đề không trả kết quả cho bài này",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "chua_doi_chieu",
+          "message": "bước đọc lại đề không trả kết quả cho bài này",
+          "note": ""
+        },
+        {
+          "id": "B3",
+          "status": "chua_doi_chieu",
+          "message": "bước đọc lại đề không trả kết quả cho bài này",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "chua_doi_chieu",
+          "message": "bước đọc lại đề không trả kết quả cho bài này",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "chua_doi_chieu",
+          "message": "bước đọc lại đề không trả kết quả cho bài này",
+          "note": ""
+        },
+        {
+          "id": "B6",
+          "status": "chua_doi_chieu",
+          "message": "bước đọc lại đề không trả kết quả cho bài này",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "summary": "6/6 bài tập đạt; thiếu bài cho T6-04.1, T6-04.2; mã yêu cầu cần đạt không tồn tại: Nhận biết số nguyên tố, Phân tích số ra thừa số nguyên tố, Đếm ước dương, Ứng dụng số trong thực tế",
+      "passed": false,
+      "missing": [
+        "T6-04.1",
+        "T6-04.2"
+      ],
+      "structure_errors": [
+        "mã yêu cầu cần đạt không tồn tại: Nhận biết số nguyên tố, Phân tích số ra thừa số nguyên tố, Đếm ước dương, Ứng dụng số trong thực tế"
+      ],
+      "items": [
+        {
+          "id": "B1",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B3",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B6",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "summary": "8/8 bài tập đạt; mã yêu cầu cần đạt không tồn tại: Nhận biết số nguyên tố, Phân tích số ra thừa số nguyên tố, Đếm ước dương, Ứng dụng số trong thực tế",
+      "passed": false,
+      "missing": [],
+      "structure_errors": [
+        "mã yêu cầu cần đạt không tồn tại: Nhận biết số nguyên tố, Phân tích số ra thừa số nguyên tố, Đếm ước dương, Ứng dụng số trong thực tế"
+      ],
+      "items": [
+        {
+          "id": "B1",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B3",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B6",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B7",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B8",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "tieu_de": "Các phép tính với số tự nhiên",
+  "muc_tieu": [
+    "Thực hiện phép cộng, trừ, nhân, chia các số tự nhiên đúng và nhanh.",
+    "Vận dụng tính chất giao hoán, kết hợp, phân phối để tính nhẩm hợp lí.",
+    "Chọn phương pháp tính nhanh phù hợp cho từng bài toán đơn giản."
+  ],
+  "kien_thuc_cot_loi": [
+    "Phép cộng, trừ, nhân, chia trong tập hợp số tự nhiên; thứ tự thực hiện.",
+    "Tính chất giao hoán của phép cộng và phép nhân.",
+    "Tính chất kết hợp của phép cộng và phép nhân.",
+    "Tính chất phân phối của phép nhân đối với phép cộng: a·(b+c)=a·b+a·c.",
+    "Kỹ thuật tính nhẩm: biến đổi để nhân với số dễ (ví dụ nhân với 10, 25, 50) hoặc phân chia đều."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính nhanh: 25 · 48 bằng cách dùng tính phân phối.",
+      "loi_giai": "Dùng phân phối: 25 · 48 = 25 · (50 - 2) = 25 · 50 - 25 · 2 = 1 250 - 50 = 1 200."
+    },
+    {
+      "de_bai": "Một cửa hàng có 84 hộp kẹo, chia đều vào 7 túi. Mỗi túi có bao nhiêu hộp?",
+      "loi_giai": "Chia đều: 84 : 7 = 12. Vậy mỗi túi có 12 hộp kẹo."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-01.1"
+      ],
+      "de_bai": "Tính: 57 + 68",
+      "loi_giai": "57 + 68 = 125.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "57+68",
+      "dap_an": "125"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-01.1"
+      ],
+      "de_bai": "Tính: 300 - 148",
+      "loi_giai": "300 - 148 = 152.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "300-148",
+      "dap_an": "152"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-01.1"
+      ],
+      "de_bai": "Tính: 24 · 15",
+      "loi_giai": "24 · 15 = 360.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "24*15",
+      "dap_an": "360"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-01.1"
+      ],
+      "de_bai": "Chia 840 bánh vào 7 hộp đều nhau. Mỗi hộp có bao nhiêu bánh?",
+      "loi_giai": "Số bánh mỗi hộp = 840 : 7 = 120 bánh.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "840/7",
+      "dap_an": "120"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-01.2"
+      ],
+      "de_bai": "Tính nhanh bằng cách dùng phân phối: 37 · 26",
+      "loi_giai": "37 · 26 = 37 · (20 + 6) = 37·20 + 37·6 = 740 + 222 = 962.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "37*26",
+      "dap_an": "962"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-01.1"
+      ],
+      "de_bai": "Mỗi chiếc áo giá 150 000 đồng. Mua 7 chiếc áo hết bao nhiêu đồng?",
+      "loi_giai": "Tiền phải trả = 150 000 · 7 = 1 050 000 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "150000*7",
+      "dap_an": "1050000"
+    },
+    {
+      "id": "B7",
+      "yccd": [
+        "T6-01.1"
+      ],
+      "de_bai": "Tính: 48 · 6 - 72 : 8",
+      "loi_giai": "48 · 6 = 288; 72 : 8 = 9. Vậy 288 - 9 = 279.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "48*6-72/8",
+      "dap_an": "279"
+    },
+    {
+      "id": "B8",
+      "yccd": [
+        "T6-01.2"
+      ],
+      "de_bai": "Tính nhanh bằng cách dùng phân phối: 43 · 29",
+      "loi_giai": "43 · 29 = 43 · (30 - 1) = 43·30 - 43 = 1 290 - 43 = 1 247.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "43*29",
+      "dap_an": "1247"
+    }
+  ]
+}

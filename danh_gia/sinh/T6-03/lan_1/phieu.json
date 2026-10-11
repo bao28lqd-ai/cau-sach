@@ -1,0 +1,95 @@
+{
+  "tieu_de": "Thứ tự thực hiện các phép tính",
+  "muc_tieu": [
+    "Nhận biết thứ tự thực hiện các phép tính trong một biểu thức số.",
+    "Vận dụng thứ tự và các tính chất của phép cộng, nhân, chia, lũy thừa để tính nhanh biểu thức.",
+    "Sử dụng đúng dấu ngoặc để thay đổi thứ tự tính khi cần."
+  ],
+  "kien_thuc_cot_loi": [
+    "Thứ tự thực hiện: tính trong ngoặc trước; phép lũy thừa và nhân chia trước; cộng trừ cuối cùng; cùng hàng thực hiện từ trái sang phải.",
+    "Phép nhân và phép chia có cùng thứ tự ưu tiên; phép cộng và phép trừ có cùng thứ tự ưu tiên.",
+    "Sử dụng phân phối để tính nhanh khi có thể: a·(b + c) = a·b + a·c.",
+    "Lũy thừa: 2³ = 2·2·2; lũy thừa thực hiện trước phép nhân, phép chia.",
+    "Dùng ngoặc để biểu diễn rõ thứ tự tính khi muốn thay đổi thứ tự mặc định."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính 8 + 3·5.",
+      "loi_giai": "Theo thứ tự, nhân trước: 3·5 = 15. Sau đó cộng: 8 + 15 = 23."
+    },
+    {
+      "de_bai": "Tính 2³ + (7 + 5)·2.",
+      "loi_giai": "Tính trong ngoặc và lũy thừa trước: 2³ = 8; (7 + 5) = 12. Rồi nhân: 12·2 = 24. Cuối cùng cộng: 8 + 24 = 32."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-03.1"
+      ],
+      "de_bai": "Tính giá trị của biểu thức 8 + 3·5.",
+      "loi_giai": "Nhân trước: 3·5 = 15. Rồi cộng: 8 + 15 = 23.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "8+3*5",
+      "dap_an": "23"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-03.1"
+      ],
+      "de_bai": "Tính 18 : 3 + 2.",
+      "loi_giai": "Chia trước: 18 : 3 = 6. Rồi cộng: 6 + 2 = 8.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "18/3+2",
+      "dap_an": "8"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-03.1",
+        "T6-03.2"
+      ],
+      "de_bai": "Tính giá trị của (7 + 5)·2.",
+      "loi_giai": "Tính trong ngoặc trước: 7 + 5 = 12. Rồi nhân: 12·2 = 24.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "(7+5)*2",
+      "dap_an": "24"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-03.2"
+      ],
+      "de_bai": "Tính 2³ + 5·4.",
+      "loi_giai": "Lũy thừa trước: 2³ = 8. Nhân: 5·4 = 20. Rồi cộng: 8 + 20 = 28.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "2**3+5*4",
+      "dap_an": "28"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-03.2"
+      ],
+      "de_bai": "Một học sinh mua 3 chiếc áo, mỗi chiếc giá 150 000 đồng. Cửa hàng giảm giá 10% trên tổng tiền. Hỏi học sinh phải trả bao nhiêu đồng?",
+      "loi_giai": "Tổng trước giảm giá: 150 000·3 = 450 000 đồng. Giảm 10% nghĩa là trả 90%: 450 000·0,90 = 405 000 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "150000*3*(1-0.10)",
+      "dap_an": "405000"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-03.1",
+        "T6-03.2"
+      ],
+      "de_bai": "Mua 2 áo giá 150 000 đồng một chiếc và 3 quần giá 220 000 đồng một chiếc. Hỏi tổng tiền phải trả là bao nhiêu đồng?",
+      "loi_giai": "Tính tiền áo: 2·150 000 = 300 000. Tính tiền quần: 3·220 000 = 660 000. Tổng: 300 000 + 660 000 = 960 000 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "2*150000+3*220000",
+      "dap_an": "960000"
+    }
+  ]
+}

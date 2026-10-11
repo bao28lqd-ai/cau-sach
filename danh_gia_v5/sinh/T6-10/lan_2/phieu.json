@@ -1,0 +1,95 @@
+{
+  "tieu_de": "Số thập phân, làm tròn và tỉ số phần trăm",
+  "muc_tieu": [
+    "Thực hiện phép cộng, trừ, nhân, chia với số thập phân đúng và nhanh.",
+    "Làm tròn số thập phân đến vị trí cho trước.",
+    "Tính tỉ số và chuyển tỉ số thành tỉ số phần trăm."
+  ],
+  "kien_thuc_cot_loi": [
+    "Nhớ quy tắc đặt dấu phẩy khi cộng, trừ, nhân, chia số thập phân.",
+    "Quy tắc làm tròn: xem chữ số bên phải vị trí cần làm tròn.",
+    "Tỉ số của a và b là a : b; tỉ số phần trăm là (a/b)·100%.",
+    "Khi tính phần trăm của một số, nhân số đó với tỉ số phần trăm dưới dạng thập phân.",
+    "Biết dùng làm tròn kết quả khi yêu cầu cho số chữ số thập phân cụ thể."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính 3,5 + 2,75 và làm tròn kết quả đến 1 chữ số thập phân.",
+      "loi_giai": "3,5 + 2,75 = 6,25. Làm tròn đến 1 chữ số thập phân được 6,3."
+    },
+    {
+      "de_bai": "Trong 20 học sinh, 8 bạn là nữ. Tính tỉ số phần trăm học sinh nữ trong lớp.",
+      "loi_giai": "Tỉ số là 8 : 20 = 0,4. Tỉ số phần trăm = 0,4·100% = 40%."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-10.1"
+      ],
+      "de_bai": "Tính 4,25 + 3,6.",
+      "loi_giai": "Đặt thẳng dấu phẩy rồi cộng: 4,25 + 3,60 = 7,85.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "4.25+3.6",
+      "dap_an": "7.85"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-10.1"
+      ],
+      "de_bai": "Tính 5,4 · 0,8.",
+      "loi_giai": "5,4 · 0,8 = 4,32 bằng cách nhân như số nguyên rồi đặt dấu phẩy.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "5.4*0.8",
+      "dap_an": "4.32"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-10.2"
+      ],
+      "de_bai": "Làm tròn số 7,386 đến 1 chữ số thập phân.",
+      "loi_giai": "Xem chữ số ở hàng 2 là 8 nên làm tròn hàng 1: 7,386 ≈ 7,4.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "lam_tron(7.386,1)",
+      "dap_an": "7.4"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-10.3"
+      ],
+      "de_bai": "Cho hai số 15 và 60. Tính tỉ số phần trăm của 15 so với 60.",
+      "loi_giai": "Tỉ số 15 : 60 = 0,25. Nhân 100% được 25%.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "15/60*100",
+      "dap_an": "25"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-10.3",
+        "T6-10.1"
+      ],
+      "de_bai": "Một chiếc áo giá 150 000 đồng được giảm 20%. Hỏi người mua phải trả bao nhiêu đồng sau khi giảm (làm tròn tới đồng)?",
+      "loi_giai": "Số tiền giảm là 150 000·20% = 150 000·0,20 = 30 000. Số phải trả = 150 000 - 30 000 = 120 000 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "150000-150000*0.20",
+      "dap_an": "120000"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-10.3",
+        "T6-10.2"
+      ],
+      "de_bai": "Trong một lớp 28 học sinh có 11 bạn đọc sách mỗi tuần. Tính tỉ số phần trăm học sinh đọc sách trong lớp, làm tròn kết quả đến 1 chữ số thập phân.",
+      "loi_giai": "Tỉ số = 11 : 28 ≈ 0,392857...; nhân 100% được 39,2857...%. Làm tròn đến 1 chữ số thập phân: 39,3%.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "lam_tron(11/28*100,1)",
+      "dap_an": "39.3"
+    }
+  ]
+}

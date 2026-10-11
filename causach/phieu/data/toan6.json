@@ -1,0 +1,98 @@
+{
+  "mon": "Toán",
+  "lop": 6,
+  "nguon": "Chương trình giáo dục phổ thông môn Toán 2018 (ban hành kèm Thông tư 32/2018/TT-BGDĐT), lớp 6, mạch Số và Đại số. Các yêu cầu cần đạt dưới đây được diễn đạt lại ngắn gọn; cần đối chiếu nguyên văn chương trình trước khi dùng chính thức.",
+  "bai": [
+    {
+      "ma": "T6-01",
+      "chu_de": "Số tự nhiên",
+      "ten": "Các phép tính với số tự nhiên",
+      "yccd": [
+        {"ma": "T6-01.1", "noi_dung": "Thực hiện được phép cộng, trừ, nhân, chia trong tập hợp số tự nhiên."},
+        {"ma": "T6-01.2", "noi_dung": "Vận dụng được tính chất giao hoán, kết hợp, phân phối của phép nhân đối với phép cộng để tính nhẩm, tính nhanh một cách hợp lí."}
+      ]
+    },
+    {
+      "ma": "T6-02",
+      "chu_de": "Số tự nhiên",
+      "ten": "Lũy thừa với số mũ tự nhiên",
+      "yccd": [
+        {"ma": "T6-02.1", "noi_dung": "Thực hiện được phép tính lũy thừa với số mũ tự nhiên."},
+        {"ma": "T6-02.2", "noi_dung": "Thực hiện được phép nhân và phép chia hai lũy thừa cùng cơ số với số mũ tự nhiên."}
+      ]
+    },
+    {
+      "ma": "T6-03",
+      "chu_de": "Số tự nhiên",
+      "ten": "Thứ tự thực hiện các phép tính",
+      "yccd": [
+        {"ma": "T6-03.1", "noi_dung": "Nhận biết được thứ tự thực hiện các phép tính."},
+        {"ma": "T6-03.2", "noi_dung": "Vận dụng được các tính chất của phép tính, kể cả phép tính lũy thừa, để tính giá trị biểu thức."}
+      ]
+    },
+    {
+      "ma": "T6-04",
+      "chu_de": "Tính chia hết trong tập hợp các số tự nhiên",
+      "ten": "Số nguyên tố. Phân tích một số ra thừa số nguyên tố",
+      "yccd": [
+        {"ma": "T6-04.1", "noi_dung": "Nhận biết được số nguyên tố, hợp số."},
+        {"ma": "T6-04.2", "noi_dung": "Thực hiện được việc phân tích một số tự nhiên lớn hơn 1 thành tích các thừa số nguyên tố trong những trường hợp đơn giản."}
+      ]
+    },
+    {
+      "ma": "T6-05",
+      "chu_de": "Tính chia hết trong tập hợp các số tự nhiên",
+      "ten": "Ước chung. Ước chung lớn nhất",
+      "yccd": [
+        {"ma": "T6-05.1", "noi_dung": "Xác định được ước chung, ước chung lớn nhất của hai hoặc ba số tự nhiên."},
+        {"ma": "T6-05.2", "noi_dung": "Nhận biết được phân số tối giản; dùng ước chung lớn nhất để rút gọn phân số về phân số tối giản."}
+      ]
+    },
+    {
+      "ma": "T6-06",
+      "chu_de": "Tính chia hết trong tập hợp các số tự nhiên",
+      "ten": "Bội chung. Bội chung nhỏ nhất",
+      "yccd": [
+        {"ma": "T6-06.1", "noi_dung": "Xác định được bội chung, bội chung nhỏ nhất của hai hoặc ba số tự nhiên."},
+        {"ma": "T6-06.2", "noi_dung": "Thực hiện được phép cộng, phép trừ phân số bằng cách quy đồng mẫu số với bội chung nhỏ nhất."}
+      ]
+    },
+    {
+      "ma": "T6-07",
+      "chu_de": "Số nguyên",
+      "ten": "Phép cộng và phép trừ số nguyên",
+      "yccd": [
+        {"ma": "T6-07.1", "noi_dung": "Thực hiện được phép cộng, phép trừ trong tập hợp số nguyên."},
+        {"ma": "T6-07.2", "noi_dung": "Vận dụng được tính chất giao hoán, kết hợp của phép cộng và quy tắc dấu ngoặc để tính hợp lí."}
+      ]
+    },
+    {
+      "ma": "T6-08",
+      "chu_de": "Số nguyên",
+      "ten": "Phép nhân và phép chia hết số nguyên",
+      "yccd": [
+        {"ma": "T6-08.1", "noi_dung": "Thực hiện được phép nhân và phép chia hết trong tập hợp số nguyên."},
+        {"ma": "T6-08.2", "noi_dung": "Vận dụng được tính chất của phép nhân, kể cả tính chất phân phối đối với phép cộng, để tính hợp lí."}
+      ]
+    },
+    {
+      "ma": "T6-09",
+      "chu_de": "Phân số",
+      "ten": "Các phép tính với phân số",
+      "yccd": [
+        {"ma": "T6-09.1", "noi_dung": "Thực hiện được phép cộng, trừ, nhân, chia phân số."},
+        {"ma": "T6-09.2", "noi_dung": "Tính được giá trị phân số của một số cho trước và tìm được một số khi biết giá trị phân số của số đó."}
+      ]
+    },
+    {
+      "ma": "T6-10",
+      "chu_de": "Số thập phân",
+      "ten": "Số thập phân, làm tròn và tỉ số phần trăm",
+      "yccd": [
+        {"ma": "T6-10.1", "noi_dung": "Thực hiện được phép cộng, trừ, nhân, chia với số thập phân."},
+        {"ma": "T6-10.2", "noi_dung": "Làm tròn được số thập phân đến một hàng cho trước."},
+        {"ma": "T6-10.3", "noi_dung": "Tính được tỉ số và tỉ số phần trăm của hai số."}
+      ]
+    }
+  ]
+}

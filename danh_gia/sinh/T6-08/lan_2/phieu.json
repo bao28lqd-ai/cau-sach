@@ -1,0 +1,95 @@
+{
+  "tieu_de": "Phép nhân và phép chia hết số nguyên",
+  "muc_tieu": [
+    "Biết nhân hai số nguyên và chia hết trong tập hợp số nguyên.",
+    "Vận dụng tính chất giao hoán, kết hợp và tính chất phân phối để tính nhanh.",
+    "Làm bài toán thực tế đơn giản bằng nhân và chia hết số nguyên."
+  ],
+  "kien_thuc_cot_loi": [
+    "Nhân hai số nguyên: dấu kết quả theo qui tắc (+·+ = +, -·- = +, +·- = -).",
+    "Phép chia hết: a : b là số nguyên khi tồn tại số nguyên c sao cho a = b·c.",
+    "Tính chất giao hoán và kết hợp của phép nhân.",
+    "Tính chất phân phối: a·(b + c) = a·b + a·c và a·(b - c) = a·b - a·c.",
+    "Sử dụng các tính chất trên để rút gọn và tính nhanh biểu thức nguyên."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính nhanh: 12·(15 - 3).",
+      "loi_giai": "Áp dụng tính phân phối ngược: 12·(15 - 3) = 12·12 = 144."
+    },
+    {
+      "de_bai": "Một hộp có 24 bút. Hỏi 7 hộp có bao nhiêu bút?",
+      "loi_giai": "Số bút = 24·7 = 168."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-08.1"
+      ],
+      "de_bai": "Tính: (-7)·8.",
+      "loi_giai": "(-7)·8 = -56 vì dấu khác nhau nên kết quả âm.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "(-7)*8",
+      "dap_an": "-56"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-08.1"
+      ],
+      "de_bai": "Tính: 56 : (-7).",
+      "loi_giai": "56 : (-7) = -8 vì 56 = (-7)·(-8) không đúng còn 56 = (-7)·(-8) = 56 sai; đúng là 56 = (-7)·(-8) nên kết quả -8. (Kiểm tra: (-7)·(-8) = 56).",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "56/(-7)",
+      "dap_an": "-8"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-08.2"
+      ],
+      "de_bai": "Tính nhanh: 12·15 - 12·3.",
+      "loi_giai": "Dùng tính phân phối: 12·15 - 12·3 = 12·(15 - 3) = 12·12 = 144.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "12*15-12*3",
+      "dap_an": "144"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-08.1"
+      ],
+      "de_bai": "Một trường có 360 vở. Người ta chia đều cho 15 lớp. Hỏi mỗi lớp được bao nhiêu vở?",
+      "loi_giai": "Mỗi lớp nhận = 360 : 15 = 24 vở.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "360/15",
+      "dap_an": "24"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-08.1",
+        "T6-08.2"
+      ],
+      "de_bai": "Tính: (-9)·(-7)·6.",
+      "loi_giai": "(-9)·(-7) = 63, rồi 63·6 = 378.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "(-9)*(-7)*6",
+      "dap_an": "378"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-08.2",
+        "T6-08.1"
+      ],
+      "de_bai": "Tính: (-14)·21 : 7.",
+      "loi_giai": "Ta chia trước hoặc dùng phân phối: (-14)·21 : 7 = (-14)·(21 : 7) = (-14)·3 = -42.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "(-14)*21/7",
+      "dap_an": "-42"
+    }
+  ]
+}

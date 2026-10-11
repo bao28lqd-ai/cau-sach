@@ -1,0 +1,1223 @@
+truong,lop,dau_sach,so_thieu_sach,so_khong_thiet_bi,nhan_cho_em_khong_thiet_bi,nhan_cho_em_co_thiet_bi,luong_c_con_lai
+THCS A,6A2,Toán 6,2,1,1,1,0
+THCS A,6A3,Toán 6,1,0,0,1,0
+THCS A,6A4,Toán 6,5,4,4,1,0
+THCS A,6A5,Toán 6,1,1,1,0,0
+THCS A,6A1,Ngữ văn 6,3,3,3,0,0
+THCS A,6A2,Ngữ văn 6,1,1,1,0,0
+THCS A,6A3,Ngữ văn 6,1,1,1,0,0
+THCS A,6A4,Ngữ văn 6,1,0,0,1,0
+THCS A,6A5,Ngữ văn 6,3,1,1,2,0
+THCS A,6A1,Tiếng Anh 6,5,1,1,0,0
+THCS A,6A2,Tiếng Anh 6,1,0,0,0,0
+THCS A,6A3,Tiếng Anh 6,2,0,0,0,0
+THCS A,6A4,Tiếng Anh 6,4,1,1,0,0
+THCS A,6A5,Tiếng Anh 6,4,1,1,0,0
+THCS A,6A1,KHTN 6,3,1,1,0,0
+THCS A,6A2,KHTN 6,3,3,3,0,0
+THCS A,6A3,KHTN 6,6,2,2,0,0
+THCS A,6A4,KHTN 6,4,2,2,0,0
+THCS A,6A5,KHTN 6,3,2,2,0,0
+THCS A,6A2,Lịch sử và Địa lí 6,2,2,0,0,2
+THCS A,6A3,Lịch sử và Địa lí 6,4,0,0,0,0
+THCS A,6A4,Lịch sử và Địa lí 6,3,3,1,0,2
+THCS A,6A5,Lịch sử và Địa lí 6,4,1,0,0,1
+THCS A,6A1,GDCD 6,2,2,2,0,0
+THCS A,6A3,GDCD 6,3,2,2,1,0
+THCS A,6A5,GDCD 6,3,0,0,3,0
+THCS A,6A1,Tin học 6,4,2,2,2,0
+THCS A,6A2,Tin học 6,1,0,0,1,0
+THCS A,6A3,Tin học 6,3,1,1,2,0
+THCS A,6A5,Tin học 6,1,1,1,0,0
+THCS A,6A1,Công nghệ 6,4,1,1,3,0
+THCS A,6A2,Công nghệ 6,2,1,1,1,0
+THCS A,6A3,Công nghệ 6,3,0,0,3,0
+THCS A,6A4,Công nghệ 6,1,1,1,0,0
+THCS A,7A1,Toán 7,3,0,0,3,0
+THCS A,7A2,Toán 7,1,0,0,1,0
+THCS A,7A3,Toán 7,1,1,1,0,0
+THCS A,7A4,Toán 7,3,1,1,2,0
+THCS A,7A5,Toán 7,1,1,1,0,0
+THCS A,7A1,Ngữ văn 7,3,2,2,1,0
+THCS A,7A2,Ngữ văn 7,4,3,3,1,0
+THCS A,7A3,Ngữ văn 7,2,2,2,0,0
+THCS A,7A4,Ngữ văn 7,1,0,0,1,0
+THCS A,7A5,Ngữ văn 7,2,1,1,1,0
+THCS A,7A2,Tiếng Anh 7,6,3,3,3,0
+THCS A,7A4,Tiếng Anh 7,3,3,3,0,0
+THCS A,7A5,Tiếng Anh 7,2,1,1,1,0
+THCS A,7A1,KHTN 7,1,1,1,0,0
+THCS A,7A3,KHTN 7,1,0,0,0,0
+THCS A,7A4,KHTN 7,2,0,0,0,0
+THCS A,7A5,KHTN 7,1,1,1,0,0
+THCS A,7A2,Lịch sử và Địa lí 7,3,2,2,0,0
+THCS A,7A3,Lịch sử và Địa lí 7,1,0,0,0,0
+THCS A,7A4,Lịch sử và Địa lí 7,2,0,0,0,0
+THCS A,7A5,Lịch sử và Địa lí 7,2,1,1,0,0
+THCS A,7A1,GDCD 7,5,1,1,0,0
+THCS A,7A2,GDCD 7,4,3,3,0,0
+THCS A,7A3,GDCD 7,1,1,1,0,0
+THCS A,7A4,GDCD 7,2,1,1,0,0
+THCS A,7A5,GDCD 7,4,0,0,0,0
+THCS A,7A1,Tin học 7,5,3,3,2,0
+THCS A,7A2,Tin học 7,2,1,1,1,0
+THCS A,7A3,Tin học 7,2,1,1,1,0
+THCS A,7A4,Tin học 7,3,1,1,2,0
+THCS A,7A5,Tin học 7,1,0,0,1,0
+THCS A,7A1,Công nghệ 7,3,1,1,2,0
+THCS A,7A2,Công nghệ 7,5,4,4,1,0
+THCS A,7A3,Công nghệ 7,1,1,1,0,0
+THCS A,7A4,Công nghệ 7,4,2,2,2,0
+THCS A,7A5,Công nghệ 7,3,2,2,1,0
+THCS A,8A1,Toán 8,3,1,1,0,0
+THCS A,8A3,Toán 8,2,1,1,0,0
+THCS A,8A4,Toán 8,3,1,1,0,0
+THCS A,8A5,Toán 8,3,3,3,0,0
+THCS A,8A6,Toán 8,1,0,0,0,0
+THCS A,8A7,Toán 8,1,1,1,0,0
+THCS A,8A1,Ngữ văn 8,3,0,0,3,0
+THCS A,8A2,Ngữ văn 8,2,1,1,1,0
+THCS A,8A4,Ngữ văn 8,2,1,1,1,0
+THCS A,8A5,Ngữ văn 8,1,1,1,0,0
+THCS A,8A6,Ngữ văn 8,1,0,0,1,0
+THCS A,8A1,Tiếng Anh 8,2,0,0,0,0
+THCS A,8A3,Tiếng Anh 8,2,1,1,0,0
+THCS A,8A4,Tiếng Anh 8,5,4,4,0,0
+THCS A,8A6,Tiếng Anh 8,2,1,1,0,0
+THCS A,8A1,KHTN 8,2,0,0,0,0
+THCS A,8A2,KHTN 8,5,1,1,1,0
+THCS A,8A3,KHTN 8,2,1,1,0,0
+THCS A,8A4,KHTN 8,1,1,1,0,0
+THCS A,8A5,KHTN 8,2,1,1,0,0
+THCS A,8A7,KHTN 8,1,0,0,0,0
+THCS A,8A1,Lịch sử và Địa lí 8,1,0,0,0,0
+THCS A,8A2,Lịch sử và Địa lí 8,2,1,1,0,0
+THCS A,8A3,Lịch sử và Địa lí 8,3,2,2,0,0
+THCS A,8A4,Lịch sử và Địa lí 8,2,2,2,0,0
+THCS A,8A5,Lịch sử và Địa lí 8,2,0,0,0,0
+THCS A,8A6,Lịch sử và Địa lí 8,2,0,0,0,0
+THCS A,8A7,Lịch sử và Địa lí 8,1,0,0,0,0
+THCS A,8A1,GDCD 8,2,2,2,0,0
+THCS A,8A2,GDCD 8,2,2,2,0,0
+THCS A,8A3,GDCD 8,2,2,2,0,0
+THCS A,8A4,GDCD 8,3,2,2,1,0
+THCS A,8A5,GDCD 8,3,2,2,1,0
+THCS A,8A6,GDCD 8,1,0,0,1,0
+THCS A,8A1,Tin học 8,2,1,1,1,0
+THCS A,8A2,Tin học 8,2,1,1,1,0
+THCS A,8A3,Tin học 8,1,0,0,1,0
+THCS A,8A5,Tin học 8,2,1,1,1,0
+THCS A,8A7,Tin học 8,3,2,2,1,0
+THCS A,8A1,Công nghệ 8,1,1,1,0,0
+THCS A,8A2,Công nghệ 8,1,1,1,0,0
+THCS A,8A3,Công nghệ 8,1,0,0,1,0
+THCS A,8A4,Công nghệ 8,3,2,2,1,0
+THCS A,8A6,Công nghệ 8,1,1,1,0,0
+THCS A,8A7,Công nghệ 8,2,1,1,1,0
+THCS A,9A4,Toán 9,1,0,0,1,0
+THCS A,9A5,Toán 9,1,1,1,0,0
+THCS A,9A6,Toán 9,1,0,0,1,0
+THCS A,9A1,Ngữ văn 9,1,1,1,0,0
+THCS A,9A2,Ngữ văn 9,1,1,1,0,0
+THCS A,9A4,Ngữ văn 9,3,3,3,0,0
+THCS A,9A5,Ngữ văn 9,1,0,0,0,0
+THCS A,9A6,Ngữ văn 9,1,0,0,0,0
+THCS A,9A1,Tiếng Anh 9,1,0,0,1,0
+THCS A,9A4,Tiếng Anh 9,1,0,0,1,0
+THCS A,9A3,KHTN 9,1,0,0,1,0
+THCS A,9A4,KHTN 9,1,1,1,0,0
+THCS A,9A5,KHTN 9,3,1,1,2,0
+THCS A,9A6,KHTN 9,1,1,1,0,0
+THCS A,9A1,Lịch sử và Địa lí 9,2,1,1,0,0
+THCS A,9A2,Lịch sử và Địa lí 9,1,0,0,0,0
+THCS A,9A3,Lịch sử và Địa lí 9,2,0,0,0,0
+THCS A,9A4,Lịch sử và Địa lí 9,4,1,1,0,0
+THCS A,9A5,Lịch sử và Địa lí 9,3,1,1,0,0
+THCS A,9A6,Lịch sử và Địa lí 9,2,2,1,0,1
+THCS A,9A1,GDCD 9,2,0,0,1,0
+THCS A,9A2,GDCD 9,1,0,0,0,0
+THCS A,9A3,GDCD 9,1,1,1,0,0
+THCS A,9A4,GDCD 9,2,1,1,0,0
+THCS A,9A5,GDCD 9,3,2,2,0,0
+THCS A,9A6,GDCD 9,2,0,0,0,0
+THCS A,9A1,Tin học 9,2,1,1,0,0
+THCS A,9A2,Tin học 9,2,1,1,0,0
+THCS A,9A3,Tin học 9,1,1,1,0,0
+THCS A,9A4,Tin học 9,1,0,0,0,0
+THCS A,9A5,Tin học 9,3,2,2,0,0
+THCS A,9A6,Tin học 9,2,1,1,0,0
+THCS A,9A1,Công nghệ 9,2,1,1,1,0
+THCS A,9A2,Công nghệ 9,3,1,1,2,0
+THCS A,9A4,Công nghệ 9,3,2,2,1,0
+THCS A,9A5,Công nghệ 9,2,0,0,2,0
+THCS A,9A6,Công nghệ 9,2,1,1,1,0
+THCS B,6A1,Toán 6,10,5,5,0,0
+THCS B,6A2,Toán 6,12,6,6,0,0
+THCS B,6A3,Toán 6,11,5,5,0,0
+THCS B,6A1,Ngữ văn 6,14,1,1,1,0
+THCS B,6A2,Ngữ văn 6,19,6,6,0,0
+THCS B,6A3,Ngữ văn 6,23,4,4,1,0
+THCS B,6A1,Tiếng Anh 6,11,3,3,0,0
+THCS B,6A2,Tiếng Anh 6,19,6,6,0,0
+THCS B,6A3,Tiếng Anh 6,16,2,2,0,0
+THCS B,6A1,KHTN 6,20,4,4,0,0
+THCS B,6A2,KHTN 6,17,7,7,0,0
+THCS B,6A3,KHTN 6,21,9,9,0,0
+THCS B,6A1,Lịch sử và Địa lí 6,13,3,0,0,3
+THCS B,6A2,Lịch sử và Địa lí 6,17,8,0,0,8
+THCS B,6A3,Lịch sử và Địa lí 6,16,4,0,0,4
+THCS B,6A1,GDCD 6,15,3,3,0,0
+THCS B,6A2,GDCD 6,21,5,5,0,0
+THCS B,6A3,GDCD 6,14,5,5,0,0
+THCS B,6A1,Tin học 6,9,2,2,1,0
+THCS B,6A2,Tin học 6,9,4,4,1,0
+THCS B,6A3,Tin học 6,12,2,2,1,0
+THCS B,6A1,Công nghệ 6,15,5,5,0,0
+THCS B,6A2,Công nghệ 6,20,5,5,0,0
+THCS B,6A3,Công nghệ 6,10,7,7,0,0
+THCS B,7A1,Toán 7,14,4,4,0,0
+THCS B,7A2,Toán 7,9,6,6,0,0
+THCS B,7A3,Toán 7,14,4,4,0,0
+THCS B,7A4,Toán 7,12,2,2,0,0
+THCS B,7A1,Ngữ văn 7,21,2,2,1,0
+THCS B,7A2,Ngữ văn 7,17,4,4,1,0
+THCS B,7A3,Ngữ văn 7,17,2,2,1,0
+THCS B,7A4,Ngữ văn 7,21,5,5,1,0
+THCS B,7A1,Tiếng Anh 7,11,3,3,0,0
+THCS B,7A2,Tiếng Anh 7,14,9,9,0,0
+THCS B,7A3,Tiếng Anh 7,16,6,6,0,0
+THCS B,7A4,Tiếng Anh 7,9,4,4,0,0
+THCS B,7A1,KHTN 7,14,9,8,0,1
+THCS B,7A2,KHTN 7,9,2,2,0,0
+THCS B,7A3,KHTN 7,12,3,2,0,1
+THCS B,7A4,KHTN 7,15,5,4,0,1
+THCS B,7A1,Lịch sử và Địa lí 7,17,4,1,0,3
+THCS B,7A2,Lịch sử và Địa lí 7,13,2,0,0,2
+THCS B,7A3,Lịch sử và Địa lí 7,19,6,1,0,5
+THCS B,7A4,Lịch sử và Địa lí 7,16,8,2,0,6
+THCS B,7A1,GDCD 7,30,12,10,0,2
+THCS B,7A2,GDCD 7,29,10,9,0,1
+THCS B,7A3,GDCD 7,27,8,7,0,1
+THCS B,7A4,GDCD 7,28,11,9,0,2
+THCS B,7A1,Tin học 7,18,0,0,0,0
+THCS B,7A2,Tin học 7,16,4,4,0,0
+THCS B,7A3,Tin học 7,14,3,3,0,0
+THCS B,7A4,Tin học 7,10,4,4,0,0
+THCS B,7A1,Công nghệ 7,10,5,5,0,0
+THCS B,7A2,Công nghệ 7,15,5,5,0,0
+THCS B,7A3,Công nghệ 7,9,4,4,0,0
+THCS B,7A4,Công nghệ 7,11,4,4,0,0
+THCS B,8A1,Toán 8,22,7,7,0,0
+THCS B,8A2,Toán 8,22,6,6,0,0
+THCS B,8A3,Toán 8,18,7,7,0,0
+THCS B,8A4,Toán 8,14,3,3,0,0
+THCS B,8A5,Toán 8,14,4,4,0,0
+THCS B,8A6,Toán 8,23,8,8,0,0
+THCS B,8A1,Ngữ văn 8,12,5,5,0,0
+THCS B,8A2,Ngữ văn 8,17,5,5,0,0
+THCS B,8A3,Ngữ văn 8,15,4,4,0,0
+THCS B,8A4,Ngữ văn 8,13,4,4,0,0
+THCS B,8A5,Ngữ văn 8,12,5,5,0,0
+THCS B,8A6,Ngữ văn 8,7,1,1,0,0
+THCS B,8A1,Tiếng Anh 8,12,5,5,0,0
+THCS B,8A2,Tiếng Anh 8,15,5,5,0,0
+THCS B,8A3,Tiếng Anh 8,15,4,4,0,0
+THCS B,8A4,Tiếng Anh 8,8,5,5,0,0
+THCS B,8A5,Tiếng Anh 8,14,6,6,0,0
+THCS B,8A6,Tiếng Anh 8,15,7,7,0,0
+THCS B,8A1,KHTN 8,23,10,10,0,0
+THCS B,8A2,KHTN 8,16,4,4,0,0
+THCS B,8A3,KHTN 8,21,6,6,0,0
+THCS B,8A4,KHTN 8,12,5,5,0,0
+THCS B,8A5,KHTN 8,21,8,8,0,0
+THCS B,8A6,KHTN 8,19,6,6,0,0
+THCS B,8A1,Lịch sử và Địa lí 8,15,7,1,0,6
+THCS B,8A2,Lịch sử và Địa lí 8,11,3,0,0,3
+THCS B,8A3,Lịch sử và Địa lí 8,10,3,0,0,3
+THCS B,8A4,Lịch sử và Địa lí 8,6,3,0,0,3
+THCS B,8A5,Lịch sử và Địa lí 8,13,4,1,0,3
+THCS B,8A6,Lịch sử và Địa lí 8,15,7,1,0,6
+THCS B,8A1,GDCD 8,13,2,2,0,0
+THCS B,8A2,GDCD 8,22,8,8,0,0
+THCS B,8A3,GDCD 8,16,5,5,0,0
+THCS B,8A4,GDCD 8,9,4,4,0,0
+THCS B,8A5,GDCD 8,14,4,4,0,0
+THCS B,8A6,GDCD 8,12,2,2,0,0
+THCS B,8A1,Tin học 8,16,6,6,0,0
+THCS B,8A2,Tin học 8,16,5,5,0,0
+THCS B,8A3,Tin học 8,9,2,2,0,0
+THCS B,8A4,Tin học 8,12,4,4,0,0
+THCS B,8A5,Tin học 8,11,5,5,0,0
+THCS B,8A6,Tin học 8,14,6,6,0,0
+THCS B,8A1,Công nghệ 8,20,6,6,0,0
+THCS B,8A2,Công nghệ 8,21,7,7,0,0
+THCS B,8A3,Công nghệ 8,12,6,6,0,0
+THCS B,8A4,Công nghệ 8,17,3,3,0,0
+THCS B,8A5,Công nghệ 8,19,6,6,0,0
+THCS B,8A6,Công nghệ 8,19,5,5,0,0
+THCS B,9A1,Toán 9,5,0,0,2,0
+THCS B,9A2,Toán 9,2,1,1,0,0
+THCS B,9A3,Toán 9,4,0,0,1,0
+THCS B,9A4,Toán 9,6,1,1,2,0
+THCS B,9A5,Toán 9,2,1,1,0,0
+THCS B,9A6,Toán 9,4,2,2,1,0
+THCS B,9A7,Toán 9,6,1,1,1,0
+THCS B,9A1,Ngữ văn 9,22,3,3,0,0
+THCS B,9A2,Ngữ văn 9,17,3,3,0,0
+THCS B,9A3,Ngữ văn 9,23,12,12,0,0
+THCS B,9A4,Ngữ văn 9,14,3,3,0,0
+THCS B,9A5,Ngữ văn 9,20,7,7,0,0
+THCS B,9A6,Ngữ văn 9,25,10,10,0,0
+THCS B,9A7,Ngữ văn 9,17,6,6,0,0
+THCS B,9A1,Tiếng Anh 9,14,5,5,0,0
+THCS B,9A2,Tiếng Anh 9,18,7,7,0,0
+THCS B,9A3,Tiếng Anh 9,14,8,8,0,0
+THCS B,9A4,Tiếng Anh 9,16,7,7,0,0
+THCS B,9A5,Tiếng Anh 9,14,6,6,0,0
+THCS B,9A6,Tiếng Anh 9,21,10,10,0,0
+THCS B,9A7,Tiếng Anh 9,17,5,5,0,0
+THCS B,9A1,KHTN 9,10,4,4,0,0
+THCS B,9A2,KHTN 9,13,3,3,1,0
+THCS B,9A3,KHTN 9,16,3,3,1,0
+THCS B,9A4,KHTN 9,13,2,2,1,0
+THCS B,9A5,KHTN 9,10,3,3,0,0
+THCS B,9A6,KHTN 9,14,4,4,0,0
+THCS B,9A7,KHTN 9,11,4,4,0,0
+THCS B,9A1,Lịch sử và Địa lí 9,13,5,1,0,4
+THCS B,9A2,Lịch sử và Địa lí 9,6,2,0,0,2
+THCS B,9A3,Lịch sử và Địa lí 9,12,3,0,0,3
+THCS B,9A4,Lịch sử và Địa lí 9,19,4,0,0,4
+THCS B,9A5,Lịch sử và Địa lí 9,8,2,0,0,2
+THCS B,9A6,Lịch sử và Địa lí 9,14,3,0,0,3
+THCS B,9A7,Lịch sử và Địa lí 9,12,5,1,0,4
+THCS B,9A1,GDCD 9,16,4,4,0,0
+THCS B,9A2,GDCD 9,10,7,7,0,0
+THCS B,9A3,GDCD 9,13,1,1,0,0
+THCS B,9A4,GDCD 9,16,3,3,0,0
+THCS B,9A5,GDCD 9,18,4,4,0,0
+THCS B,9A6,GDCD 9,16,1,1,0,0
+THCS B,9A7,GDCD 9,19,5,5,0,0
+THCS B,9A1,Tin học 9,20,7,7,0,0
+THCS B,9A2,Tin học 9,19,7,7,0,0
+THCS B,9A3,Tin học 9,26,12,12,0,0
+THCS B,9A4,Tin học 9,26,9,9,0,0
+THCS B,9A5,Tin học 9,24,14,14,0,0
+THCS B,9A6,Tin học 9,21,7,7,0,0
+THCS B,9A7,Tin học 9,19,2,2,0,0
+THCS B,9A1,Công nghệ 9,8,4,4,2,0
+THCS B,9A2,Công nghệ 9,7,3,3,2,0
+THCS B,9A3,Công nghệ 9,10,2,2,5,0
+THCS B,9A4,Công nghệ 9,10,3,3,4,0
+THCS B,9A5,Công nghệ 9,7,1,1,4,0
+THCS B,9A6,Công nghệ 9,5,1,1,2,0
+THCS B,9A7,Công nghệ 9,5,1,1,2,0
+THCS C,6A1,Toán 6,12,5,5,0,0
+THCS C,6A2,Toán 6,5,1,1,0,0
+THCS C,6A3,Toán 6,16,5,5,0,0
+THCS C,6A4,Toán 6,11,2,2,0,0
+THCS C,6A5,Toán 6,11,1,1,0,0
+THCS C,6A6,Toán 6,10,3,3,0,0
+THCS C,6A7,Toán 6,13,3,3,0,0
+THCS C,6A1,Ngữ văn 6,9,5,5,0,0
+THCS C,6A2,Ngữ văn 6,6,0,0,0,0
+THCS C,6A3,Ngữ văn 6,8,4,4,0,0
+THCS C,6A4,Ngữ văn 6,10,1,1,0,0
+THCS C,6A5,Ngữ văn 6,8,2,2,0,0
+THCS C,6A6,Ngữ văn 6,8,5,5,0,0
+THCS C,6A7,Ngữ văn 6,5,5,5,0,0
+THCS C,6A1,Tiếng Anh 6,23,8,8,0,0
+THCS C,6A2,Tiếng Anh 6,14,5,5,0,0
+THCS C,6A3,Tiếng Anh 6,20,10,10,0,0
+THCS C,6A4,Tiếng Anh 6,15,8,8,0,0
+THCS C,6A5,Tiếng Anh 6,15,7,7,0,0
+THCS C,6A6,Tiếng Anh 6,27,6,6,0,0
+THCS C,6A7,Tiếng Anh 6,19,10,10,0,0
+THCS C,6A1,KHTN 6,8,4,4,0,0
+THCS C,6A2,KHTN 6,9,6,6,0,0
+THCS C,6A3,KHTN 6,15,9,9,0,0
+THCS C,6A4,KHTN 6,6,3,3,0,0
+THCS C,6A5,KHTN 6,12,7,7,0,0
+THCS C,6A6,KHTN 6,11,3,3,0,0
+THCS C,6A7,KHTN 6,11,2,2,0,0
+THCS C,6A1,Lịch sử và Địa lí 6,6,2,1,0,1
+THCS C,6A2,Lịch sử và Địa lí 6,2,1,1,0,0
+THCS C,6A3,Lịch sử và Địa lí 6,4,0,0,0,0
+THCS C,6A4,Lịch sử và Địa lí 6,7,5,2,0,3
+THCS C,6A5,Lịch sử và Địa lí 6,3,2,1,0,1
+THCS C,6A6,Lịch sử và Địa lí 6,5,3,1,0,2
+THCS C,6A7,Lịch sử và Địa lí 6,2,0,0,0,0
+THCS C,6A1,GDCD 6,26,6,6,0,0
+THCS C,6A2,GDCD 6,14,5,5,0,0
+THCS C,6A3,GDCD 6,24,7,7,0,0
+THCS C,6A4,GDCD 6,24,7,7,0,0
+THCS C,6A5,GDCD 6,28,11,11,0,0
+THCS C,6A6,GDCD 6,17,4,4,0,0
+THCS C,6A7,GDCD 6,28,12,12,0,0
+THCS C,6A1,Tin học 6,14,8,8,0,0
+THCS C,6A2,Tin học 6,14,3,3,0,0
+THCS C,6A3,Tin học 6,17,8,8,0,0
+THCS C,6A4,Tin học 6,10,4,4,0,0
+THCS C,6A5,Tin học 6,11,2,2,0,0
+THCS C,6A6,Tin học 6,11,6,6,0,0
+THCS C,6A7,Tin học 6,14,3,3,0,0
+THCS C,6A1,Công nghệ 6,12,7,7,0,0
+THCS C,6A2,Công nghệ 6,11,4,4,0,0
+THCS C,6A3,Công nghệ 6,7,3,3,0,0
+THCS C,6A4,Công nghệ 6,4,0,0,0,0
+THCS C,6A5,Công nghệ 6,4,2,2,0,0
+THCS C,6A6,Công nghệ 6,13,2,2,0,0
+THCS C,6A7,Công nghệ 6,10,3,3,0,0
+THCS C,7A1,Toán 7,12,4,4,0,0
+THCS C,7A2,Toán 7,11,3,3,0,0
+THCS C,7A3,Toán 7,18,10,10,0,0
+THCS C,7A4,Toán 7,7,1,1,0,0
+THCS C,7A5,Toán 7,16,4,4,0,0
+THCS C,7A6,Toán 7,15,4,4,0,0
+THCS C,7A1,Ngữ văn 7,12,3,3,0,0
+THCS C,7A2,Ngữ văn 7,10,7,7,0,0
+THCS C,7A3,Ngữ văn 7,5,3,3,0,0
+THCS C,7A4,Ngữ văn 7,8,3,3,0,0
+THCS C,7A5,Ngữ văn 7,16,4,4,0,0
+THCS C,7A6,Ngữ văn 7,9,3,3,0,0
+THCS C,7A1,Tiếng Anh 7,6,1,1,0,0
+THCS C,7A2,Tiếng Anh 7,13,6,6,0,0
+THCS C,7A3,Tiếng Anh 7,9,1,1,0,0
+THCS C,7A4,Tiếng Anh 7,8,2,2,0,0
+THCS C,7A5,Tiếng Anh 7,14,5,5,0,0
+THCS C,7A6,Tiếng Anh 7,12,7,7,0,0
+THCS C,7A1,KHTN 7,9,3,3,0,0
+THCS C,7A2,KHTN 7,13,4,4,0,0
+THCS C,7A3,KHTN 7,7,5,4,0,1
+THCS C,7A4,KHTN 7,14,4,3,0,1
+THCS C,7A5,KHTN 7,16,6,5,0,1
+THCS C,7A6,KHTN 7,15,4,3,0,1
+THCS C,7A1,Lịch sử và Địa lí 7,12,4,1,0,3
+THCS C,7A2,Lịch sử và Địa lí 7,13,9,1,0,8
+THCS C,7A3,Lịch sử và Địa lí 7,11,3,0,0,3
+THCS C,7A4,Lịch sử và Địa lí 7,12,6,1,0,5
+THCS C,7A5,Lịch sử và Địa lí 7,12,4,0,0,4
+THCS C,7A6,Lịch sử và Địa lí 7,12,4,0,0,4
+THCS C,7A1,GDCD 7,13,6,1,0,5
+THCS C,7A2,GDCD 7,13,6,0,0,6
+THCS C,7A3,GDCD 7,10,2,0,0,2
+THCS C,7A4,GDCD 7,7,2,0,0,2
+THCS C,7A5,GDCD 7,16,6,0,0,6
+THCS C,7A6,GDCD 7,8,1,0,0,1
+THCS C,7A1,Tin học 7,12,2,2,0,0
+THCS C,7A2,Tin học 7,18,8,8,0,0
+THCS C,7A3,Tin học 7,9,2,2,0,0
+THCS C,7A4,Tin học 7,11,4,4,0,0
+THCS C,7A5,Tin học 7,12,3,3,0,0
+THCS C,7A6,Tin học 7,14,3,3,0,0
+THCS C,7A1,Công nghệ 7,9,3,3,0,0
+THCS C,7A2,Công nghệ 7,15,5,5,0,0
+THCS C,7A3,Công nghệ 7,8,2,2,0,0
+THCS C,7A4,Công nghệ 7,9,2,2,0,0
+THCS C,7A5,Công nghệ 7,11,3,3,0,0
+THCS C,7A6,Công nghệ 7,11,6,6,0,0
+THCS C,8A1,Toán 8,15,9,9,0,0
+THCS C,8A2,Toán 8,19,7,7,0,0
+THCS C,8A3,Toán 8,21,7,7,0,0
+THCS C,8A4,Toán 8,15,7,7,0,0
+THCS C,8A1,Ngữ văn 8,15,6,6,0,0
+THCS C,8A2,Ngữ văn 8,8,5,5,0,0
+THCS C,8A3,Ngữ văn 8,14,3,3,0,0
+THCS C,8A4,Ngữ văn 8,18,7,7,0,0
+THCS C,8A1,Tiếng Anh 8,13,3,2,0,1
+THCS C,8A2,Tiếng Anh 8,16,6,3,0,3
+THCS C,8A3,Tiếng Anh 8,17,8,5,0,3
+THCS C,8A4,Tiếng Anh 8,17,9,5,0,4
+THCS C,8A1,KHTN 8,18,7,7,0,0
+THCS C,8A2,KHTN 8,17,6,6,0,0
+THCS C,8A3,KHTN 8,13,4,4,0,0
+THCS C,8A4,KHTN 8,19,13,13,0,0
+THCS C,8A1,Lịch sử và Địa lí 8,4,1,0,0,1
+THCS C,8A2,Lịch sử và Địa lí 8,9,3,1,0,2
+THCS C,8A3,Lịch sử và Địa lí 8,5,3,1,0,2
+THCS C,8A4,Lịch sử và Địa lí 8,9,4,1,0,3
+THCS C,8A1,GDCD 8,16,4,4,0,0
+THCS C,8A2,GDCD 8,7,4,4,0,0
+THCS C,8A3,GDCD 8,8,2,2,0,0
+THCS C,8A4,GDCD 8,12,4,4,0,0
+THCS C,8A1,Tin học 8,13,6,6,0,0
+THCS C,8A2,Tin học 8,10,3,3,0,0
+THCS C,8A3,Tin học 8,19,10,10,0,0
+THCS C,8A4,Tin học 8,16,4,4,0,0
+THCS C,8A1,Công nghệ 8,13,4,4,0,0
+THCS C,8A2,Công nghệ 8,10,5,5,0,0
+THCS C,8A3,Công nghệ 8,10,3,3,0,0
+THCS C,8A4,Công nghệ 8,12,4,4,0,0
+THCS C,9A1,Toán 9,6,3,3,0,0
+THCS C,9A2,Toán 9,11,0,0,0,0
+THCS C,9A3,Toán 9,9,4,4,0,0
+THCS C,9A4,Toán 9,14,8,8,0,0
+THCS C,9A5,Toán 9,8,1,1,0,0
+THCS C,9A6,Toán 9,9,3,3,0,0
+THCS C,9A1,Ngữ văn 9,10,5,5,0,0
+THCS C,9A2,Ngữ văn 9,11,2,2,0,0
+THCS C,9A3,Ngữ văn 9,12,3,3,0,0
+THCS C,9A4,Ngữ văn 9,9,4,4,0,0
+THCS C,9A5,Ngữ văn 9,6,2,2,0,0
+THCS C,9A6,Ngữ văn 9,6,2,2,0,0
+THCS C,9A1,Tiếng Anh 9,16,2,2,0,0
+THCS C,9A2,Tiếng Anh 9,13,1,1,0,0
+THCS C,9A3,Tiếng Anh 9,8,2,2,0,0
+THCS C,9A4,Tiếng Anh 9,7,4,4,0,0
+THCS C,9A5,Tiếng Anh 9,10,2,2,0,0
+THCS C,9A6,Tiếng Anh 9,17,4,4,0,0
+THCS C,9A1,KHTN 9,8,3,3,0,0
+THCS C,9A2,KHTN 9,13,6,6,0,0
+THCS C,9A3,KHTN 9,6,1,1,0,0
+THCS C,9A4,KHTN 9,5,1,1,0,0
+THCS C,9A5,KHTN 9,4,1,1,0,0
+THCS C,9A6,KHTN 9,10,2,2,0,0
+THCS C,9A1,Lịch sử và Địa lí 9,25,12,0,0,12
+THCS C,9A2,Lịch sử và Địa lí 9,36,15,0,0,15
+THCS C,9A3,Lịch sử và Địa lí 9,24,11,0,0,11
+THCS C,9A4,Lịch sử và Địa lí 9,31,9,0,0,9
+THCS C,9A5,Lịch sử và Địa lí 9,21,6,0,0,6
+THCS C,9A6,Lịch sử và Địa lí 9,29,8,0,0,8
+THCS C,9A1,GDCD 9,19,7,7,0,0
+THCS C,9A2,GDCD 9,26,12,12,0,0
+THCS C,9A3,GDCD 9,17,5,5,0,0
+THCS C,9A4,GDCD 9,17,6,6,0,0
+THCS C,9A5,GDCD 9,15,4,4,0,0
+THCS C,9A6,GDCD 9,16,5,5,0,0
+THCS C,9A1,Tin học 9,17,5,4,0,1
+THCS C,9A2,Tin học 9,18,4,4,0,0
+THCS C,9A3,Tin học 9,21,8,7,0,1
+THCS C,9A4,Tin học 9,13,7,6,0,1
+THCS C,9A5,Tin học 9,14,6,5,0,1
+THCS C,9A6,Tin học 9,13,4,4,0,0
+THCS C,9A1,Công nghệ 9,7,2,2,0,0
+THCS C,9A2,Công nghệ 9,4,1,1,0,0
+THCS C,9A3,Công nghệ 9,7,2,2,0,0
+THCS C,9A4,Công nghệ 9,7,2,2,0,0
+THCS C,9A5,Công nghệ 9,4,1,1,0,0
+THCS C,9A6,Công nghệ 9,6,3,3,0,0
+THCS D,6A1,Toán 6,13,0,0,0,0
+THCS D,6A2,Toán 6,16,6,6,0,0
+THCS D,6A3,Toán 6,12,4,4,0,0
+THCS D,6A4,Toán 6,17,4,4,0,0
+THCS D,6A5,Toán 6,13,0,0,0,0
+THCS D,6A6,Toán 6,14,5,5,0,0
+THCS D,6A1,Ngữ văn 6,19,2,2,0,0
+THCS D,6A2,Ngữ văn 6,16,3,3,0,0
+THCS D,6A3,Ngữ văn 6,16,2,2,0,0
+THCS D,6A4,Ngữ văn 6,18,2,2,0,0
+THCS D,6A5,Ngữ văn 6,12,3,3,0,0
+THCS D,6A6,Ngữ văn 6,15,1,1,0,0
+THCS D,6A1,Tiếng Anh 6,18,3,3,0,0
+THCS D,6A2,Tiếng Anh 6,11,3,2,0,1
+THCS D,6A3,Tiếng Anh 6,17,4,3,0,1
+THCS D,6A4,Tiếng Anh 6,10,1,1,0,0
+THCS D,6A5,Tiếng Anh 6,13,2,2,0,0
+THCS D,6A6,Tiếng Anh 6,13,3,2,0,1
+THCS D,6A1,KHTN 6,24,2,2,0,0
+THCS D,6A2,KHTN 6,22,8,5,0,3
+THCS D,6A3,KHTN 6,29,9,6,0,3
+THCS D,6A4,KHTN 6,25,2,1,0,1
+THCS D,6A5,KHTN 6,20,6,4,0,2
+THCS D,6A6,KHTN 6,20,3,2,0,1
+THCS D,6A1,Lịch sử và Địa lí 6,19,6,1,0,5
+THCS D,6A2,Lịch sử và Địa lí 6,17,1,0,0,1
+THCS D,6A3,Lịch sử và Địa lí 6,21,3,1,0,2
+THCS D,6A4,Lịch sử và Địa lí 6,20,1,0,0,1
+THCS D,6A5,Lịch sử và Địa lí 6,21,2,0,0,2
+THCS D,6A6,Lịch sử và Địa lí 6,15,4,1,0,3
+THCS D,6A1,GDCD 6,16,2,2,0,0
+THCS D,6A2,GDCD 6,14,1,1,0,0
+THCS D,6A3,GDCD 6,18,3,3,0,0
+THCS D,6A4,GDCD 6,11,1,1,0,0
+THCS D,6A5,GDCD 6,15,2,2,0,0
+THCS D,6A6,GDCD 6,17,1,1,0,0
+THCS D,6A1,Tin học 6,26,3,3,0,0
+THCS D,6A2,Tin học 6,16,2,2,0,0
+THCS D,6A3,Tin học 6,16,4,4,0,0
+THCS D,6A4,Tin học 6,16,2,2,0,0
+THCS D,6A5,Tin học 6,19,6,6,0,0
+THCS D,6A6,Tin học 6,13,1,1,0,0
+THCS D,6A1,Công nghệ 6,36,4,4,0,0
+THCS D,6A2,Công nghệ 6,35,9,9,0,0
+THCS D,6A3,Công nghệ 6,39,5,5,0,0
+THCS D,6A4,Công nghệ 6,33,4,4,0,0
+THCS D,6A5,Công nghệ 6,30,3,3,0,0
+THCS D,6A6,Công nghệ 6,33,5,5,0,0
+THCS D,7A1,Toán 7,15,5,5,0,0
+THCS D,7A2,Toán 7,20,1,1,0,0
+THCS D,7A3,Toán 7,22,4,4,0,0
+THCS D,7A1,Ngữ văn 7,13,3,3,0,0
+THCS D,7A2,Ngữ văn 7,15,2,2,0,0
+THCS D,7A3,Ngữ văn 7,22,4,4,0,0
+THCS D,7A1,Tiếng Anh 7,9,2,2,0,0
+THCS D,7A2,Tiếng Anh 7,12,6,6,0,0
+THCS D,7A3,Tiếng Anh 7,11,2,2,0,0
+THCS D,7A1,KHTN 7,28,2,2,0,0
+THCS D,7A2,KHTN 7,30,3,2,0,1
+THCS D,7A3,KHTN 7,34,6,4,0,2
+THCS D,7A1,Lịch sử và Địa lí 7,12,5,3,0,2
+THCS D,7A2,Lịch sử và Địa lí 7,11,3,2,0,1
+THCS D,7A3,Lịch sử và Địa lí 7,12,3,1,0,2
+THCS D,7A1,GDCD 7,10,2,2,0,0
+THCS D,7A2,GDCD 7,13,0,0,0,0
+THCS D,7A3,GDCD 7,11,3,3,0,0
+THCS D,7A1,Tin học 7,17,2,2,0,0
+THCS D,7A2,Tin học 7,17,4,4,0,0
+THCS D,7A3,Tin học 7,20,2,2,0,0
+THCS D,7A1,Công nghệ 7,8,2,2,0,0
+THCS D,7A2,Công nghệ 7,15,2,2,0,0
+THCS D,7A3,Công nghệ 7,12,5,5,0,0
+THCS D,8A1,Toán 8,23,3,1,0,2
+THCS D,8A2,Toán 8,29,6,3,0,3
+THCS D,8A3,Toán 8,28,5,2,0,3
+THCS D,8A4,Toán 8,22,5,2,0,3
+THCS D,8A5,Toán 8,25,2,1,0,1
+THCS D,8A1,Ngữ văn 8,8,2,2,0,0
+THCS D,8A2,Ngữ văn 8,14,4,4,0,0
+THCS D,8A3,Ngữ văn 8,9,2,2,0,0
+THCS D,8A4,Ngữ văn 8,11,2,2,0,0
+THCS D,8A5,Ngữ văn 8,10,2,2,0,0
+THCS D,8A1,Tiếng Anh 8,8,4,1,0,3
+THCS D,8A2,Tiếng Anh 8,12,1,0,0,1
+THCS D,8A3,Tiếng Anh 8,14,2,1,0,1
+THCS D,8A4,Tiếng Anh 8,12,2,1,0,1
+THCS D,8A5,Tiếng Anh 8,8,3,1,0,2
+THCS D,8A1,KHTN 8,7,1,1,0,0
+THCS D,8A2,KHTN 8,15,3,3,0,0
+THCS D,8A3,KHTN 8,22,4,4,0,0
+THCS D,8A4,KHTN 8,12,1,1,0,0
+THCS D,8A5,KHTN 8,13,3,3,0,0
+THCS D,8A1,Lịch sử và Địa lí 8,15,3,0,0,3
+THCS D,8A2,Lịch sử và Địa lí 8,13,6,1,0,5
+THCS D,8A3,Lịch sử và Địa lí 8,14,3,0,0,3
+THCS D,8A4,Lịch sử và Địa lí 8,14,2,0,0,2
+THCS D,8A5,Lịch sử và Địa lí 8,13,3,0,0,3
+THCS D,8A1,GDCD 8,21,4,4,0,0
+THCS D,8A2,GDCD 8,25,4,4,0,0
+THCS D,8A3,GDCD 8,23,0,0,0,0
+THCS D,8A4,GDCD 8,28,5,5,0,0
+THCS D,8A5,GDCD 8,24,3,3,0,0
+THCS D,8A1,Tin học 8,16,2,2,0,0
+THCS D,8A2,Tin học 8,13,3,3,0,0
+THCS D,8A3,Tin học 8,18,2,2,0,0
+THCS D,8A4,Tin học 8,13,2,2,0,0
+THCS D,8A5,Tin học 8,14,2,2,0,0
+THCS D,8A1,Công nghệ 8,11,4,4,0,0
+THCS D,8A2,Công nghệ 8,17,5,5,0,0
+THCS D,8A3,Công nghệ 8,15,0,0,0,0
+THCS D,8A4,Công nghệ 8,13,5,5,0,0
+THCS D,8A5,Công nghệ 8,9,1,1,0,0
+THCS D,9A1,Toán 9,15,5,5,0,0
+THCS D,9A2,Toán 9,12,1,1,0,0
+THCS D,9A3,Toán 9,14,1,1,0,0
+THCS D,9A4,Toán 9,12,2,2,0,0
+THCS D,9A5,Toán 9,11,1,1,0,0
+THCS D,9A6,Toán 9,13,5,5,0,0
+THCS D,9A1,Ngữ văn 9,11,1,1,0,0
+THCS D,9A2,Ngữ văn 9,12,2,2,0,0
+THCS D,9A3,Ngữ văn 9,11,3,3,0,0
+THCS D,9A4,Ngữ văn 9,10,0,0,0,0
+THCS D,9A5,Ngữ văn 9,12,3,3,0,0
+THCS D,9A6,Ngữ văn 9,11,3,3,0,0
+THCS D,9A1,Tiếng Anh 9,10,2,2,0,0
+THCS D,9A2,Tiếng Anh 9,18,5,5,0,0
+THCS D,9A3,Tiếng Anh 9,12,4,4,0,0
+THCS D,9A4,Tiếng Anh 9,9,1,1,0,0
+THCS D,9A5,Tiếng Anh 9,5,1,1,0,0
+THCS D,9A6,Tiếng Anh 9,15,2,2,0,0
+THCS D,9A1,KHTN 9,15,3,3,0,0
+THCS D,9A2,KHTN 9,16,2,2,0,0
+THCS D,9A3,KHTN 9,15,4,4,0,0
+THCS D,9A4,KHTN 9,11,0,0,0,0
+THCS D,9A5,KHTN 9,14,1,1,0,0
+THCS D,9A6,KHTN 9,14,5,5,0,0
+THCS D,9A1,Lịch sử và Địa lí 9,25,4,0,0,4
+THCS D,9A2,Lịch sử và Địa lí 9,16,2,0,0,2
+THCS D,9A3,Lịch sử và Địa lí 9,21,1,0,0,1
+THCS D,9A4,Lịch sử và Địa lí 9,21,4,0,0,4
+THCS D,9A5,Lịch sử và Địa lí 9,21,4,0,0,4
+THCS D,9A6,Lịch sử và Địa lí 9,15,4,0,0,4
+THCS D,9A1,GDCD 9,20,4,4,0,0
+THCS D,9A2,GDCD 9,21,5,5,0,0
+THCS D,9A3,GDCD 9,11,1,1,0,0
+THCS D,9A4,GDCD 9,20,4,4,0,0
+THCS D,9A5,GDCD 9,18,7,7,0,0
+THCS D,9A6,GDCD 9,22,7,7,0,0
+THCS D,9A1,Tin học 9,31,10,3,0,7
+THCS D,9A2,Tin học 9,25,4,1,0,3
+THCS D,9A3,Tin học 9,22,2,1,0,1
+THCS D,9A4,Tin học 9,24,1,0,0,1
+THCS D,9A5,Tin học 9,28,5,2,0,3
+THCS D,9A6,Tin học 9,30,5,2,0,3
+THCS D,9A1,Công nghệ 9,6,3,3,0,0
+THCS D,9A2,Công nghệ 9,7,0,0,1,0
+THCS D,9A3,Công nghệ 9,7,0,0,1,0
+THCS D,9A4,Công nghệ 9,9,2,2,1,0
+THCS D,9A5,Công nghệ 9,8,0,0,1,0
+THCS D,9A6,Công nghệ 9,8,2,2,0,0
+THCS E,6A1,Toán 6,1,0,0,1,0
+THCS E,6A2,Toán 6,1,0,0,1,0
+THCS E,6A1,Ngữ văn 6,4,1,1,3,0
+THCS E,6A2,Ngữ văn 6,2,0,0,2,0
+THCS E,6A1,Tiếng Anh 6,3,0,0,0,0
+THCS E,6A2,Tiếng Anh 6,3,1,1,0,0
+THCS E,6A3,Tiếng Anh 6,5,0,0,0,0
+THCS E,6A1,KHTN 6,1,0,0,0,0
+THCS E,6A2,KHTN 6,2,0,0,0,0
+THCS E,6A3,KHTN 6,4,0,0,0,0
+THCS E,6A1,Lịch sử và Địa lí 6,4,0,0,0,0
+THCS E,6A2,Lịch sử và Địa lí 6,4,1,0,0,1
+THCS E,6A3,Lịch sử và Địa lí 6,1,1,0,0,1
+THCS E,6A2,GDCD 6,2,0,0,0,0
+THCS E,6A1,Tin học 6,1,0,0,0,0
+THCS E,6A2,Tin học 6,1,0,0,0,0
+THCS E,6A3,Tin học 6,2,1,1,0,0
+THCS E,6A2,Công nghệ 6,1,0,0,0,0
+THCS E,6A3,Công nghệ 6,2,0,0,0,0
+THCS E,7A1,Toán 7,3,0,0,0,0
+THCS E,7A2,Toán 7,5,0,0,0,0
+THCS E,7A3,Toán 7,3,1,1,0,0
+THCS E,7A4,Toán 7,2,0,0,0,0
+THCS E,7A5,Toán 7,2,0,0,0,0
+THCS E,7A1,Ngữ văn 7,3,0,0,3,0
+THCS E,7A2,Ngữ văn 7,3,0,0,3,0
+THCS E,7A3,Ngữ văn 7,4,0,0,4,0
+THCS E,7A4,Ngữ văn 7,1,0,0,1,0
+THCS E,7A5,Ngữ văn 7,4,0,0,4,0
+THCS E,7A1,Tiếng Anh 7,1,0,0,0,0
+THCS E,7A2,Tiếng Anh 7,1,0,0,0,0
+THCS E,7A3,Tiếng Anh 7,3,0,0,0,0
+THCS E,7A4,Tiếng Anh 7,3,0,0,0,0
+THCS E,7A5,Tiếng Anh 7,2,0,0,0,0
+THCS E,7A1,KHTN 7,1,0,0,0,0
+THCS E,7A2,KHTN 7,1,0,0,0,0
+THCS E,7A3,KHTN 7,1,0,0,0,0
+THCS E,7A4,KHTN 7,2,1,1,0,0
+THCS E,7A3,Lịch sử và Địa lí 7,2,0,0,0,0
+THCS E,7A4,Lịch sử và Địa lí 7,2,0,0,0,0
+THCS E,7A5,Lịch sử và Địa lí 7,1,0,0,0,0
+THCS E,7A1,GDCD 7,2,0,0,0,0
+THCS E,7A2,GDCD 7,2,1,1,0,0
+THCS E,7A4,GDCD 7,5,0,0,0,0
+THCS E,7A5,GDCD 7,2,0,0,0,0
+THCS E,7A4,Tin học 7,1,0,0,1,0
+THCS E,7A1,Công nghệ 7,3,0,0,3,0
+THCS E,7A3,Công nghệ 7,1,0,0,1,0
+THCS E,7A4,Công nghệ 7,1,0,0,1,0
+THCS E,7A5,Công nghệ 7,3,1,1,2,0
+THCS E,8A1,Toán 8,1,1,1,0,0
+THCS E,8A2,Toán 8,1,1,1,0,0
+THCS E,8A3,Toán 8,1,0,0,0,0
+THCS E,8A1,Ngữ văn 8,4,0,0,0,0
+THCS E,8A2,Ngữ văn 8,3,0,0,0,0
+THCS E,8A3,Ngữ văn 8,4,0,0,0,0
+THCS E,8A4,Ngữ văn 8,3,1,1,0,0
+THCS E,8A1,Tiếng Anh 8,4,0,0,0,0
+THCS E,8A2,Tiếng Anh 8,3,0,0,0,0
+THCS E,8A3,Tiếng Anh 8,2,0,0,0,0
+THCS E,8A4,Tiếng Anh 8,3,0,0,0,0
+THCS E,8A1,KHTN 8,2,1,1,0,0
+THCS E,8A3,KHTN 8,4,1,1,0,0
+THCS E,8A4,KHTN 8,6,0,0,0,0
+THCS E,8A1,Lịch sử và Địa lí 8,2,0,0,0,0
+THCS E,8A2,Lịch sử và Địa lí 8,1,1,1,0,0
+THCS E,8A3,Lịch sử và Địa lí 8,1,0,0,0,0
+THCS E,8A4,Lịch sử và Địa lí 8,1,0,0,0,0
+THCS E,8A1,GDCD 8,4,0,0,3,0
+THCS E,8A3,GDCD 8,5,0,0,4,0
+THCS E,8A4,GDCD 8,1,0,0,1,0
+THCS E,8A1,Tin học 8,1,0,0,1,0
+THCS E,8A2,Tin học 8,1,0,0,1,0
+THCS E,8A3,Tin học 8,3,0,0,2,0
+THCS E,8A4,Tin học 8,2,1,1,0,0
+THCS E,8A1,Công nghệ 8,4,1,1,0,0
+THCS E,8A2,Công nghệ 8,7,0,0,0,0
+THCS E,8A3,Công nghệ 8,6,1,1,0,0
+THCS E,8A4,Công nghệ 8,8,1,1,0,0
+THCS E,9A1,Toán 9,1,0,0,1,0
+THCS E,9A3,Toán 9,1,0,0,1,0
+THCS E,9A4,Toán 9,3,1,1,2,0
+THCS E,9A5,Toán 9,1,1,1,0,0
+THCS E,9A1,Ngữ văn 9,2,0,0,0,0
+THCS E,9A2,Ngữ văn 9,1,0,0,0,0
+THCS E,9A3,Ngữ văn 9,1,0,0,0,0
+THCS E,9A4,Ngữ văn 9,1,0,0,0,0
+THCS E,9A1,Tiếng Anh 9,2,0,0,2,0
+THCS E,9A2,Tiếng Anh 9,1,0,0,1,0
+THCS E,9A3,Tiếng Anh 9,2,0,0,2,0
+THCS E,9A5,Tiếng Anh 9,3,0,0,3,0
+THCS E,9A2,KHTN 9,1,0,0,1,0
+THCS E,9A4,KHTN 9,1,0,0,1,0
+THCS E,9A2,Lịch sử và Địa lí 9,1,1,1,0,0
+THCS E,9A3,Lịch sử và Địa lí 9,5,0,0,0,0
+THCS E,9A5,Lịch sử và Địa lí 9,2,0,0,0,0
+THCS E,9A2,GDCD 9,1,0,0,0,0
+THCS E,9A3,GDCD 9,2,0,0,0,0
+THCS E,9A1,Tin học 9,2,0,0,0,0
+THCS E,9A2,Tin học 9,2,0,0,0,0
+THCS E,9A3,Tin học 9,3,0,0,0,0
+THCS E,9A4,Tin học 9,1,1,1,0,0
+THCS E,9A5,Tin học 9,1,0,0,0,0
+THCS E,9A1,Công nghệ 9,7,2,2,5,0
+THCS E,9A3,Công nghệ 9,3,0,0,3,0
+THCS E,9A4,Công nghệ 9,2,0,0,2,0
+THCS E,9A5,Công nghệ 9,4,0,0,4,0
+THCS F,6A1,Toán 6,1,0,0,1,0
+THCS F,6A3,Toán 6,2,0,0,2,0
+THCS F,6A5,Toán 6,3,0,0,3,0
+THCS F,6A6,Toán 6,2,0,0,2,0
+THCS F,6A7,Toán 6,1,1,1,0,0
+THCS F,6A1,Ngữ văn 6,2,0,0,2,0
+THCS F,6A2,Ngữ văn 6,1,0,0,1,0
+THCS F,6A3,Ngữ văn 6,1,0,0,1,0
+THCS F,6A4,Ngữ văn 6,3,1,1,2,0
+THCS F,6A5,Ngữ văn 6,2,1,1,1,0
+THCS F,6A6,Ngữ văn 6,2,0,0,2,0
+THCS F,6A7,Ngữ văn 6,1,0,0,1,0
+THCS F,6A1,Tiếng Anh 6,3,1,1,0,0
+THCS F,6A2,Tiếng Anh 6,1,0,0,0,0
+THCS F,6A3,Tiếng Anh 6,1,1,1,0,0
+THCS F,6A4,Tiếng Anh 6,4,2,2,0,0
+THCS F,6A5,Tiếng Anh 6,2,1,1,0,0
+THCS F,6A6,Tiếng Anh 6,2,0,0,0,0
+THCS F,6A7,Tiếng Anh 6,2,0,0,0,0
+THCS F,6A1,KHTN 6,2,1,1,0,0
+THCS F,6A2,KHTN 6,3,0,0,0,0
+THCS F,6A3,KHTN 6,1,0,0,0,0
+THCS F,6A4,KHTN 6,1,0,0,0,0
+THCS F,6A5,KHTN 6,2,0,0,0,0
+THCS F,6A6,KHTN 6,2,0,0,0,0
+THCS F,6A7,KHTN 6,1,0,0,0,0
+THCS F,6A1,Lịch sử và Địa lí 6,1,0,0,0,0
+THCS F,6A3,Lịch sử và Địa lí 6,3,0,0,0,0
+THCS F,6A4,Lịch sử và Địa lí 6,3,2,2,0,0
+THCS F,6A5,Lịch sử và Địa lí 6,1,1,1,0,0
+THCS F,6A6,Lịch sử và Địa lí 6,1,1,1,0,0
+THCS F,6A7,Lịch sử và Địa lí 6,3,1,1,0,0
+THCS F,6A3,GDCD 6,5,2,2,2,0
+THCS F,6A4,GDCD 6,1,1,1,0,0
+THCS F,6A5,GDCD 6,2,0,0,1,0
+THCS F,6A6,GDCD 6,1,0,0,1,0
+THCS F,6A7,GDCD 6,2,0,0,1,0
+THCS F,6A1,Tin học 6,7,1,1,3,0
+THCS F,6A2,Tin học 6,4,1,1,2,0
+THCS F,6A3,Tin học 6,4,2,2,1,0
+THCS F,6A4,Tin học 6,4,1,1,2,0
+THCS F,6A5,Tin học 6,2,1,1,0,0
+THCS F,6A6,Tin học 6,5,1,1,2,0
+THCS F,6A7,Tin học 6,3,1,1,1,0
+THCS F,6A1,Công nghệ 6,4,2,2,2,0
+THCS F,6A2,Công nghệ 6,4,1,1,2,0
+THCS F,6A3,Công nghệ 6,3,1,1,1,0
+THCS F,6A4,Công nghệ 6,2,1,1,1,0
+THCS F,6A5,Công nghệ 6,3,1,1,1,0
+THCS F,6A6,Công nghệ 6,5,1,1,3,0
+THCS F,6A7,Công nghệ 6,4,1,1,2,0
+THCS F,7A1,Toán 7,3,2,2,1,0
+THCS F,7A2,Toán 7,4,1,1,2,0
+THCS F,7A3,Toán 7,4,1,1,2,0
+THCS F,7A4,Toán 7,5,3,3,1,0
+THCS F,7A1,Ngữ văn 7,3,1,1,2,0
+THCS F,7A2,Ngữ văn 7,4,1,1,3,0
+THCS F,7A3,Ngữ văn 7,1,1,1,0,0
+THCS F,7A4,Ngữ văn 7,3,0,0,3,0
+THCS F,7A2,Tiếng Anh 7,2,0,0,2,0
+THCS F,7A4,Tiếng Anh 7,3,1,1,2,0
+THCS F,7A1,KHTN 7,5,2,2,0,0
+THCS F,7A2,KHTN 7,5,1,1,0,0
+THCS F,7A3,KHTN 7,2,0,0,0,0
+THCS F,7A4,KHTN 7,3,1,1,0,0
+THCS F,7A1,Lịch sử và Địa lí 7,5,2,2,0,0
+THCS F,7A2,Lịch sử và Địa lí 7,5,0,0,0,0
+THCS F,7A3,Lịch sử và Địa lí 7,2,0,0,0,0
+THCS F,7A4,Lịch sử và Địa lí 7,7,2,2,0,0
+THCS F,7A1,GDCD 7,4,1,1,0,0
+THCS F,7A2,GDCD 7,3,1,1,0,0
+THCS F,7A3,GDCD 7,3,1,1,0,0
+THCS F,7A4,GDCD 7,1,0,0,0,0
+THCS F,7A1,Tin học 7,4,1,1,3,0
+THCS F,7A2,Tin học 7,4,2,2,2,0
+THCS F,7A3,Tin học 7,1,0,0,1,0
+THCS F,7A4,Tin học 7,3,1,1,2,0
+THCS F,7A1,Công nghệ 7,6,3,3,3,0
+THCS F,7A2,Công nghệ 7,6,4,4,2,0
+THCS F,7A4,Công nghệ 7,3,0,0,3,0
+THCS F,8A2,Toán 8,2,0,0,0,0
+THCS F,8A3,Toán 8,2,1,1,0,0
+THCS F,8A4,Toán 8,4,0,0,0,0
+THCS F,8A1,Ngữ văn 8,1,0,0,1,0
+THCS F,8A2,Ngữ văn 8,5,3,3,2,0
+THCS F,8A3,Ngữ văn 8,5,0,0,4,0
+THCS F,8A4,Ngữ văn 8,2,0,0,2,0
+THCS F,8A1,Tiếng Anh 8,7,3,3,0,0
+THCS F,8A2,Tiếng Anh 8,1,0,0,0,0
+THCS F,8A3,Tiếng Anh 8,1,0,0,0,0
+THCS F,8A4,Tiếng Anh 8,2,0,0,0,0
+THCS F,8A1,KHTN 8,4,1,1,0,0
+THCS F,8A2,KHTN 8,1,0,0,0,0
+THCS F,8A3,KHTN 8,1,0,0,0,0
+THCS F,8A4,KHTN 8,3,0,0,0,0
+THCS F,8A1,Lịch sử và Địa lí 8,2,1,1,0,0
+THCS F,8A2,Lịch sử và Địa lí 8,3,2,2,0,0
+THCS F,8A3,Lịch sử và Địa lí 8,5,0,0,0,0
+THCS F,8A1,GDCD 8,2,2,2,0,0
+THCS F,8A2,GDCD 8,2,0,0,2,0
+THCS F,8A3,GDCD 8,3,0,0,3,0
+THCS F,8A1,Tin học 8,2,0,0,2,0
+THCS F,8A2,Tin học 8,1,0,0,1,0
+THCS F,8A3,Tin học 8,3,0,0,3,0
+THCS F,8A4,Tin học 8,1,0,0,1,0
+THCS F,8A1,Công nghệ 8,3,1,1,2,0
+THCS F,8A2,Công nghệ 8,2,0,0,2,0
+THCS F,8A3,Công nghệ 8,4,0,0,4,0
+THCS F,8A4,Công nghệ 8,6,2,2,4,0
+THCS F,9A1,Toán 9,1,0,0,1,0
+THCS F,9A2,Toán 9,7,0,0,7,0
+THCS F,9A3,Toán 9,5,4,4,1,0
+THCS F,9A4,Toán 9,2,1,1,1,0
+THCS F,9A5,Toán 9,5,3,3,2,0
+THCS F,9A1,Ngữ văn 9,4,2,2,0,0
+THCS F,9A2,Ngữ văn 9,2,0,0,0,0
+THCS F,9A4,Ngữ văn 9,2,2,2,0,0
+THCS F,9A1,Tiếng Anh 9,5,0,0,1,0
+THCS F,9A2,Tiếng Anh 9,6,1,1,1,0
+THCS F,9A3,Tiếng Anh 9,1,1,1,0,0
+THCS F,9A4,Tiếng Anh 9,5,1,1,1,0
+THCS F,9A5,Tiếng Anh 9,4,1,1,1,0
+THCS F,9A1,KHTN 9,2,0,0,2,0
+THCS F,9A2,KHTN 9,2,0,0,2,0
+THCS F,9A3,KHTN 9,4,1,1,3,0
+THCS F,9A4,KHTN 9,2,0,0,2,0
+THCS F,9A5,KHTN 9,2,1,1,1,0
+THCS F,9A1,Lịch sử và Địa lí 9,1,0,0,0,0
+THCS F,9A2,Lịch sử và Địa lí 9,2,0,0,0,0
+THCS F,9A3,Lịch sử và Địa lí 9,1,0,0,0,0
+THCS F,9A4,Lịch sử và Địa lí 9,2,1,1,0,0
+THCS F,9A5,Lịch sử và Địa lí 9,6,1,1,0,0
+THCS F,9A1,GDCD 9,3,0,0,0,0
+THCS F,9A2,GDCD 9,3,0,0,0,0
+THCS F,9A3,GDCD 9,2,1,1,0,0
+THCS F,9A4,GDCD 9,3,1,1,0,0
+THCS F,9A5,GDCD 9,2,0,0,0,0
+THCS F,9A1,Tin học 9,2,0,0,0,0
+THCS F,9A2,Tin học 9,2,1,1,0,0
+THCS F,9A3,Tin học 9,3,2,2,0,0
+THCS F,9A4,Tin học 9,1,0,0,0,0
+THCS F,9A5,Tin học 9,1,1,1,0,0
+THCS F,9A1,Công nghệ 9,3,0,0,3,0
+THCS F,9A2,Công nghệ 9,1,0,0,1,0
+THCS F,9A3,Công nghệ 9,1,0,0,1,0
+THCS F,9A4,Công nghệ 9,1,1,1,0,0
+THCS F,9A5,Công nghệ 9,1,0,0,1,0
+THCS G,6A1,Toán 6,7,4,4,1,0
+THCS G,6A2,Toán 6,2,1,1,1,0
+THCS G,6A3,Toán 6,3,2,2,0,0
+THCS G,6A4,Toán 6,8,2,2,3,0
+THCS G,6A1,Ngữ văn 6,11,2,2,0,0
+THCS G,6A2,Ngữ văn 6,14,4,4,0,0
+THCS G,6A3,Ngữ văn 6,17,8,8,0,0
+THCS G,6A4,Ngữ văn 6,12,4,4,0,0
+THCS G,6A1,Tiếng Anh 6,13,4,4,0,0
+THCS G,6A2,Tiếng Anh 6,11,5,5,0,0
+THCS G,6A3,Tiếng Anh 6,10,4,4,0,0
+THCS G,6A4,Tiếng Anh 6,10,2,2,0,0
+THCS G,6A1,KHTN 6,18,5,5,0,0
+THCS G,6A2,KHTN 6,19,4,4,0,0
+THCS G,6A3,KHTN 6,18,4,4,0,0
+THCS G,6A4,KHTN 6,17,6,6,0,0
+THCS G,6A1,Lịch sử và Địa lí 6,18,5,1,0,4
+THCS G,6A2,Lịch sử và Địa lí 6,18,7,2,0,5
+THCS G,6A3,Lịch sử và Địa lí 6,18,7,1,0,6
+THCS G,6A4,Lịch sử và Địa lí 6,23,8,2,0,6
+THCS G,6A1,GDCD 6,14,3,3,0,0
+THCS G,6A2,GDCD 6,4,1,1,0,0
+THCS G,6A3,GDCD 6,12,5,5,0,0
+THCS G,6A4,GDCD 6,13,7,7,0,0
+THCS G,6A1,Tin học 6,13,7,7,0,0
+THCS G,6A2,Tin học 6,12,6,6,0,0
+THCS G,6A3,Tin học 6,15,3,3,0,0
+THCS G,6A4,Tin học 6,17,8,8,0,0
+THCS G,6A1,Công nghệ 6,4,0,0,0,0
+THCS G,6A2,Công nghệ 6,6,4,4,0,0
+THCS G,6A3,Công nghệ 6,4,3,3,0,0
+THCS G,6A4,Công nghệ 6,8,5,5,0,0
+THCS G,7A1,Toán 7,5,2,2,0,0
+THCS G,7A2,Toán 7,7,2,2,0,0
+THCS G,7A3,Toán 7,10,4,4,0,0
+THCS G,7A4,Toán 7,9,5,5,0,0
+THCS G,7A5,Toán 7,6,1,1,0,0
+THCS G,7A6,Toán 7,9,5,5,0,0
+THCS G,7A7,Toán 7,7,4,4,0,0
+THCS G,7A1,Ngữ văn 7,7,3,3,1,0
+THCS G,7A2,Ngữ văn 7,4,2,2,0,0
+THCS G,7A3,Ngữ văn 7,9,1,1,1,0
+THCS G,7A4,Ngữ văn 7,7,3,3,1,0
+THCS G,7A5,Ngữ văn 7,6,3,3,0,0
+THCS G,7A6,Ngữ văn 7,4,0,0,1,0
+THCS G,7A7,Ngữ văn 7,4,3,3,0,0
+THCS G,7A1,Tiếng Anh 7,8,3,3,0,0
+THCS G,7A2,Tiếng Anh 7,11,6,6,0,0
+THCS G,7A3,Tiếng Anh 7,17,9,9,0,0
+THCS G,7A4,Tiếng Anh 7,12,7,7,0,0
+THCS G,7A5,Tiếng Anh 7,8,3,3,0,0
+THCS G,7A6,Tiếng Anh 7,15,7,7,0,0
+THCS G,7A7,Tiếng Anh 7,10,4,4,0,0
+THCS G,7A1,KHTN 7,8,4,4,0,0
+THCS G,7A2,KHTN 7,15,10,9,0,1
+THCS G,7A3,KHTN 7,14,5,5,0,0
+THCS G,7A4,KHTN 7,17,8,8,0,0
+THCS G,7A5,KHTN 7,17,9,9,0,0
+THCS G,7A6,KHTN 7,20,9,9,0,0
+THCS G,7A7,KHTN 7,13,6,6,0,0
+THCS G,7A1,Lịch sử và Địa lí 7,19,8,2,0,6
+THCS G,7A2,Lịch sử và Địa lí 7,29,11,2,0,9
+THCS G,7A3,Lịch sử và Địa lí 7,26,7,2,0,5
+THCS G,7A4,Lịch sử và Địa lí 7,26,11,2,0,9
+THCS G,7A5,Lịch sử và Địa lí 7,24,12,3,0,9
+THCS G,7A6,Lịch sử và Địa lí 7,21,7,1,0,6
+THCS G,7A7,Lịch sử và Địa lí 7,16,3,1,0,2
+THCS G,7A1,GDCD 7,25,8,6,0,2
+THCS G,7A2,GDCD 7,21,8,6,0,2
+THCS G,7A3,GDCD 7,26,9,7,0,2
+THCS G,7A4,GDCD 7,21,8,6,0,2
+THCS G,7A5,GDCD 7,24,12,9,0,3
+THCS G,7A6,GDCD 7,17,9,7,0,2
+THCS G,7A7,GDCD 7,17,8,6,0,2
+THCS G,7A1,Tin học 7,8,1,1,0,0
+THCS G,7A2,Tin học 7,10,5,5,0,0
+THCS G,7A3,Tin học 7,18,3,3,0,0
+THCS G,7A4,Tin học 7,8,4,4,0,0
+THCS G,7A5,Tin học 7,12,3,3,0,0
+THCS G,7A6,Tin học 7,15,4,4,0,0
+THCS G,7A7,Tin học 7,10,3,3,0,0
+THCS G,7A1,Công nghệ 7,5,1,1,0,0
+THCS G,7A2,Công nghệ 7,8,1,1,1,0
+THCS G,7A3,Công nghệ 7,9,2,2,1,0
+THCS G,7A4,Công nghệ 7,7,0,0,0,0
+THCS G,7A5,Công nghệ 7,5,3,3,0,0
+THCS G,7A6,Công nghệ 7,7,1,1,0,0
+THCS G,7A7,Công nghệ 7,4,2,2,0,0
+THCS G,8A1,Toán 8,17,8,8,0,0
+THCS G,8A2,Toán 8,12,5,5,0,0
+THCS G,8A3,Toán 8,12,4,4,0,0
+THCS G,8A4,Toán 8,11,5,5,0,0
+THCS G,8A1,Ngữ văn 8,16,5,5,0,0
+THCS G,8A2,Ngữ văn 8,18,11,11,0,0
+THCS G,8A3,Ngữ văn 8,14,6,6,0,0
+THCS G,8A4,Ngữ văn 8,18,8,8,0,0
+THCS G,8A1,Tiếng Anh 8,17,5,5,0,0
+THCS G,8A2,Tiếng Anh 8,11,5,5,0,0
+THCS G,8A3,Tiếng Anh 8,16,7,7,0,0
+THCS G,8A4,Tiếng Anh 8,13,6,6,0,0
+THCS G,8A1,KHTN 8,19,10,10,0,0
+THCS G,8A2,KHTN 8,18,4,4,0,0
+THCS G,8A3,KHTN 8,20,6,6,0,0
+THCS G,8A4,KHTN 8,22,5,5,0,0
+THCS G,8A1,Lịch sử và Địa lí 8,14,3,2,0,1
+THCS G,8A2,Lịch sử và Địa lí 8,6,3,2,0,1
+THCS G,8A3,Lịch sử và Địa lí 8,8,3,2,0,1
+THCS G,8A4,Lịch sử và Địa lí 8,12,6,4,0,2
+THCS G,8A1,GDCD 8,12,3,3,0,0
+THCS G,8A2,GDCD 8,12,3,3,0,0
+THCS G,8A3,GDCD 8,7,2,2,0,0
+THCS G,8A4,GDCD 8,18,6,6,0,0
+THCS G,8A1,Tin học 8,4,3,3,0,0
+THCS G,8A2,Tin học 8,6,2,2,0,0
+THCS G,8A3,Tin học 8,5,3,3,0,0
+THCS G,8A4,Tin học 8,5,1,1,0,0
+THCS G,8A1,Công nghệ 8,16,8,8,0,0
+THCS G,8A2,Công nghệ 8,7,0,0,0,0
+THCS G,8A3,Công nghệ 8,7,2,2,0,0
+THCS G,8A4,Công nghệ 8,12,7,7,0,0
+THCS G,9A1,Toán 9,14,6,6,3,0
+THCS G,9A2,Toán 9,12,6,6,2,0
+THCS G,9A3,Toán 9,17,6,6,4,0
+THCS G,9A4,Toán 9,14,3,3,3,0
+THCS G,9A1,Ngữ văn 9,20,9,7,0,2
+THCS G,9A2,Ngữ văn 9,27,10,7,0,3
+THCS G,9A3,Ngữ văn 9,26,14,10,0,4
+THCS G,9A4,Ngữ văn 9,33,11,8,0,3
+THCS G,9A1,Tiếng Anh 9,11,6,6,0,0
+THCS G,9A2,Tiếng Anh 9,11,4,4,0,0
+THCS G,9A3,Tiếng Anh 9,13,2,2,1,0
+THCS G,9A4,Tiếng Anh 9,18,6,6,1,0
+THCS G,9A1,KHTN 9,11,5,5,3,0
+THCS G,9A2,KHTN 9,7,2,2,3,0
+THCS G,9A3,KHTN 9,8,1,1,4,0
+THCS G,9A4,KHTN 9,12,4,4,4,0
+THCS G,9A1,Lịch sử và Địa lí 9,8,1,0,0,1
+THCS G,9A2,Lịch sử và Địa lí 9,12,3,1,0,2
+THCS G,9A3,Lịch sử và Địa lí 9,13,5,2,0,3
+THCS G,9A4,Lịch sử và Địa lí 9,15,7,3,0,4
+THCS G,9A1,GDCD 9,12,5,5,0,0
+THCS G,9A2,GDCD 9,11,3,3,0,0
+THCS G,9A3,GDCD 9,12,2,2,0,0
+THCS G,9A4,GDCD 9,11,6,6,0,0
+THCS G,9A1,Tin học 9,12,5,5,0,0
+THCS G,9A2,Tin học 9,11,6,6,0,0
+THCS G,9A3,Tin học 9,12,3,3,0,0
+THCS G,9A4,Tin học 9,8,2,2,0,0
+THCS G,9A1,Công nghệ 9,14,2,2,2,0
+THCS G,9A2,Công nghệ 9,8,4,4,1,0
+THCS G,9A3,Công nghệ 9,8,1,1,1,0
+THCS G,9A4,Công nghệ 9,10,4,4,1,0
+THCS H,6A1,Toán 6,8,0,0,1,0
+THCS H,6A2,Toán 6,16,2,2,2,0
+THCS H,6A3,Toán 6,11,2,2,1,0
+THCS H,6A1,Ngữ văn 6,6,1,1,4,0
+THCS H,6A2,Ngữ văn 6,7,2,2,4,0
+THCS H,6A3,Ngữ văn 6,8,2,2,4,0
+THCS H,6A1,Tiếng Anh 6,10,0,0,0,0
+THCS H,6A2,Tiếng Anh 6,19,0,0,0,0
+THCS H,6A3,Tiếng Anh 6,13,1,1,0,0
+THCS H,6A1,KHTN 6,7,1,1,0,0
+THCS H,6A2,KHTN 6,7,1,1,0,0
+THCS H,6A3,KHTN 6,5,1,1,0,0
+THCS H,6A1,Lịch sử và Địa lí 6,13,0,0,0,0
+THCS H,6A2,Lịch sử và Địa lí 6,18,2,1,0,1
+THCS H,6A3,Lịch sử và Địa lí 6,13,0,0,0,0
+THCS H,6A1,GDCD 6,5,2,2,2,0
+THCS H,6A2,GDCD 6,4,0,0,2,0
+THCS H,6A3,GDCD 6,8,1,1,3,0
+THCS H,6A1,Tin học 6,17,3,3,0,0
+THCS H,6A2,Tin học 6,23,1,1,0,0
+THCS H,6A3,Tin học 6,16,3,3,0,0
+THCS H,6A1,Công nghệ 6,10,1,1,0,0
+THCS H,6A2,Công nghệ 6,24,6,6,0,0
+THCS H,6A3,Công nghệ 6,14,4,4,0,0
+THCS H,7A1,Toán 7,8,2,2,1,0
+THCS H,7A2,Toán 7,7,0,0,1,0
+THCS H,7A3,Toán 7,11,1,1,2,0
+THCS H,7A4,Toán 7,13,2,2,2,0
+THCS H,7A1,Ngữ văn 7,22,4,4,3,0
+THCS H,7A2,Ngữ văn 7,9,0,0,2,0
+THCS H,7A3,Ngữ văn 7,10,2,2,1,0
+THCS H,7A4,Ngữ văn 7,7,1,1,1,0
+THCS H,7A1,Tiếng Anh 7,15,2,2,2,0
+THCS H,7A2,Tiếng Anh 7,18,4,4,2,0
+THCS H,7A3,Tiếng Anh 7,10,0,0,1,0
+THCS H,7A4,Tiếng Anh 7,14,1,1,1,0
+THCS H,7A1,KHTN 7,4,1,1,0,0
+THCS H,7A2,KHTN 7,7,2,2,0,0
+THCS H,7A3,KHTN 7,5,0,0,0,0
+THCS H,7A4,KHTN 7,4,0,0,0,0
+THCS H,7A1,Lịch sử và Địa lí 7,6,2,2,0,0
+THCS H,7A2,Lịch sử và Địa lí 7,7,0,0,0,0
+THCS H,7A3,Lịch sử và Địa lí 7,3,0,0,0,0
+THCS H,7A4,Lịch sử và Địa lí 7,6,0,0,0,0
+THCS H,7A1,GDCD 7,14,1,1,0,0
+THCS H,7A2,GDCD 7,12,1,1,0,0
+THCS H,7A3,GDCD 7,6,2,2,0,0
+THCS H,7A4,GDCD 7,9,0,0,0,0
+THCS H,7A1,Tin học 7,11,1,1,2,0
+THCS H,7A2,Tin học 7,10,3,3,1,0
+THCS H,7A3,Tin học 7,11,2,2,2,0
+THCS H,7A4,Tin học 7,8,0,0,1,0
+THCS H,7A1,Công nghệ 7,5,0,0,2,0
+THCS H,7A2,Công nghệ 7,9,0,0,3,0
+THCS H,7A3,Công nghệ 7,5,0,0,2,0
+THCS H,7A4,Công nghệ 7,5,0,0,1,0
+THCS H,8A1,Toán 8,4,0,0,0,0
+THCS H,8A2,Toán 8,8,1,1,0,0
+THCS H,8A3,Toán 8,14,3,3,0,0
+THCS H,8A4,Toán 8,7,0,0,0,0
+THCS H,8A5,Toán 8,7,2,2,0,0
+THCS H,8A6,Toán 8,15,3,3,0,0
+THCS H,8A7,Toán 8,11,1,1,0,0
+THCS H,8A1,Ngữ văn 8,7,1,1,0,0
+THCS H,8A2,Ngữ văn 8,12,1,1,1,0
+THCS H,8A3,Ngữ văn 8,15,1,1,1,0
+THCS H,8A4,Ngữ văn 8,11,1,1,1,0
+THCS H,8A5,Ngữ văn 8,8,0,0,1,0
+THCS H,8A6,Ngữ văn 8,10,2,2,1,0
+THCS H,8A7,Ngữ văn 8,9,0,0,1,0
+THCS H,8A1,Tiếng Anh 8,10,2,2,0,0
+THCS H,8A2,Tiếng Anh 8,11,0,0,0,0
+THCS H,8A3,Tiếng Anh 8,11,1,1,0,0
+THCS H,8A4,Tiếng Anh 8,9,1,1,0,0
+THCS H,8A5,Tiếng Anh 8,13,2,2,0,0
+THCS H,8A6,Tiếng Anh 8,11,2,2,0,0
+THCS H,8A7,Tiếng Anh 8,11,1,1,0,0
+THCS H,8A1,KHTN 8,11,0,0,0,0
+THCS H,8A2,KHTN 8,9,1,1,0,0
+THCS H,8A3,KHTN 8,16,3,3,1,0
+THCS H,8A4,KHTN 8,12,0,0,1,0
+THCS H,8A5,KHTN 8,12,1,1,0,0
+THCS H,8A6,KHTN 8,13,1,1,1,0
+THCS H,8A7,KHTN 8,14,3,3,0,0
+THCS H,8A1,Lịch sử và Địa lí 8,8,0,0,0,0
+THCS H,8A2,Lịch sử và Địa lí 8,11,3,2,0,1
+THCS H,8A3,Lịch sử và Địa lí 8,13,2,1,0,1
+THCS H,8A4,Lịch sử và Địa lí 8,13,2,1,0,1
+THCS H,8A5,Lịch sử và Địa lí 8,11,0,0,0,0
+THCS H,8A6,Lịch sử và Địa lí 8,8,1,1,0,0
+THCS H,8A7,Lịch sử và Địa lí 8,12,4,2,0,2
+THCS H,8A1,GDCD 8,9,2,2,0,0
+THCS H,8A2,GDCD 8,8,3,3,0,0
+THCS H,8A3,GDCD 8,13,4,4,0,0
+THCS H,8A4,GDCD 8,13,1,1,0,0
+THCS H,8A5,GDCD 8,13,1,1,0,0
+THCS H,8A6,GDCD 8,10,1,1,0,0
+THCS H,8A7,GDCD 8,7,2,2,0,0
+THCS H,8A1,Tin học 8,16,4,4,1,0
+THCS H,8A2,Tin học 8,12,2,2,1,0
+THCS H,8A3,Tin học 8,11,1,1,1,0
+THCS H,8A4,Tin học 8,14,3,3,1,0
+THCS H,8A5,Tin học 8,18,0,0,1,0
+THCS H,8A6,Tin học 8,15,3,3,1,0
+THCS H,8A7,Tin học 8,12,1,1,1,0
+THCS H,8A1,Công nghệ 8,4,1,1,1,0
+THCS H,8A2,Công nghệ 8,4,0,0,2,0
+THCS H,8A3,Công nghệ 8,5,0,0,2,0
+THCS H,8A4,Công nghệ 8,6,0,0,3,0
+THCS H,8A5,Công nghệ 8,9,4,4,2,0
+THCS H,8A6,Công nghệ 8,3,1,1,1,0
+THCS H,8A7,Công nghệ 8,4,0,0,2,0
+THCS H,9A1,Toán 9,5,0,0,4,0
+THCS H,9A2,Toán 9,5,1,1,3,0
+THCS H,9A3,Toán 9,3,0,0,2,0
+THCS H,9A4,Toán 9,6,0,0,5,0
+THCS H,9A5,Toán 9,6,1,1,4,0
+THCS H,9A6,Toán 9,4,0,0,3,0
+THCS H,9A1,Ngữ văn 9,7,0,0,0,0
+THCS H,9A2,Ngữ văn 9,5,0,0,0,0
+THCS H,9A3,Ngữ văn 9,8,0,0,0,0
+THCS H,9A4,Ngữ văn 9,12,0,0,0,0
+THCS H,9A5,Ngữ văn 9,6,0,0,0,0
+THCS H,9A6,Ngữ văn 9,6,1,1,0,0
+THCS H,9A1,Tiếng Anh 9,14,2,2,0,0
+THCS H,9A2,Tiếng Anh 9,18,1,1,0,0
+THCS H,9A3,Tiếng Anh 9,9,0,0,0,0
+THCS H,9A4,Tiếng Anh 9,15,3,3,0,0
+THCS H,9A5,Tiếng Anh 9,15,1,1,0,0
+THCS H,9A6,Tiếng Anh 9,15,2,2,0,0
+THCS H,9A1,KHTN 9,10,3,3,1,0
+THCS H,9A2,KHTN 9,13,3,3,2,0
+THCS H,9A3,KHTN 9,10,3,3,1,0
+THCS H,9A4,KHTN 9,17,0,0,3,0
+THCS H,9A5,KHTN 9,8,0,0,2,0
+THCS H,9A6,KHTN 9,14,1,1,2,0
+THCS H,9A1,Lịch sử và Địa lí 9,5,3,2,0,1
+THCS H,9A2,Lịch sử và Địa lí 9,8,1,1,0,0
+THCS H,9A3,Lịch sử và Địa lí 9,4,1,0,0,1
+THCS H,9A4,Lịch sử và Địa lí 9,6,1,0,0,1
+THCS H,9A5,Lịch sử và Địa lí 9,3,0,0,0,0
+THCS H,9A6,Lịch sử và Địa lí 9,8,2,1,0,1
+THCS H,9A1,GDCD 9,13,0,0,0,0
+THCS H,9A2,GDCD 9,17,1,1,0,0
+THCS H,9A3,GDCD 9,8,1,1,0,0
+THCS H,9A4,GDCD 9,14,2,2,0,0
+THCS H,9A5,GDCD 9,13,2,2,0,0
+THCS H,9A6,GDCD 9,16,1,1,0,0
+THCS H,9A1,Tin học 9,10,1,1,0,0
+THCS H,9A2,Tin học 9,5,0,0,0,0
+THCS H,9A3,Tin học 9,4,0,0,0,0
+THCS H,9A4,Tin học 9,5,1,1,0,0
+THCS H,9A5,Tin học 9,11,0,0,0,0
+THCS H,9A6,Tin học 9,5,0,0,0,0
+THCS H,9A1,Công nghệ 9,13,2,2,3,0
+THCS H,9A2,Công nghệ 9,11,4,4,2,0
+THCS H,9A3,Công nghệ 9,13,0,0,3,0
+THCS H,9A4,Công nghệ 9,7,1,1,1,0
+THCS H,9A5,Công nghệ 9,12,2,2,2,0
+THCS H,9A6,Công nghệ 9,8,1,1,2,0

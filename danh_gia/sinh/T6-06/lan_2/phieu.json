@@ -1,0 +1,94 @@
+{
+  "tieu_de": "Bội chung. Bội chung nhỏ nhất",
+  "muc_tieu": [
+    "Biết thế nào là bội của một số và bội chung của hai hoặc ba số.",
+    "Tìm được bội chung nhỏ nhất (BCNN) của hai hoặc ba số tự nhiên.",
+    "Quy đồng mẫu số hai phân số bằng BCNN để thực hiện phép cộng, phép trừ đơn giản."
+  ],
+  "kien_thuc_cot_loi": [
+    "Định nghĩa bội: a là bội của b khi tồn tại số nguyên k sao cho a = b·k.",
+    "Bội chung của các số là số chia hết cho từng số đó.",
+    "BCNN là bội chung dương nhỏ nhất khác 0; có thể tìm bằng phân tích thừa số nguyên tố hoặc bằng bcnn(a, b, ...).",
+    "Quy đồng mẫu số hai phân số bằng cách lấy mẫu số chung là BCNN của các mẫu số.",
+    "Thực hiện cộng hoặc trừ sau khi quy đồng mẫu số, rồi rút gọn nếu cần."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tìm BCNN của 8 và 12.",
+      "loi_giai": "Phân tích: 8 = 2³, 12 = 2²·3. Lấy lũy thừa lớn nhất của từng thừa số: 2³·3 = 8·3 = 24. Vậy BCNN(8, 12) = 24."
+    },
+    {
+      "de_bai": "Tính 1/3 + 1/6 bằng cách quy đồng mẫu số.",
+      "loi_giai": "Mẫu số chung nhỏ nhất của 3 và 6 là 6. Viết 1/3 = 2/6, nên 1/3 + 1/6 = 2/6 + 1/6 = 3/6 = 1/2 sau khi rút gọn."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-06.1"
+      ],
+      "de_bai": "Tìm bội chung nhỏ nhất của 4 và 6.",
+      "loi_giai": "Phân tích: 4 = 2², 6 = 2·3. Lấy 2²·3 = 4·3 = 12. Vậy BCNN(4, 6) = 12.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "bcnn(4,6)",
+      "dap_an": "12"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-06.1"
+      ],
+      "de_bai": "Tìm bội chung nhỏ nhất của 6, 8 và 15.",
+      "loi_giai": "Phân tích: 6 = 2·3, 8 = 2³, 15 = 3·5. Lấy 2³·3·5 = 8·3·5 = 120. Vậy BCNN(6,8,15) = 120.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "bcnn(6,8,15)",
+      "dap_an": "120"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-06.2"
+      ],
+      "de_bai": "Tính 1/3 + 1/6 bằng cách quy đồng mẫu số với BCNN.",
+      "loi_giai": "Mẫu số chung nhỏ nhất của 3 và 6 là 6. Viết 1/3 = 2/6, nên 2/6 + 1/6 = 3/6 = 1/2 sau khi rút gọn.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "phan_so(1,3)+phan_so(1,6)",
+      "dap_an": "1/2"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-06.2"
+      ],
+      "de_bai": "Tính 5/12 − 1/3 bằng cách quy đồng mẫu số với BCNN.",
+      "loi_giai": "Mẫu số chung nhỏ nhất của 12 và 3 là 12. Viết 1/3 = 4/12, nên 5/12 − 4/12 = 1/12.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "phan_so(5,12)-phan_so(1,3)",
+      "dap_an": "1/12"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-06.1"
+      ],
+      "de_bai": "Hai loại hộp bút bán theo hộp có 12 cây và 15 cây. Hỏi phải mua ít nhất bao nhiêu cây bút để số cây chia đều cho cả hai loại hộp?",
+      "loi_giai": "Số cây cần mua là BCNN(12, 15). Ta có BCNN = 60, nên phải mua ít nhất 60 cây.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "bcnn(12,15)",
+      "dap_an": "60"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-06.2",
+        "T6-06.1"
+      ],
+      "de_bai": "Một cái bánh. Bạn A ăn 1/3 chiếc, bạn B ăn 1/4 chiếc. Hỏi phần bánh còn lại là bao nhiêu phần (tối giản)?",
+      "loi_giai": "Tổng phần đã ăn là 1/3 + 1/4 = 7/12, nên phần còn lại là 1 − 7/12 = 5/12.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "phan_so(1,1)-(phan_so(1,3)+phan_so(1,4))",
+      "dap_an": "5/12"
+    }
+  ]
+}

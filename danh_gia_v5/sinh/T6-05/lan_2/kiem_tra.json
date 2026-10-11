@@ -1,0 +1,103 @@
+{
+  "lesson": "T6-05",
+  "model": "gpt-5-mini",
+  "prompt_version": "2026-10-07.4",
+  "cross_check": true,
+  "max_rounds": 2,
+  "calls": 2,
+  "input_tokens": 1533,
+  "output_tokens": 2565,
+  "seconds": 29.68,
+  "doc_lap": {
+    "B1": "ucln(12,18)",
+    "B2": "ucln(24,36,60)",
+    "B3": "phan_so(18,24)",
+    "B4": "ucln(150,210)",
+    "B5": "ucln(96,160)",
+    "B6": "phan_so(210,462)"
+  },
+  "doc_lai_tho": [
+    {
+      "hoi": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6"
+      ],
+      "tra_loi": [
+        {
+          "id": "B1",
+          "bieu_thuc": "ucln(12,18)"
+        },
+        {
+          "id": "B2",
+          "bieu_thuc": "ucln(24,36,60)"
+        },
+        {
+          "id": "B3",
+          "bieu_thuc": "phan_so(18,24)"
+        },
+        {
+          "id": "B4",
+          "bieu_thuc": "ucln(150,210)"
+        },
+        {
+          "id": "B5",
+          "bieu_thuc": "ucln(96,160)"
+        },
+        {
+          "id": "B6",
+          "bieu_thuc": "phan_so(210,462)"
+        }
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "summary": "6/6 bài tập đạt",
+      "passed": true,
+      "missing": [],
+      "structure_errors": [],
+      "items": [
+        {
+          "id": "B1",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B3",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B6",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

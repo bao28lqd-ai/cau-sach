@@ -1,0 +1,147 @@
+{
+  "lesson": "T6-07",
+  "model": "gpt-5-mini",
+  "prompt_version": "2026-10-07.4",
+  "cross_check": true,
+  "max_rounds": 2,
+  "calls": 3,
+  "input_tokens": 2545,
+  "output_tokens": 3265,
+  "seconds": 25.7,
+  "doc_lap": {
+    "B1": "-3 + 7",
+    "B2": "5 - ( -8 )",
+    "B3": "(-12 + 4) + 9",
+    "B4": "-7 + -2 + 9",
+    "B5": "30000 - 12000",
+    "B6": "-4 + 7 - 3"
+  },
+  "doc_lai_tho": [
+    {
+      "hoi": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6"
+      ],
+      "tra_loi": [
+        {
+          "id": "B1",
+          "bieu_thuc": "-3 + 7"
+        },
+        {
+          "id": "B2",
+          "bieu_thuc": "5 - ( -8 )"
+        },
+        {
+          "id": "B3",
+          "bieu_thuc": "(-12 + 4) + 9"
+        },
+        {
+          "id": "B4",
+          "bieu_thuc": "-7 + -2 + 9"
+        },
+        {
+          "id": "B5",
+          "bieu_thuc": "30000 - 12000"
+        },
+        {
+          "id": "B6",
+          "bieu_thuc": "-4 + 7 - 3"
+        }
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "summary": "5/6 bài tập đạt",
+      "passed": false,
+      "missing": [],
+      "structure_errors": [],
+      "items": [
+        {
+          "id": "B1",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B3",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "khong_khop_de",
+          "message": "đọc lại đề được 30000 - 12000 = 18000, khác với -30000+12000 = -18000",
+          "note": ""
+        },
+        {
+          "id": "B6",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "summary": "6/6 bài tập đạt",
+      "passed": true,
+      "missing": [],
+      "structure_errors": [],
+      "items": [
+        {
+          "id": "B1",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B3",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B6",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "tieu_de": "Số nguyên tố và phân tích thừa số nguyên tố",
+  "muc_tieu": [
+    "Biết khái niệm số nguyên tố và hợp số.",
+    "Nhận biết một số là nguyên tố hay hợp số trong các trường hợp đơn giản.",
+    "Phân tích một số tự nhiên > 1 thành tích các thừa số nguyên tố trong các trường hợp đơn giản."
+  ],
+  "kien_thuc_cot_loi": [
+    "Số nguyên tố là số > 1 chỉ có hai ước dương là 1 và chính nó.",
+    "Hợp số là số > 1 có nhiều hơn hai ước dương.",
+    "Cách kiểm tra chia hết cho số nhỏ: 2, 3, 5, 7.",
+    "Phương pháp phân tích: chia liên tiếp cho các số nguyên tố nhỏ nhất.",
+    "Viết kết quả phân tích dưới dạng tích các thừa số nguyên tố; nhóm thừa số giống nhau và viết dưới dạng lũy thừa."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Kiểm tra xem 17 là số nguyên tố hay hợp số.",
+      "loi_giai": "Chia 17 cho các số nguyên tố nhỏ hơn: 2 không chia hết, 3 không chia hết, 5 không chia hết. Không có ước ngoài 1 và 17 nên 17 là số nguyên tố. Nếu ghi 1 cho nguyên tố và 0 cho hợp số thì đáp án là 1."
+    },
+    {
+      "de_bai": "Phân tích 84 thành tích các thừa số nguyên tố.",
+      "loi_giai": "84 : 2 = 42. 42 : 2 = 21. 21 : 3 = 7. 7 là số nguyên tố. Vậy 84 = 2·2·3·7 = 2²·3·7."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-04.1"
+      ],
+      "de_bai": "Cho số 19. Nếu là số nguyên tố thì ghi 1, nếu là hợp số thì ghi 0. Hỏi ghi bao nhiêu?",
+      "loi_giai": "Kiểm tra các ước nhỏ: 2, 3, 5 không chia hết 19. Không có ước khác ngoài 1 và 19 nên 19 là số nguyên tố. Ghi 1.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "1",
+      "dap_an": "1"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-04.1"
+      ],
+      "de_bai": "Cho số 21. Nếu là số nguyên tố thì ghi 1, nếu là hợp số thì ghi 0. Hỏi ghi bao nhiêu?",
+      "loi_giai": "21 chia hết cho 3 vì 2+1=3. Vậy 21 có ước khác 1 và 21 nên là hợp số. Ghi 0.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "0",
+      "dap_an": "0"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-04.2"
+      ],
+      "de_bai": "Phân tích 60 thành tích các thừa số nguyên tố.",
+      "loi_giai": "60 : 2 = 30; 30 : 2 = 15; 15 : 3 = 5; 5 là số nguyên tố. Vậy 60 = 2·2·3·5 = 2²·3·5.",
+      "kieu": "phan_tich_nguyen_to",
+      "bieu_thuc": "60",
+      "dap_an": "2**2*3*5"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-04.2"
+      ],
+      "de_bai": "Phân tích 231 thành tích các thừa số nguyên tố.",
+      "loi_giai": "231 : 3 = 77; 77 : 7 = 11; 11 là số nguyên tố. Vậy 231 = 3·7·11.",
+      "kieu": "phan_tich_nguyen_to",
+      "bieu_thuc": "231",
+      "dap_an": "3*7*11"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-04.1",
+        "T6-04.2"
+      ],
+      "de_bai": "Một gói kẹo có 150 viên. Muốn chia thành các túi bằng nhau sao cho số viên trong mỗi túi là một số nguyên tố lớn nhất có thể. Hỏi mỗi túi có bao nhiêu viên?",
+      "loi_giai": "Phân tích 150 = 2·3·5·5. Các ước nguyên tố là 2, 3, 5. Số nguyên tố lớn nhất chia được cho 150 là 5. Vậy mỗi túi có 5 viên.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "150/(2*3*5)",
+      "dap_an": "5"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-04.1",
+        "T6-04.2"
+      ],
+      "de_bai": "Cửa hàng có 210 áo. Muốn đóng vào các thùng đều nhau sao cho mỗi thùng có số áo là một số nguyên tố lớn nhất có thể. Hỏi mỗi thùng có bao nhiêu áo?",
+      "loi_giai": "Phân tích 210 = 2·3·5·7. Các ước nguyên tố là 2, 3, 5, 7. Số nguyên tố lớn nhất chia được cho 210 là 7. Vậy mỗi thùng có 7 áo.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "210/(2*3*5)",
+      "dap_an": "7"
+    }
+  ]
+}

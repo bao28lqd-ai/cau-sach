@@ -1,0 +1,94 @@
+{
+  "tieu_de": "Phép cộng và phép trừ số nguyên",
+  "muc_tieu": [
+    "Thực hiện đúng các phép cộng và phép trừ trong tập hợp số nguyên.",
+    "Vận dụng tính chất giao hoán, kết hợp và quy tắc dấu ngoặc để tính nhanh các biểu thức với số nguyên."
+  ],
+  "kien_thuc_cot_loi": [
+    "Hiểu quy tắc cộng hai số nguyên cùng dấu và khác dấu.",
+    "Hiểu quy tắc trừ số nguyên (a - b = a + (-b)).",
+    "Biết áp dụng tính chất giao hoán và kết hợp của phép cộng để đổi thứ tự hoặc nhóm các số nhằm tính thuận tiện.",
+    "Biết sử dụng dấu ngoặc để thay đổi thứ tự tính và ghi lại biểu thức tương đương."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính nhanh: (-7) + 12 - 5.",
+      "loi_giai": "Viết lại phép trừ dưới dạng cộng số đối: (-7) + 12 + (-5). Nhóm thuận tiện: 12 + (-5) = 7, rồi (-7) + 7 = 0. Vậy kết quả bằng 0."
+    },
+    {
+      "de_bai": "Tính: 8 + (-3) + (-5) bằng cách dùng tính kết hợp.",
+      "loi_giai": "Nhóm các số âm: (-3) + (-5) = -8. Rồi 8 + (-8) = 0. Vậy kết quả bằng 0."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-07.1"
+      ],
+      "de_bai": "Tính giá trị của phép tính: 9 + (-4).",
+      "loi_giai": "Cùng dấu hay khác dấu? 9 và -4 khác dấu; lấy hiệu 9 - 4 = 5 và giữ dấu của số lớn hơn về trị tuyệt đối là 9 (dương). Vậy kết quả là 5.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "9+(-4)",
+      "dap_an": "5"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-07.1"
+      ],
+      "de_bai": "Tính: -15 - (-6).",
+      "loi_giai": "Đổi phép trừ thành cộng số đối: -15 + 6 = -9.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "-15+6",
+      "dap_an": "-9"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-07.1",
+        "T6-07.2"
+      ],
+      "de_bai": "Tính nhanh bằng cách nhóm hợp lí: (-7) + 5 + (-3).",
+      "loi_giai": "Nhóm 5 + (-3) = 2, rồi (-7) + 2 = -5. Vậy kết quả là -5.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "(-7)+5+(-3)",
+      "dap_an": "-5"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-07.1",
+        "T6-07.2"
+      ],
+      "de_bai": "Dùng tính giao hoán để tính nhanh: 12 + (-9) + (-3).",
+      "loi_giai": "Nhóm (-9) + (-3) = -12, rồi 12 + (-12) = 0. Vậy kết quả là 0.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "12+(-9)+(-3)",
+      "dap_an": "0"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-07.1"
+      ],
+      "de_bai": "Một cửa hàng giảm giá 150 000 đồng cho một mặt hàng có giá gốc 950 000 đồng. Viết phép tính để tìm số tiền còn phải trả và tính kết quả (lấy giá âm cho giảm giá).",
+      "loi_giai": "Số tiền phải trả = 950 000 + (-150 000) = 800 000 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "950000+(-150000)",
+      "dap_an": "800000"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-07.1",
+        "T6-07.2"
+      ],
+      "de_bai": "Trong một tuần, tiền quỹ lớp thay đổi như sau (dùng số dương cho tiền thu, số âm cho chi): +120 000; -45 000; -30 000; +15 000. Hỏi quỹ lớp thay đổi tổng cộng bao nhiêu trong tuần?",
+      "loi_giai": "Cộng lần lượt: 120 000 + (-45 000) + (-30 000) + 15 000. Nhóm (-45 000) + (-30 000) = -75 000; rồi 120 000 + (-75 000) = 45 000; 45 000 + 15 000 = 60 000. Vậy quỹ tăng 60 000 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "120000+(-45000)+(-30000)+15000",
+      "dap_an": "60000"
+    }
+  ]
+}

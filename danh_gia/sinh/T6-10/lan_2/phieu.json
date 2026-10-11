@@ -1,0 +1,94 @@
+{
+  "tieu_de": "Số thập phân, làm tròn và tỉ số phần trăm",
+  "muc_tieu": [
+    "Thực hiện phép cộng, trừ, nhân, chia với số thập phân đơn giản.",
+    "Làm tròn số thập phân đến hàng cho trước.",
+    "Tính tỉ số và tỉ số phần trăm giữa hai số."
+  ],
+  "kien_thuc_cot_loi": [
+    "Cách viết và đọc số thập phân; quy tắc đặt dấu phẩy.",
+    "Quy tắc nhân, chia, cộng, trừ số thập phân: đưa về phép tính với số nguyên rồi đặt dấu phẩy.",
+    "Nguyên tắc làm tròn: xét chữ số kế vị; làm tròn lên nếu ≥5, xuống nếu <5.",
+    "Tỉ số a:b là a:b; tỉ số phần trăm là (a/b)·100%.",
+    "Biểu diễn tỉ số phần trăm dưới dạng số hoặc phần trăm và chuyển đổi giữa chúng."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính 2,5 · 3,2 và ghi đáp án dưới dạng số thập phân.",
+      "loi_giai": "2,5 · 3,2 = 2,5 · 3 + 2,5 · 0,2 = 7,5 + 0,5 = 8,0. Đáp án là 8,0 (có thể viết là 8)."
+    },
+    {
+      "de_bai": "Một lớp có 12 nam và 8 nữ. Hỏi tỉ số phần trăm học sinh nam trong lớp.",
+      "loi_giai": "Tổng = 12 + 8 = 20. Tỉ số phần trăm nam = 12/20 · 100% = 0,6 · 100% = 60%."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-10.1"
+      ],
+      "de_bai": "Tính 3,5 + 2,75.",
+      "loi_giai": "3,5 + 2,75 = 6,25.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "3.5+2.75",
+      "dap_an": "6.25"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-10.1"
+      ],
+      "de_bai": "Tính 0,25 · 8.",
+      "loi_giai": "0,25 · 8 = 2,00 nên đáp án là 2.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "0.25*8",
+      "dap_an": "2"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-10.1"
+      ],
+      "de_bai": "Tính 7,5 : 0,5.",
+      "loi_giai": "7,5 : 0,5 = 7,5 : 0,5 = 15.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "7.5/0.5",
+      "dap_an": "15"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-10.2"
+      ],
+      "de_bai": "Làm tròn 12,678 đến một chữ số sau dấu phẩy.",
+      "loi_giai": "Xét chữ số thứ hai sau dấu phẩy là 7 ≥ 5 nên làm tròn lên: 12,678 ≈ 12,7.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "lam_tron(12.678,1)",
+      "dap_an": "12.7"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-10.1",
+        "T6-10.3"
+      ],
+      "de_bai": "Một chiếc áo giá 150 000 đồng được giảm 12,5%. Hỏi số tiền được giảm là bao nhiêu đồng?",
+      "loi_giai": "Số tiền giảm = 150 000 · 12,5% = 150 000 · 12,5/100 = 18 750 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "150000*12.5/100",
+      "dap_an": "18750"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-10.3"
+      ],
+      "de_bai": "Lớp có 30 học sinh, trong đó 18 bạn là nam. Hỏi tỉ số phần trăm học sinh nam trong lớp.",
+      "loi_giai": "Tỉ số phần trăm nam = 18/30 · 100% = 0,6 · 100% = 60%.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "18/30*100",
+      "dap_an": "60"
+    }
+  ]
+}

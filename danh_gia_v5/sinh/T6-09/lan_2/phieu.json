@@ -1,0 +1,94 @@
+{
+  "tieu_de": "Các phép tính với phân số",
+  "muc_tieu": [
+    "Thực hiện được phép cộng, trừ, nhân, chia hai phân số.",
+    "Tính được một phần (phần bằng phân số) của một số cho trước.",
+    "Tìm một số khi biết giá trị của một phân số của số đó."
+  ],
+  "kien_thuc_cot_loi": [
+    "Quy đồng mẫu số để cộng và trừ phân số.",
+    "Quy tắc nhân phân số: nhân tử số với tử số, mẫu số với mẫu số, rồi rút gọn.",
+    "Quy tắc chia phân số: chia bằng nhân với nghịch đảo.",
+    "Tính một phân số của một số: nhân phân số với số đó.",
+    "Tìm số khi biết giá trị phân số: chia giá trị cho phân số (nhân với nghịch đảo)."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính 2/3 + 1/6.",
+      "loi_giai": "Quy đồng mẫu số: 2/3 = 4/6. 4/6 + 1/6 = 5/6. Đáp số 5/6."
+    },
+    {
+      "de_bai": "Một túi đường nặng 12 kg. Hỏi 3/4 túi đường nặng bao nhiêu kg?",
+      "loi_giai": "Ta tính 3/4 của 12: 12 · 3/4 = 12 : 4 · 3 = 3 · 3 = 9. Đáp số 9 kg."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-09.1"
+      ],
+      "de_bai": "Tính 5/8 + 1/4.",
+      "loi_giai": "Quy đồng mẫu số: 1/4 = 2/8. 5/8 + 2/8 = 7/8. Đáp 7/8.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "(5/8)+(1/4)",
+      "dap_an": "7/8"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-09.1"
+      ],
+      "de_bai": "Tính 7/5 - 3/10.",
+      "loi_giai": "Quy đồng mẫu số: 7/5 = 14/10. 14/10 - 3/10 = 11/10. Đáp 11/10.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "(7/5)-(3/10)",
+      "dap_an": "11/10"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-09.1",
+        "T6-09.2"
+      ],
+      "de_bai": "Tính 3/7 của 28.",
+      "loi_giai": "Ta lấy 28 · 3/7 = 28 : 7 · 3 = 4 · 3 = 12. Đáp 12.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "28*(3/7)",
+      "dap_an": "12"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-09.1"
+      ],
+      "de_bai": "Tính (5/6) : (2/9).",
+      "loi_giai": "Chia hai phân số bằng nhân với nghịch đảo: 5/6 · 9/2 = (5·9)/(6·2) = 45/12 = 15/4 sau rút gọn. Đáp 15/4.",
+      "kieu": "phan_so_toi_gian",
+      "bieu_thuc": "(5/6)/(2/9)",
+      "dap_an": "15/4"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-09.2"
+      ],
+      "de_bai": "Một cửa hàng bán gạo giá 25 000 đồng/kg. Hỏi 3/4 kg gạo có giá bao nhiêu đồng?",
+      "loi_giai": "Giá 3/4 kg = 25 000 · 3/4 = 25 000 : 4 · 3 = 6 250 · 3 = 18 750 đồng. Đáp 18 750 đồng.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "25000*(3/4)",
+      "dap_an": "18750"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-09.2"
+      ],
+      "de_bai": "Trong một lớp, 3/5 số học sinh là nữ. Biết có 18 học sinh nữ. Hỏi lớp có bao nhiêu học sinh?",
+      "loi_giai": "Gọi tổng số học sinh là x. Ta có x · 3/5 = 18 nên x = 18 : (3/5) = 18 · 5/3 = 6 · 5 = 30. Đáp 30 học sinh.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "18/(3/5)",
+      "dap_an": "30"
+    }
+  ]
+}

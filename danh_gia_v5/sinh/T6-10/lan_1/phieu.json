@@ -1,0 +1,94 @@
+{
+  "tieu_de": "Số thập phân, làm tròn và tỉ số phần trăm",
+  "muc_tieu": [
+    "Thực hiện phép cộng, trừ, nhân, chia với số thập phân đúng và có thứ tự hợp lí.",
+    "Làm tròn số thập phân đến hàng nhất định (ví dụ: hàng chục, hàng đơn vị, hàng phần mười).",
+    "Tính tỉ số giữa hai số và chuyển tỉ số đó thành phần trăm."
+  ],
+  "kien_thuc_cot_loi": [
+    "Cộng, trừ, nhân, chia các số thập phân: đặt dấu phẩy thẳng cột khi cộng, trừ; nhân, chia tuân theo quy tắc về số chữ số thập phân.",
+    "Quy tắc làm tròn: nhìn chữ số bên phải vị trí cần làm tròn (≥5 tăng, <5 giữ).",
+    "Chuyển tỉ số a:b sang phần trăm bằng (a/b)·100.",
+    "Viết và đọc số thập phân (dùng dấu phẩy).",
+    "Kiểm tra kết quả bằng ước số chung hoặc bằng nhân chia ngược đơn giản."
+  ],
+  "vi_du": [
+    {
+      "de_bai": "Tính 3,5 + 2,75 và làm tròn kết quả đến phần mười.",
+      "loi_giai": "Cộng 3,5 + 2,75 = 6,25. Làm tròn đến phần mười: chữ số thứ hai sau dấu phẩy là 5 nên tăng chữ số phần mười 2 lên 3. Kết quả làm tròn là 6,3."
+    },
+    {
+      "de_bai": "Trong một lớp có 14 bạn nam và 11 bạn nữ. Tính tỉ số phần trăm bạn nữ trong lớp.",
+      "loi_giai": "Tổng học sinh = 14 + 11 = 25. Tỉ số phần trăm bạn nữ = 11 : 25 = 11/25 = 0,44 = 0,44·100 = 44%. Vậy 44% học sinh là nữ."
+    }
+  ],
+  "bai_tap": [
+    {
+      "id": "B1",
+      "yccd": [
+        "T6-10.1"
+      ],
+      "de_bai": "Tính 7,25 + 3,6.",
+      "loi_giai": "Đặt thẳng cột chữ số sau dấu phẩy: 7,25 + 3,60 = 10,85. Kết quả là 10,85.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "7.25+3.6",
+      "dap_an": "10.85"
+    },
+    {
+      "id": "B2",
+      "yccd": [
+        "T6-10.1"
+      ],
+      "de_bai": "Tính 12,4 · 3.",
+      "loi_giai": "Nhân 12,4 với 3 cho 37,2. Kết quả là 37,2.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "12.4*3",
+      "dap_an": "37.2"
+    },
+    {
+      "id": "B3",
+      "yccd": [
+        "T6-10.1"
+      ],
+      "de_bai": "Tính 9,6 : 0,8.",
+      "loi_giai": "Chia 9,6 cho 0,8; 9,6 : 0,8 = 12. Kết quả là 12.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "9.6/0.8",
+      "dap_an": "12"
+    },
+    {
+      "id": "B4",
+      "yccd": [
+        "T6-10.2"
+      ],
+      "de_bai": "Làm tròn số 154,678 đến hàng phần mười.",
+      "loi_giai": "Xem chữ số ở hàng phần trăm là 8 (≥5) nên tăng chữ số phần mười 6 lên 7. Kết quả làm tròn là 154,7.",
+      "kieu": "gia_tri",
+      "bieu_thuc": "lam_tron(154.678,1)",
+      "dap_an": "154.7"
+    },
+    {
+      "id": "B5",
+      "yccd": [
+        "T6-10.2",
+        "T6-10.3"
+      ],
+      "de_bai": "Một chiếc áo có giá 150 000 đồng. Hãng khuyến mãi giảm 12% trên giá bán. Hỏi số tiền được giảm là bao nhiêu đồng?",
+      "loi_giai": "Số tiền giảm = 150 000 · 12% = 150 000 · 12/100 = 18 000 đồng. Kết quả là 18 000.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "150000*12/100",
+      "dap_an": "18000"
+    },
+    {
+      "id": "B6",
+      "yccd": [
+        "T6-10.2"
+      ],
+      "de_bai": "Trong một lớp có 17 bạn nữ và 13 bạn nam. Tính phần trăm số bạn nữ trong lớp (làm tròn đến số nguyên phần trăm).",
+      "loi_giai": "Tổng số bạn trong lớp là 17 + 13 = 30. Phần trăm bạn nữ là 17:30 · 100 = 56,666...%. Làm tròn đến số nguyên phần trăm ta được 57%.",
+      "kieu": "so_nguyen",
+      "bieu_thuc": "lam_tron(17/30*100,0)",
+      "dap_an": "57"
+    }
+  ]
+}

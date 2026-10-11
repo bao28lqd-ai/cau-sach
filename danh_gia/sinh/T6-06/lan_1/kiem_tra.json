@@ -1,0 +1,65 @@
+{
+  "lesson": "T6-06",
+  "model": "gpt-5-mini",
+  "prompt_version": "2026-10-07.3",
+  "cross_check": true,
+  "max_rounds": 2,
+  "calls": 2,
+  "input_tokens": 1518,
+  "output_tokens": 2751,
+  "seconds": 27.43,
+  "doc_lap": {
+    "B1": "bcnn(6,8)",
+    "B2": "bcnn(6,8)",
+    "B3": "bcnn(9,12)",
+    "B4": "phan_so(3*bcnn(8,6)/8 + 1*bcnn(8,6)/6, bcnn(8,6))",
+    "B5": "phan_so(7*bcnn(15,6)/15 - 1*bcnn(15,6)/6, bcnn(15,6))",
+    "B6": "bcnn(12,18)"
+  },
+  "rounds": [
+    {
+      "summary": "6/6 bài tập đạt",
+      "passed": true,
+      "missing": [],
+      "structure_errors": [],
+      "items": [
+        {
+          "id": "B1",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B2",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B3",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B4",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B5",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        },
+        {
+          "id": "B6",
+          "status": "dat",
+          "message": "",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}
